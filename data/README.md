@@ -1,1 +1,0 @@
-# campanian-ignimbrite-geo

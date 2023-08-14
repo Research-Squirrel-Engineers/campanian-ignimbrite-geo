@@ -1,0 +1,897 @@
+# create triples from https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo 
+# on 2023-08-14 13:16
+
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix geosparql: <http://www.opengis.net/ont/geosparql#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix sf: <http://www.opengis.net/ont/sf#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix pleiades: <https://pleiades.stoa.org/places/vocab#> .
+@prefix wikidata: <http://wikidata.org/entity/> .
+@prefix osmn: <http://openopenstreetmap.org/node/> .
+@prefix osmr: <http://openopenstreetmap.org/relation/> .
+@prefix osmw: <http://openopenstreetmap.org/way/> .
+@prefix fsl: <http://archaeoinformatics.link/ontology#> .
+@prefix fsld: <http://fuzzy-sl.squirrel.link/data/> .
+
+fsld:agent_0000-0002-3246-3531 rdf:type foaf:Person .
+fsld:agent_0000-0002-3246-3531 rdf:type prov:Agent .
+fsld:agent_0000-0002-3246-3531 skos:exactMatch <http://orcid.org/0000-0002-3246-3531>.
+fsld:cisite_5 rdf:type fsl:Site .
+fsld:cisite_5 rdf:type prov:Entity .
+fsld:cisite_5 rdf:type pleiades:Place .
+fsld:cisite_5 fsl:partOf fsl:CampanianIgnimbriteProject .
+fsld:cisite_5 fsl:siteType fsl:ArchaeologicalSite .
+fsld:cisite_5 rdfs:label 'Castelcivita Cave'@en.
+fsld:cisite_5 skos:prefLabel 'Castelcivita Cave'@en.
+fsld:cisite_5 skos:scopeNote 'CI findspot related from literature'@en.
+fsld:cisite_5 rdfs:comment 'CI findspot related from literature'@en.
+fsld:cisite_5 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
+fsld:cisite_5 fsl:certaintyLevel fsl:high.
+fsld:cisite_5 fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_5 skos:closeMatch <http://wikidata.org/entity/Q3777120>.
+fsld:cisite_5 skos:closeMatch <http://openstreetmap.org/node/337519639>.
+fsld:cisite_5 fsl:spatialType fsl:Cave.
+fsld:cisite_5 fsl:hasReference 'Fedele et al., 2008'.
+fsld:cisite_5 fsl:hasReference 'Giaccio et al., 2008'.
+fsld:cisite_5 geosparql:hasGeometry fsld:cisite_5_geom .
+fsld:cisite_5_geom rdf:type sf:Point .
+fsld:cisite_5_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(15.2092 40.4956)"^^geosparql:wktLiteral.
+fsld:cisite_5_geom fsl:certaintyLevel fsl:high.
+fsld:cisite_5_geom fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_5_activity rdf:type prov:Activity .
+fsld:cisite_5_activity rdf:type fsl:Georeferencing.
+fsld:cisite_5_activity prov:startedAtTime '2023-08-14T13:16:26.837949Z'^^xsd:dateTime .
+fsld:cisite_5_activity prov:endedAtTime '2023-08-14T13:16:26.854297Z'^^xsd:dateTime .
+fsld:cisite_5_activity fsl:hasSource fsl:PaperDesc.
+fsld:cisite_5_activity fsl:hasSourceType fsl:Paper.
+fsld:cisite_5_activity fsl:hasReference 'Fedele et al., 2008'.
+fsld:cisite_5_activity fsl:hasReference 'Giaccio et al., 2008'.
+fsld:cisite_5_activity fsl:activityDesc 'set a representative point based on scientific papers using OSM Node 337519639'@en.
+fsld:cisite_5_activity fsl:certaintyLevel fsl:high.
+fsld:cisite_5_activity fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_5 prov:wasGeneratedBy fsld:cisite_5_activity.
+fsld:cisite_5_activity prov:used fsld:cisite_5.
+fsld:cisite_5 prov:wasAttributedTo <http://orcid.org/0000-0002-3246-3531>.
+fsld:cisite_5_activity prov:wasAssociatedWith <http://orcid.org/0000-0002-3246-3531>.
+fsld:cisite_5 dct:license <https://creativecommons.org/licenses/by/4.0/> .
+fsld:cisite_5 dct:creator <https://orcid.org/0000-0002-3246-3531> .
+fsld:cisite_5 dct:creator <https://orcid.org/0000-0003-1100-6494> .
+fsld:cisite_5 dct:rightsHolder <https://orcid.org/0000-0002-3246-3531> .
+fsld:cisite_5 dct:rightsHolder <https://orcid.org/0000-0003-1100-6494> .
+fsld:cisite_5 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+fsld:cisite_5 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
+fsld:cisite_5 prov:wasGeneratedBy fsld:cisite_5_pyscript .
+fsld:cisite_5_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
+fsld:cisite_5_pyscript prov:startedAtTime '2023-08-14T13:16:26.837949Z'^^xsd:dateTime .
+fsld:cisite_5_pyscript prov:endedAtTime '2023-08-14T13:16:26.855294Z'^^xsd:dateTime .
+fsld:cisite_5_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+
+fsld:agent_0000-0002-3246-3531 rdf:type foaf:Person .
+fsld:agent_0000-0002-3246-3531 rdf:type prov:Agent .
+fsld:agent_0000-0002-3246-3531 skos:exactMatch <http://orcid.org/0000-0002-3246-3531>.
+fsld:cisite_6 rdf:type fsl:Site .
+fsld:cisite_6 rdf:type prov:Entity .
+fsld:cisite_6 rdf:type pleiades:Place .
+fsld:cisite_6 fsl:partOf fsl:CampanianIgnimbriteProject .
+fsld:cisite_6 fsl:siteType fsl:ArchaeologicalSite .
+fsld:cisite_6 rdfs:label 'Copecchia'@en.
+fsld:cisite_6 skos:prefLabel 'Copecchia'@en.
+fsld:cisite_6 skos:scopeNote 'CI findspot related from literature'@en.
+fsld:cisite_6 rdfs:comment 'CI findspot related from literature'@en.
+fsld:cisite_6 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
+fsld:cisite_6 fsl:certaintyLevel fsl:medium.
+fsld:cisite_6 fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_6 skos:closeMatch <http://wikidata.org/entity/Q3690987>.
+fsld:cisite_6 skos:closeMatch <http://openstreetmap.org/node/4371325110>.
+fsld:cisite_6 fsl:spatialType fsl:UnknownCategory.
+fsld:cisite_6 fsl:hasReference 'Rosi et al., 1999'.
+fsld:cisite_6 geosparql:hasGeometry fsld:cisite_6_geom .
+fsld:cisite_6_geom rdf:type sf:Point .
+fsld:cisite_6_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(14.7662 40.7198)"^^geosparql:wktLiteral.
+fsld:cisite_6_geom fsl:certaintyLevel fsl:medium.
+fsld:cisite_6_geom fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_6_activity rdf:type prov:Activity .
+fsld:cisite_6_activity rdf:type fsl:Georeferencing.
+fsld:cisite_6_activity prov:startedAtTime '2023-08-14T13:16:26.837949Z'^^xsd:dateTime .
+fsld:cisite_6_activity prov:endedAtTime '2023-08-14T13:16:26.855294Z'^^xsd:dateTime .
+fsld:cisite_6_activity fsl:hasSource fsl:PaperDesc.
+fsld:cisite_6_activity fsl:hasSourceType fsl:Paper.
+fsld:cisite_6_activity fsl:hasReference 'Rosi et al., 1999'.
+fsld:cisite_6_activity fsl:activityDesc 'set a representative point based on scientific papers using OSM Node 4371325110'@en.
+fsld:cisite_6_activity fsl:certaintyLevel fsl:medium.
+fsld:cisite_6_activity fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_6 prov:wasGeneratedBy fsld:cisite_6_activity.
+fsld:cisite_6_activity prov:used fsld:cisite_6.
+fsld:cisite_6 prov:wasAttributedTo <http://orcid.org/0000-0002-3246-3531>.
+fsld:cisite_6_activity prov:wasAssociatedWith <http://orcid.org/0000-0002-3246-3531>.
+fsld:cisite_6 dct:license <https://creativecommons.org/licenses/by/4.0/> .
+fsld:cisite_6 dct:creator <https://orcid.org/0000-0002-3246-3531> .
+fsld:cisite_6 dct:creator <https://orcid.org/0000-0003-1100-6494> .
+fsld:cisite_6 dct:rightsHolder <https://orcid.org/0000-0002-3246-3531> .
+fsld:cisite_6 dct:rightsHolder <https://orcid.org/0000-0003-1100-6494> .
+fsld:cisite_6 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+fsld:cisite_6 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
+fsld:cisite_6 prov:wasGeneratedBy fsld:cisite_6_pyscript .
+fsld:cisite_6_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
+fsld:cisite_6_pyscript prov:startedAtTime '2023-08-14T13:16:26.837949Z'^^xsd:dateTime .
+fsld:cisite_6_pyscript prov:endedAtTime '2023-08-14T13:16:26.855294Z'^^xsd:dateTime .
+fsld:cisite_6_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+
+fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
+fsld:agent_0009-0008-2877-3204 rdf:type prov:Agent .
+fsld:agent_0009-0008-2877-3204 skos:exactMatch <http://orcid.org/0009-0008-2877-3204>.
+fsld:cisite_10 rdf:type fsl:Site .
+fsld:cisite_10 rdf:type prov:Entity .
+fsld:cisite_10 rdf:type pleiades:Place .
+fsld:cisite_10 fsl:partOf fsl:CampanianIgnimbriteProject .
+fsld:cisite_10 fsl:siteType fsl:ArchaeologicalSite .
+fsld:cisite_10 rdfs:label 'Marina di Cassano (Naples)'@en.
+fsld:cisite_10 skos:prefLabel 'Marina di Cassano (Naples)'@en.
+fsld:cisite_10 skos:scopeNote 'CI findspot related from literature'@en.
+fsld:cisite_10 rdfs:comment 'CI findspot related from literature'@en.
+fsld:cisite_10 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
+fsld:cisite_10 fsl:certaintyLevel fsl:medium.
+fsld:cisite_10 fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_10 skos:closeMatch <http://sws.geonames.org/11961630>.
+fsld:cisite_10 skos:closeMatch <http://openstreetmap.org/node/566221732>.
+fsld:cisite_10 fsl:spatialType fsl:Bight .
+fsld:cisite_10 fsl:hasReference 'Civetta et al., 1997'.
+fsld:cisite_10 geosparql:hasGeometry fsld:cisite_10_geom .
+fsld:cisite_10_geom rdf:type sf:Point .
+fsld:cisite_10_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(14.3998 40.6385)"^^geosparql:wktLiteral.
+fsld:cisite_10_geom fsl:certaintyLevel fsl:medium.
+fsld:cisite_10_geom fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_10_activity rdf:type prov:Activity .
+fsld:cisite_10_activity rdf:type fsl:Georeferencing.
+fsld:cisite_10_activity prov:startedAtTime '2023-08-14T13:16:26.837949Z'^^xsd:dateTime .
+fsld:cisite_10_activity prov:endedAtTime '2023-08-14T13:16:26.855294Z'^^xsd:dateTime .
+fsld:cisite_10_activity fsl:hasSource fsl:PaperDesc.
+fsld:cisite_10_activity fsl:hasSourceType fsl:Paper.
+fsld:cisite_10_activity fsl:hasReference 'Civetta et al., 1997'.
+fsld:cisite_10_activity fsl:activityDesc 'set a representative point based on scientific papers using Google Maps'@en.
+fsld:cisite_10_activity fsl:certaintyLevel fsl:medium.
+fsld:cisite_10_activity fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_10 prov:wasGeneratedBy fsld:cisite_10_activity.
+fsld:cisite_10_activity prov:used fsld:cisite_10.
+fsld:cisite_10 prov:wasAttributedTo <http://orcid.org/0009-0008-2877-3204>.
+fsld:cisite_10_activity prov:wasAssociatedWith <http://orcid.org/0009-0008-2877-3204>.
+fsld:cisite_10 dct:license <https://creativecommons.org/licenses/by/4.0/> .
+fsld:cisite_10 dct:creator <https://orcid.org/0000-0002-3246-3531> .
+fsld:cisite_10 dct:creator <https://orcid.org/0000-0003-1100-6494> .
+fsld:cisite_10 dct:rightsHolder <https://orcid.org/0000-0002-3246-3531> .
+fsld:cisite_10 dct:rightsHolder <https://orcid.org/0000-0003-1100-6494> .
+fsld:cisite_10 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+fsld:cisite_10 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
+fsld:cisite_10 prov:wasGeneratedBy fsld:cisite_10_pyscript .
+fsld:cisite_10_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
+fsld:cisite_10_pyscript prov:startedAtTime '2023-08-14T13:16:26.837949Z'^^xsd:dateTime .
+fsld:cisite_10_pyscript prov:endedAtTime '2023-08-14T13:16:26.856294Z'^^xsd:dateTime .
+fsld:cisite_10_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+
+fsld:agent_0000-0002-3246-3531 rdf:type foaf:Person .
+fsld:agent_0000-0002-3246-3531 rdf:type prov:Agent .
+fsld:agent_0000-0002-3246-3531 skos:exactMatch <http://orcid.org/0000-0002-3246-3531>.
+fsld:cisite_19 rdf:type fsl:Site .
+fsld:cisite_19 rdf:type prov:Entity .
+fsld:cisite_19 rdf:type pleiades:Place .
+fsld:cisite_19 fsl:partOf fsl:CampanianIgnimbriteProject .
+fsld:cisite_19 fsl:siteType fsl:ArchaeologicalSite .
+fsld:cisite_19 rdfs:label 'Paglicci Cave'@en.
+fsld:cisite_19 skos:prefLabel 'Paglicci Cave'@en.
+fsld:cisite_19 skos:scopeNote 'CI findspot related from literature'@en.
+fsld:cisite_19 rdfs:comment 'CI findspot related from literature'@en.
+fsld:cisite_19 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
+fsld:cisite_19 fsl:certaintyLevel fsl:medium.
+fsld:cisite_19 fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_19 skos:closeMatch <http://wikidata.org/entity/Q3777010>.
+fsld:cisite_19 skos:closeMatch <http://openstreetmap.org/node/2293681037>.
+fsld:cisite_19 fsl:spatialType fsl:Cave;fsl:ArchaeologicalSite.
+fsld:cisite_19 fsl:hasReference 'Giaccio et al., 2008'.
+fsld:cisite_19 geosparql:hasGeometry fsld:cisite_19_geom .
+fsld:cisite_19_geom rdf:type sf:Point .
+fsld:cisite_19_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(15.6150 41.6541)"^^geosparql:wktLiteral.
+fsld:cisite_19_geom fsl:certaintyLevel fsl:medium.
+fsld:cisite_19_geom fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_19_activity rdf:type prov:Activity .
+fsld:cisite_19_activity rdf:type fsl:Georeferencing.
+fsld:cisite_19_activity prov:startedAtTime '2023-08-14T13:16:26.837949Z'^^xsd:dateTime .
+fsld:cisite_19_activity prov:endedAtTime '2023-08-14T13:16:26.856294Z'^^xsd:dateTime .
+fsld:cisite_19_activity fsl:hasSource fsl:PaperDesc.
+fsld:cisite_19_activity fsl:hasSourceType fsl:Paper.
+fsld:cisite_19_activity fsl:hasReference 'Giaccio et al., 2008'.
+fsld:cisite_19_activity fsl:activityDesc 'set a representative point based on scientific papers using OSM Node 2293681037'@en.
+fsld:cisite_19_activity fsl:certaintyLevel fsl:medium.
+fsld:cisite_19_activity fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_19 prov:wasGeneratedBy fsld:cisite_19_activity.
+fsld:cisite_19_activity prov:used fsld:cisite_19.
+fsld:cisite_19 prov:wasAttributedTo <http://orcid.org/0000-0002-3246-3531>.
+fsld:cisite_19_activity prov:wasAssociatedWith <http://orcid.org/0000-0002-3246-3531>.
+fsld:cisite_19 dct:license <https://creativecommons.org/licenses/by/4.0/> .
+fsld:cisite_19 dct:creator <https://orcid.org/0000-0002-3246-3531> .
+fsld:cisite_19 dct:creator <https://orcid.org/0000-0003-1100-6494> .
+fsld:cisite_19 dct:rightsHolder <https://orcid.org/0000-0002-3246-3531> .
+fsld:cisite_19 dct:rightsHolder <https://orcid.org/0000-0003-1100-6494> .
+fsld:cisite_19 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+fsld:cisite_19 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
+fsld:cisite_19 prov:wasGeneratedBy fsld:cisite_19_pyscript .
+fsld:cisite_19_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
+fsld:cisite_19_pyscript prov:startedAtTime '2023-08-14T13:16:26.837949Z'^^xsd:dateTime .
+fsld:cisite_19_pyscript prov:endedAtTime '2023-08-14T13:16:26.856801Z'^^xsd:dateTime .
+fsld:cisite_19_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+
+fsld:agent_0000-0002-3246-3531 rdf:type foaf:Person .
+fsld:agent_0000-0002-3246-3531 rdf:type prov:Agent .
+fsld:agent_0000-0002-3246-3531 skos:exactMatch <http://orcid.org/0000-0002-3246-3531>.
+fsld:cisite_27 rdf:type fsl:Site .
+fsld:cisite_27 rdf:type prov:Entity .
+fsld:cisite_27 rdf:type pleiades:Place .
+fsld:cisite_27 fsl:partOf fsl:CampanianIgnimbriteProject .
+fsld:cisite_27 fsl:siteType fsl:ArchaeologicalSite .
+fsld:cisite_27 rdfs:label 'Sant‘ Agata dei due Golfi'@en.
+fsld:cisite_27 skos:prefLabel 'Sant‘ Agata dei due Golfi'@en.
+fsld:cisite_27 skos:scopeNote 'CI findspot related from literature'@en.
+fsld:cisite_27 rdfs:comment 'CI findspot related from literature'@en.
+fsld:cisite_27 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
+fsld:cisite_27 fsl:certaintyLevel fsl:medium.
+fsld:cisite_27 fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_27 skos:closeMatch <http://wikidata.org/entity/Q1860399>.
+fsld:cisite_27 skos:closeMatch <http://openstreetmap.org/node/705576753 >.
+fsld:cisite_27 fsl:spatialType fsl:InhabitedPlace.
+fsld:cisite_27 fsl:hasReference 'Civetta et al., 1997'.
+fsld:cisite_27 geosparql:hasGeometry fsld:cisite_27_geom .
+fsld:cisite_27_geom rdf:type sf:Point .
+fsld:cisite_27_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(14.3733 40.6070)"^^geosparql:wktLiteral.
+fsld:cisite_27_geom fsl:certaintyLevel fsl:medium.
+fsld:cisite_27_geom fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_27_activity rdf:type prov:Activity .
+fsld:cisite_27_activity rdf:type fsl:Georeferencing.
+fsld:cisite_27_activity prov:startedAtTime '2023-08-14T13:16:26.837949Z'^^xsd:dateTime .
+fsld:cisite_27_activity prov:endedAtTime '2023-08-14T13:16:26.856801Z'^^xsd:dateTime .
+fsld:cisite_27_activity fsl:hasSource fsl:PaperDesc.
+fsld:cisite_27_activity fsl:hasSourceType fsl:Paper.
+fsld:cisite_27_activity fsl:hasReference 'Civetta et al., 1997'.
+fsld:cisite_27_activity fsl:activityDesc 'set a representative point based on scientific papers using OSM Node 705576753'@en.
+fsld:cisite_27_activity fsl:certaintyLevel fsl:medium.
+fsld:cisite_27_activity fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_27 prov:wasGeneratedBy fsld:cisite_27_activity.
+fsld:cisite_27_activity prov:used fsld:cisite_27.
+fsld:cisite_27 prov:wasAttributedTo <http://orcid.org/0000-0002-3246-3531>.
+fsld:cisite_27_activity prov:wasAssociatedWith <http://orcid.org/0000-0002-3246-3531>.
+fsld:cisite_27 dct:license <https://creativecommons.org/licenses/by/4.0/> .
+fsld:cisite_27 dct:creator <https://orcid.org/0000-0002-3246-3531> .
+fsld:cisite_27 dct:creator <https://orcid.org/0000-0003-1100-6494> .
+fsld:cisite_27 dct:rightsHolder <https://orcid.org/0000-0002-3246-3531> .
+fsld:cisite_27 dct:rightsHolder <https://orcid.org/0000-0003-1100-6494> .
+fsld:cisite_27 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+fsld:cisite_27 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
+fsld:cisite_27 prov:wasGeneratedBy fsld:cisite_27_pyscript .
+fsld:cisite_27_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
+fsld:cisite_27_pyscript prov:startedAtTime '2023-08-14T13:16:26.837949Z'^^xsd:dateTime .
+fsld:cisite_27_pyscript prov:endedAtTime '2023-08-14T13:16:26.856801Z'^^xsd:dateTime .
+fsld:cisite_27_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+
+fsld:agent_0000-0002-3246-3531 rdf:type foaf:Person .
+fsld:agent_0000-0002-3246-3531 rdf:type prov:Agent .
+fsld:agent_0000-0002-3246-3531 skos:exactMatch <http://orcid.org/0000-0002-3246-3531>.
+fsld:cisite_28 rdf:type fsl:Site .
+fsld:cisite_28 rdf:type prov:Entity .
+fsld:cisite_28 rdf:type pleiades:Place .
+fsld:cisite_28 fsl:partOf fsl:CampanianIgnimbriteProject .
+fsld:cisite_28 fsl:siteType fsl:ArchaeologicalSite .
+fsld:cisite_28 rdfs:label 'Sant‘ Angelo a Scala'@en.
+fsld:cisite_28 skos:prefLabel 'Sant‘ Angelo a Scala'@en.
+fsld:cisite_28 skos:scopeNote 'CI findspot related from literature'@en.
+fsld:cisite_28 rdfs:comment 'CI findspot related from literature'@en.
+fsld:cisite_28 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
+fsld:cisite_28 fsl:certaintyLevel fsl:medium.
+fsld:cisite_28 fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_28 skos:closeMatch <http://wikidata.org/entity/Q55100>.
+fsld:cisite_28 skos:closeMatch <http://openstreetmap.org/node/68567290>.
+fsld:cisite_28 fsl:spatialType fsl:InhabitedPlace.
+fsld:cisite_28 fsl:hasReference 'Rosi et al., 1999'.
+fsld:cisite_28 geosparql:hasGeometry fsld:cisite_28_geom .
+fsld:cisite_28_geom rdf:type sf:Point .
+fsld:cisite_28_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(14.7402 40.9746)"^^geosparql:wktLiteral.
+fsld:cisite_28_geom fsl:certaintyLevel fsl:medium.
+fsld:cisite_28_geom fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_28_activity rdf:type prov:Activity .
+fsld:cisite_28_activity rdf:type fsl:Georeferencing.
+fsld:cisite_28_activity prov:startedAtTime '2023-08-14T13:16:26.837949Z'^^xsd:dateTime .
+fsld:cisite_28_activity prov:endedAtTime '2023-08-14T13:16:26.856801Z'^^xsd:dateTime .
+fsld:cisite_28_activity fsl:hasSource fsl:PaperDesc.
+fsld:cisite_28_activity fsl:hasSourceType fsl:Paper.
+fsld:cisite_28_activity fsl:hasReference 'Rosi et al., 1999'.
+fsld:cisite_28_activity fsl:activityDesc 'set a representative point based on scientific papers using OSM Node 68567290'@en.
+fsld:cisite_28_activity fsl:certaintyLevel fsl:medium.
+fsld:cisite_28_activity fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_28 prov:wasGeneratedBy fsld:cisite_28_activity.
+fsld:cisite_28_activity prov:used fsld:cisite_28.
+fsld:cisite_28 prov:wasAttributedTo <http://orcid.org/0000-0002-3246-3531>.
+fsld:cisite_28_activity prov:wasAssociatedWith <http://orcid.org/0000-0002-3246-3531>.
+fsld:cisite_28 dct:license <https://creativecommons.org/licenses/by/4.0/> .
+fsld:cisite_28 dct:creator <https://orcid.org/0000-0002-3246-3531> .
+fsld:cisite_28 dct:creator <https://orcid.org/0000-0003-1100-6494> .
+fsld:cisite_28 dct:rightsHolder <https://orcid.org/0000-0002-3246-3531> .
+fsld:cisite_28 dct:rightsHolder <https://orcid.org/0000-0003-1100-6494> .
+fsld:cisite_28 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+fsld:cisite_28 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
+fsld:cisite_28 prov:wasGeneratedBy fsld:cisite_28_pyscript .
+fsld:cisite_28_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
+fsld:cisite_28_pyscript prov:startedAtTime '2023-08-14T13:16:26.837949Z'^^xsd:dateTime .
+fsld:cisite_28_pyscript prov:endedAtTime '2023-08-14T13:16:26.856801Z'^^xsd:dateTime .
+fsld:cisite_28_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+
+fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
+fsld:agent_0009-0008-2877-3204 rdf:type prov:Agent .
+fsld:agent_0009-0008-2877-3204 skos:exactMatch <http://orcid.org/0009-0008-2877-3204>.
+fsld:cisite_42 rdf:type fsl:Site .
+fsld:cisite_42 rdf:type prov:Entity .
+fsld:cisite_42 rdf:type pleiades:Place .
+fsld:cisite_42 fsl:partOf fsl:CampanianIgnimbriteProject .
+fsld:cisite_42 fsl:siteType fsl:ArchaeologicalSite .
+fsld:cisite_42 rdfs:label 'Kozarnika Cave (Bulgaria)'@en.
+fsld:cisite_42 skos:prefLabel 'Kozarnika Cave (Bulgaria)'@en.
+fsld:cisite_42 skos:scopeNote 'CI findspot related from literature'@en.
+fsld:cisite_42 rdfs:comment 'CI findspot related from literature'@en.
+fsld:cisite_42 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
+fsld:cisite_42 fsl:certaintyLevel fsl:high.
+fsld:cisite_42 fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_42 skos:closeMatch <http://wikidata.org/entity/Q2037533>.
+fsld:cisite_42 skos:closeMatch <http://openstreetmap.org/node/8814442373>.
+fsld:cisite_42 fsl:spatialType fsl:Cave.
+fsld:cisite_42 fsl:hasReference 'Lowe et al., 2012'.
+fsld:cisite_42 geosparql:hasGeometry fsld:cisite_42_geom .
+fsld:cisite_42_geom rdf:type sf:Point .
+fsld:cisite_42_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(22.7024 43.6519)"^^geosparql:wktLiteral.
+fsld:cisite_42_geom fsl:certaintyLevel fsl:high.
+fsld:cisite_42_geom fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_42_activity rdf:type prov:Activity .
+fsld:cisite_42_activity rdf:type fsl:Georeferencing.
+fsld:cisite_42_activity prov:startedAtTime '2023-08-14T13:16:26.837949Z'^^xsd:dateTime .
+fsld:cisite_42_activity prov:endedAtTime '2023-08-14T13:16:26.857807Z'^^xsd:dateTime .
+fsld:cisite_42_activity fsl:hasSource fsl:PaperDesc.
+fsld:cisite_42_activity fsl:hasSourceType fsl:Paper.
+fsld:cisite_42_activity fsl:hasReference 'Lowe et al., 2012'.
+fsld:cisite_42_activity fsl:activityDesc 'set a representative point based on scientific papers using Google Maps'@en.
+fsld:cisite_42_activity fsl:certaintyLevel fsl:high.
+fsld:cisite_42_activity fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_42 prov:wasGeneratedBy fsld:cisite_42_activity.
+fsld:cisite_42_activity prov:used fsld:cisite_42.
+fsld:cisite_42 prov:wasAttributedTo <http://orcid.org/0009-0008-2877-3204>.
+fsld:cisite_42_activity prov:wasAssociatedWith <http://orcid.org/0009-0008-2877-3204>.
+fsld:cisite_42 dct:license <https://creativecommons.org/licenses/by/4.0/> .
+fsld:cisite_42 dct:creator <https://orcid.org/0000-0002-3246-3531> .
+fsld:cisite_42 dct:creator <https://orcid.org/0000-0003-1100-6494> .
+fsld:cisite_42 dct:rightsHolder <https://orcid.org/0000-0002-3246-3531> .
+fsld:cisite_42 dct:rightsHolder <https://orcid.org/0000-0003-1100-6494> .
+fsld:cisite_42 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+fsld:cisite_42 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
+fsld:cisite_42 prov:wasGeneratedBy fsld:cisite_42_pyscript .
+fsld:cisite_42_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
+fsld:cisite_42_pyscript prov:startedAtTime '2023-08-14T13:16:26.837949Z'^^xsd:dateTime .
+fsld:cisite_42_pyscript prov:endedAtTime '2023-08-14T13:16:26.857807Z'^^xsd:dateTime .
+fsld:cisite_42_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+
+fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
+fsld:agent_0009-0008-2877-3204 rdf:type prov:Agent .
+fsld:agent_0009-0008-2877-3204 skos:exactMatch <http://orcid.org/0009-0008-2877-3204>.
+fsld:cisite_43 rdf:type fsl:Site .
+fsld:cisite_43 rdf:type prov:Entity .
+fsld:cisite_43 rdf:type pleiades:Place .
+fsld:cisite_43 fsl:partOf fsl:CampanianIgnimbriteProject .
+fsld:cisite_43 fsl:siteType fsl:ArchaeologicalSite .
+fsld:cisite_43 rdfs:label 'Temnata Cave (Bulgaria)'@en.
+fsld:cisite_43 skos:prefLabel 'Temnata Cave (Bulgaria)'@en.
+fsld:cisite_43 skos:scopeNote 'CI findspot related from literature'@en.
+fsld:cisite_43 rdfs:comment 'CI findspot related from literature'@en.
+fsld:cisite_43 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
+fsld:cisite_43 fsl:certaintyLevel fsl:high.
+fsld:cisite_43 fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_43 skos:closeMatch <http://sws.geonames.org/726486>.
+fsld:cisite_43 skos:closeMatch <http://openstreetmap.org/node/369821847>.
+fsld:cisite_43 skos:closeMatch <http://wikidata.org/entity/Q12296153>.
+fsld:cisite_43 fsl:spatialType fsl:Cave.
+fsld:cisite_43 fsl:hasReference 'Fedele et al., 2008, 2003'.
+fsld:cisite_43 fsl:hasReference 'Fitzsimmons et al., 2013'.
+fsld:cisite_43 fsl:hasReference 'Giaccio et al., 2008'.
+fsld:cisite_43 geosparql:hasGeometry fsld:cisite_43_geom .
+fsld:cisite_43_geom rdf:type sf:Point .
+fsld:cisite_43_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(23.3848 43.0892)"^^geosparql:wktLiteral.
+fsld:cisite_43_geom fsl:certaintyLevel fsl:high.
+fsld:cisite_43_geom fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_43_activity rdf:type prov:Activity .
+fsld:cisite_43_activity rdf:type fsl:Georeferencing.
+fsld:cisite_43_activity prov:startedAtTime '2023-08-14T13:16:26.837949Z'^^xsd:dateTime .
+fsld:cisite_43_activity prov:endedAtTime '2023-08-14T13:16:26.857807Z'^^xsd:dateTime .
+fsld:cisite_43_activity fsl:hasSource fsl:PaperDesc.
+fsld:cisite_43_activity fsl:hasSourceType fsl:Paper.
+fsld:cisite_43_activity fsl:hasReference 'Fedele et al., 2008, 2003'.
+fsld:cisite_43_activity fsl:hasReference 'Fitzsimmons et al., 2013'.
+fsld:cisite_43_activity fsl:hasReference 'Giaccio et al., 2008'.
+fsld:cisite_43_activity fsl:activityDesc 'set a representative point based on scientific papers using Google Maps'@en.
+fsld:cisite_43_activity fsl:certaintyLevel fsl:high.
+fsld:cisite_43_activity fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_43 prov:wasGeneratedBy fsld:cisite_43_activity.
+fsld:cisite_43_activity prov:used fsld:cisite_43.
+fsld:cisite_43 prov:wasAttributedTo <http://orcid.org/0009-0008-2877-3204>.
+fsld:cisite_43_activity prov:wasAssociatedWith <http://orcid.org/0009-0008-2877-3204>.
+fsld:cisite_43 dct:license <https://creativecommons.org/licenses/by/4.0/> .
+fsld:cisite_43 dct:creator <https://orcid.org/0000-0002-3246-3531> .
+fsld:cisite_43 dct:creator <https://orcid.org/0000-0003-1100-6494> .
+fsld:cisite_43 dct:rightsHolder <https://orcid.org/0000-0002-3246-3531> .
+fsld:cisite_43 dct:rightsHolder <https://orcid.org/0000-0003-1100-6494> .
+fsld:cisite_43 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+fsld:cisite_43 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
+fsld:cisite_43 prov:wasGeneratedBy fsld:cisite_43_pyscript .
+fsld:cisite_43_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
+fsld:cisite_43_pyscript prov:startedAtTime '2023-08-14T13:16:26.837949Z'^^xsd:dateTime .
+fsld:cisite_43_pyscript prov:endedAtTime '2023-08-14T13:16:26.857807Z'^^xsd:dateTime .
+fsld:cisite_43_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+
+fsld:agent_0000-0002-3246-3531 rdf:type foaf:Person .
+fsld:agent_0000-0002-3246-3531 rdf:type prov:Agent .
+fsld:agent_0000-0002-3246-3531 skos:exactMatch <http://orcid.org/0000-0002-3246-3531>.
+fsld:cisite_44 rdf:type fsl:Site .
+fsld:cisite_44 rdf:type prov:Entity .
+fsld:cisite_44 rdf:type pleiades:Place .
+fsld:cisite_44 fsl:partOf fsl:CampanianIgnimbriteProject .
+fsld:cisite_44 fsl:siteType fsl:ArchaeologicalSite .
+fsld:cisite_44 rdfs:label 'Toplitsa Cave (Bulgaria)'@en.
+fsld:cisite_44 skos:prefLabel 'Toplitsa Cave (Bulgaria)'@en.
+fsld:cisite_44 skos:scopeNote 'CI findspot related from literature'@en.
+fsld:cisite_44 rdfs:comment 'CI findspot related from literature'@en.
+fsld:cisite_44 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
+fsld:cisite_44 fsl:certaintyLevel fsl:high.
+fsld:cisite_44 fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_44 skos:closeMatch <http://wikidata.org/entity/Q61788595>.
+fsld:cisite_44 skos:closeMatch <http://openstreetmap.org/node/11109379095>.
+fsld:cisite_44 fsl:spatialType fsl:Cave;fsl:ArchaeologicalSite.
+fsld:cisite_44 fsl:hasReference 'Tsanova et al., 2021'.
+fsld:cisite_44 geosparql:hasGeometry fsld:cisite_44_geom .
+fsld:cisite_44_geom rdf:type sf:Point .
+fsld:cisite_44_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(24.0053 43.1907)"^^geosparql:wktLiteral.
+fsld:cisite_44_geom fsl:certaintyLevel fsl:high.
+fsld:cisite_44_geom fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_44_activity rdf:type prov:Activity .
+fsld:cisite_44_activity rdf:type fsl:Georeferencing.
+fsld:cisite_44_activity prov:startedAtTime '2023-08-14T13:16:26.837949Z'^^xsd:dateTime .
+fsld:cisite_44_activity prov:endedAtTime '2023-08-14T13:16:26.857807Z'^^xsd:dateTime .
+fsld:cisite_44_activity fsl:hasSource fsl:PaperDesc.
+fsld:cisite_44_activity fsl:hasSourceType fsl:Paper.
+fsld:cisite_44_activity fsl:hasReference 'Tsanova et al., 2021'.
+fsld:cisite_44_activity fsl:activityDesc 'set a representative point based on scientific papers using Tsanova et al., 2021, p.2'@en.
+fsld:cisite_44_activity fsl:certaintyLevel fsl:high.
+fsld:cisite_44_activity fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_44 prov:wasGeneratedBy fsld:cisite_44_activity.
+fsld:cisite_44_activity prov:used fsld:cisite_44.
+fsld:cisite_44 prov:wasAttributedTo <http://orcid.org/0000-0002-3246-3531>.
+fsld:cisite_44_activity prov:wasAssociatedWith <http://orcid.org/0000-0002-3246-3531>.
+fsld:cisite_44 dct:license <https://creativecommons.org/licenses/by/4.0/> .
+fsld:cisite_44 dct:creator <https://orcid.org/0000-0002-3246-3531> .
+fsld:cisite_44 dct:creator <https://orcid.org/0000-0003-1100-6494> .
+fsld:cisite_44 dct:rightsHolder <https://orcid.org/0000-0002-3246-3531> .
+fsld:cisite_44 dct:rightsHolder <https://orcid.org/0000-0003-1100-6494> .
+fsld:cisite_44 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+fsld:cisite_44 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
+fsld:cisite_44 prov:wasGeneratedBy fsld:cisite_44_pyscript .
+fsld:cisite_44_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
+fsld:cisite_44_pyscript prov:startedAtTime '2023-08-14T13:16:26.837949Z'^^xsd:dateTime .
+fsld:cisite_44_pyscript prov:endedAtTime '2023-08-14T13:16:26.857807Z'^^xsd:dateTime .
+fsld:cisite_44_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+
+fsld:agent_0000-0002-3246-3531 rdf:type foaf:Person .
+fsld:agent_0000-0002-3246-3531 rdf:type prov:Agent .
+fsld:agent_0000-0002-3246-3531 skos:exactMatch <http://orcid.org/0000-0002-3246-3531>.
+fsld:cisite_45 rdf:type fsl:Site .
+fsld:cisite_45 rdf:type prov:Entity .
+fsld:cisite_45 rdf:type pleiades:Place .
+fsld:cisite_45 fsl:partOf fsl:CampanianIgnimbriteProject .
+fsld:cisite_45 fsl:siteType fsl:ArchaeologicalSite .
+fsld:cisite_45 rdfs:label 'Franchthi Cave (Greece)'@en.
+fsld:cisite_45 skos:prefLabel 'Franchthi Cave (Greece)'@en.
+fsld:cisite_45 skos:scopeNote 'CI findspot related from literature'@en.
+fsld:cisite_45 rdfs:comment 'CI findspot related from literature'@en.
+fsld:cisite_45 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
+fsld:cisite_45 fsl:certaintyLevel fsl:high.
+fsld:cisite_45 fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_45 skos:closeMatch <http://wikidata.org/entity/Q1441331>.
+fsld:cisite_45 skos:closeMatch <http://openstreetmap.org/node/1221172611>.
+fsld:cisite_45 fsl:spatialType fsl:Cave;fsl:ArchaeologicalSite.
+fsld:cisite_45 fsl:hasReference 'Fedele et al., 2003'.
+fsld:cisite_45 geosparql:hasGeometry fsld:cisite_45_geom .
+fsld:cisite_45_geom rdf:type sf:Point .
+fsld:cisite_45_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(23.1311 37.4226)"^^geosparql:wktLiteral.
+fsld:cisite_45_geom fsl:certaintyLevel fsl:high.
+fsld:cisite_45_geom fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_45_activity rdf:type prov:Activity .
+fsld:cisite_45_activity rdf:type fsl:Georeferencing.
+fsld:cisite_45_activity prov:startedAtTime '2023-08-14T13:16:26.837949Z'^^xsd:dateTime .
+fsld:cisite_45_activity prov:endedAtTime '2023-08-14T13:16:26.858812Z'^^xsd:dateTime .
+fsld:cisite_45_activity fsl:hasSource fsl:PaperDesc.
+fsld:cisite_45_activity fsl:hasSourceType fsl:Paper.
+fsld:cisite_45_activity fsl:hasReference 'Fedele et al., 2003'.
+fsld:cisite_45_activity fsl:activityDesc 'set a representative point based on scientific papers using OSM Node 1221172611'@en.
+fsld:cisite_45_activity fsl:certaintyLevel fsl:high.
+fsld:cisite_45_activity fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_45 prov:wasGeneratedBy fsld:cisite_45_activity.
+fsld:cisite_45_activity prov:used fsld:cisite_45.
+fsld:cisite_45 prov:wasAttributedTo <http://orcid.org/0000-0002-3246-3531>.
+fsld:cisite_45_activity prov:wasAssociatedWith <http://orcid.org/0000-0002-3246-3531>.
+fsld:cisite_45 dct:license <https://creativecommons.org/licenses/by/4.0/> .
+fsld:cisite_45 dct:creator <https://orcid.org/0000-0002-3246-3531> .
+fsld:cisite_45 dct:creator <https://orcid.org/0000-0003-1100-6494> .
+fsld:cisite_45 dct:rightsHolder <https://orcid.org/0000-0002-3246-3531> .
+fsld:cisite_45 dct:rightsHolder <https://orcid.org/0000-0003-1100-6494> .
+fsld:cisite_45 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+fsld:cisite_45 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
+fsld:cisite_45 prov:wasGeneratedBy fsld:cisite_45_pyscript .
+fsld:cisite_45_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
+fsld:cisite_45_pyscript prov:startedAtTime '2023-08-14T13:16:26.837949Z'^^xsd:dateTime .
+fsld:cisite_45_pyscript prov:endedAtTime '2023-08-14T13:16:26.858812Z'^^xsd:dateTime .
+fsld:cisite_45_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+
+fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
+fsld:agent_0009-0008-2877-3204 rdf:type prov:Agent .
+fsld:agent_0009-0008-2877-3204 skos:exactMatch <http://orcid.org/0009-0008-2877-3204>.
+fsld:cisite_48 rdf:type fsl:Site .
+fsld:cisite_48 rdf:type prov:Entity .
+fsld:cisite_48 rdf:type pleiades:Place .
+fsld:cisite_48 fsl:partOf fsl:CampanianIgnimbriteProject .
+fsld:cisite_48 fsl:siteType fsl:ArchaeologicalSite .
+fsld:cisite_48 rdfs:label 'Susak Island (Greece)'@en.
+fsld:cisite_48 skos:prefLabel 'Susak Island (Greece)'@en.
+fsld:cisite_48 skos:scopeNote 'CI findspot related from literature'@en.
+fsld:cisite_48 rdfs:comment 'CI findspot related from literature'@en.
+fsld:cisite_48 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
+fsld:cisite_48 fsl:certaintyLevel fsl:medium.
+fsld:cisite_48 fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_48 skos:closeMatch <http://sws.geonames.org/3189468>.
+fsld:cisite_48 skos:closeMatch <http://openstreetmap.org/relation/9854999>.
+fsld:cisite_48 fsl:spatialType fsl:Island.
+fsld:cisite_48 fsl:hasReference 'Wacha, 2011'.
+fsld:cisite_48 geosparql:hasGeometry fsld:cisite_48_geom .
+fsld:cisite_48_geom rdf:type sf:Point .
+fsld:cisite_48_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(14.2921 44.5104)"^^geosparql:wktLiteral.
+fsld:cisite_48_geom fsl:certaintyLevel fsl:medium.
+fsld:cisite_48_geom fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_48_activity rdf:type prov:Activity .
+fsld:cisite_48_activity rdf:type fsl:Georeferencing.
+fsld:cisite_48_activity prov:startedAtTime '2023-08-14T13:16:26.837949Z'^^xsd:dateTime .
+fsld:cisite_48_activity prov:endedAtTime '2023-08-14T13:16:26.858812Z'^^xsd:dateTime .
+fsld:cisite_48_activity fsl:hasSource fsl:PaperDesc.
+fsld:cisite_48_activity fsl:hasSourceType fsl:Paper.
+fsld:cisite_48_activity fsl:hasReference 'Wacha, 2011'.
+fsld:cisite_48_activity fsl:activityDesc 'set a representative point based on scientific papers using Google Maps'@en.
+fsld:cisite_48_activity fsl:certaintyLevel fsl:medium.
+fsld:cisite_48_activity fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_48 prov:wasGeneratedBy fsld:cisite_48_activity.
+fsld:cisite_48_activity prov:used fsld:cisite_48.
+fsld:cisite_48 prov:wasAttributedTo <http://orcid.org/0009-0008-2877-3204>.
+fsld:cisite_48_activity prov:wasAssociatedWith <http://orcid.org/0009-0008-2877-3204>.
+fsld:cisite_48 dct:license <https://creativecommons.org/licenses/by/4.0/> .
+fsld:cisite_48 dct:creator <https://orcid.org/0000-0002-3246-3531> .
+fsld:cisite_48 dct:creator <https://orcid.org/0000-0003-1100-6494> .
+fsld:cisite_48 dct:rightsHolder <https://orcid.org/0000-0002-3246-3531> .
+fsld:cisite_48 dct:rightsHolder <https://orcid.org/0000-0003-1100-6494> .
+fsld:cisite_48 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+fsld:cisite_48 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
+fsld:cisite_48 prov:wasGeneratedBy fsld:cisite_48_pyscript .
+fsld:cisite_48_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
+fsld:cisite_48_pyscript prov:startedAtTime '2023-08-14T13:16:26.837949Z'^^xsd:dateTime .
+fsld:cisite_48_pyscript prov:endedAtTime '2023-08-14T13:16:26.858812Z'^^xsd:dateTime .
+fsld:cisite_48_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+
+fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
+fsld:agent_0009-0008-2877-3204 rdf:type prov:Agent .
+fsld:agent_0009-0008-2877-3204 skos:exactMatch <http://orcid.org/0009-0008-2877-3204>.
+fsld:cisite_50 rdf:type fsl:Site .
+fsld:cisite_50 rdf:type prov:Entity .
+fsld:cisite_50 rdf:type pleiades:Place .
+fsld:cisite_50 fsl:partOf fsl:CampanianIgnimbriteProject .
+fsld:cisite_50 fsl:siteType fsl:ArchaeologicalSite .
+fsld:cisite_50 rdfs:label 'Golema Pesht Cave near Zdunje (Macedonia)'@en.
+fsld:cisite_50 skos:prefLabel 'Golema Pesht Cave near Zdunje (Macedonia)'@en.
+fsld:cisite_50 skos:scopeNote 'CI findspot related from literature'@en.
+fsld:cisite_50 rdfs:comment 'CI findspot related from literature'@en.
+fsld:cisite_50 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
+fsld:cisite_50 fsl:certaintyLevel fsl:dubious.
+fsld:cisite_50 fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_50 skos:closeMatch <http://wikidata.org/entity/Q20565511>.
+fsld:cisite_50 skos:closeMatch <http://openstreetmap.org/node/11107939919>.
+fsld:cisite_50 fsl:spatialType fsl:Cave;fsl:ArchaeologicalSite.
+fsld:cisite_50 fsl:hasReference 'Lowe et al., 2012'.
+fsld:cisite_50 geosparql:hasGeometry fsld:cisite_50_geom .
+fsld:cisite_50_geom rdf:type sf:Point .
+fsld:cisite_50_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(21.1617 41.8117)"^^geosparql:wktLiteral.
+fsld:cisite_50_geom fsl:certaintyLevel fsl:dubious.
+fsld:cisite_50_geom fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_50_activity rdf:type prov:Activity .
+fsld:cisite_50_activity rdf:type fsl:Georeferencing.
+fsld:cisite_50_activity prov:startedAtTime '2023-08-14T13:16:26.837949Z'^^xsd:dateTime .
+fsld:cisite_50_activity prov:endedAtTime '2023-08-14T13:16:26.858812Z'^^xsd:dateTime .
+fsld:cisite_50_activity fsl:hasSource fsl:PaperDesc.
+fsld:cisite_50_activity fsl:hasSourceType fsl:Paper.
+fsld:cisite_50_activity fsl:hasReference 'Lowe et al., 2012'.
+fsld:cisite_50_activity fsl:activityDesc 'set a representative point based on scientific papers using Google Maps'@en.
+fsld:cisite_50_activity fsl:certaintyLevel fsl:dubious.
+fsld:cisite_50_activity fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_50 prov:wasGeneratedBy fsld:cisite_50_activity.
+fsld:cisite_50_activity prov:used fsld:cisite_50.
+fsld:cisite_50 prov:wasAttributedTo <http://orcid.org/0009-0008-2877-3204>.
+fsld:cisite_50_activity prov:wasAssociatedWith <http://orcid.org/0009-0008-2877-3204>.
+fsld:cisite_50 dct:license <https://creativecommons.org/licenses/by/4.0/> .
+fsld:cisite_50 dct:creator <https://orcid.org/0000-0002-3246-3531> .
+fsld:cisite_50 dct:creator <https://orcid.org/0000-0003-1100-6494> .
+fsld:cisite_50 dct:rightsHolder <https://orcid.org/0000-0002-3246-3531> .
+fsld:cisite_50 dct:rightsHolder <https://orcid.org/0000-0003-1100-6494> .
+fsld:cisite_50 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+fsld:cisite_50 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
+fsld:cisite_50 prov:wasGeneratedBy fsld:cisite_50_pyscript .
+fsld:cisite_50_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
+fsld:cisite_50_pyscript prov:startedAtTime '2023-08-14T13:16:26.837949Z'^^xsd:dateTime .
+fsld:cisite_50_pyscript prov:endedAtTime '2023-08-14T13:16:26.858812Z'^^xsd:dateTime .
+fsld:cisite_50_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+
+fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
+fsld:agent_0009-0008-2877-3204 rdf:type prov:Agent .
+fsld:agent_0009-0008-2877-3204 skos:exactMatch <http://orcid.org/0009-0008-2877-3204>.
+fsld:cisite_51 rdf:type fsl:Site .
+fsld:cisite_51 rdf:type prov:Entity .
+fsld:cisite_51 rdf:type pleiades:Place .
+fsld:cisite_51 fsl:partOf fsl:CampanianIgnimbriteProject .
+fsld:cisite_51 fsl:siteType fsl:ArchaeologicalSite .
+fsld:cisite_51 rdfs:label 'Crvena Stiljena (Montenegro)'@en.
+fsld:cisite_51 skos:prefLabel 'Crvena Stiljena (Montenegro)'@en.
+fsld:cisite_51 skos:scopeNote 'CI findspot related from literature'@en.
+fsld:cisite_51 rdfs:comment 'CI findspot related from literature'@en.
+fsld:cisite_51 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
+fsld:cisite_51 fsl:certaintyLevel fsl:high.
+fsld:cisite_51 fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_51 skos:closeMatch <http://openstreetmap.org/node/10879170567>.
+fsld:cisite_51 skos:closeMatch <http://wikidata.org/entity/Q121418883>.
+fsld:cisite_51 fsl:spatialType fsl:Cave;fsl:ArchaeologicalSite.
+fsld:cisite_51 fsl:hasReference 'Morley & Woodward, 2011'.
+fsld:cisite_51 geosparql:hasGeometry fsld:cisite_51_geom .
+fsld:cisite_51_geom rdf:type sf:Point .
+fsld:cisite_51_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(18.4815 42.7790) "^^geosparql:wktLiteral.
+fsld:cisite_51_geom fsl:certaintyLevel fsl:high.
+fsld:cisite_51_geom fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_51_activity rdf:type prov:Activity .
+fsld:cisite_51_activity rdf:type fsl:Georeferencing.
+fsld:cisite_51_activity prov:startedAtTime '2023-08-14T13:16:26.837949Z'^^xsd:dateTime .
+fsld:cisite_51_activity prov:endedAtTime '2023-08-14T13:16:26.859815Z'^^xsd:dateTime .
+fsld:cisite_51_activity fsl:hasSource fsl:PaperDesc.
+fsld:cisite_51_activity fsl:hasSourceType fsl:Paper.
+fsld:cisite_51_activity fsl:hasReference 'Morley & Woodward, 2011'.
+fsld:cisite_51_activity fsl:activityDesc 'set a representative point based on scientific papers using Google Maps'@en.
+fsld:cisite_51_activity fsl:certaintyLevel fsl:high.
+fsld:cisite_51_activity fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_51 prov:wasGeneratedBy fsld:cisite_51_activity.
+fsld:cisite_51_activity prov:used fsld:cisite_51.
+fsld:cisite_51 prov:wasAttributedTo <http://orcid.org/0009-0008-2877-3204>.
+fsld:cisite_51_activity prov:wasAssociatedWith <http://orcid.org/0009-0008-2877-3204>.
+fsld:cisite_51 dct:license <https://creativecommons.org/licenses/by/4.0/> .
+fsld:cisite_51 dct:creator <https://orcid.org/0000-0002-3246-3531> .
+fsld:cisite_51 dct:creator <https://orcid.org/0000-0003-1100-6494> .
+fsld:cisite_51 dct:rightsHolder <https://orcid.org/0000-0002-3246-3531> .
+fsld:cisite_51 dct:rightsHolder <https://orcid.org/0000-0003-1100-6494> .
+fsld:cisite_51 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+fsld:cisite_51 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
+fsld:cisite_51 prov:wasGeneratedBy fsld:cisite_51_pyscript .
+fsld:cisite_51_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
+fsld:cisite_51_pyscript prov:startedAtTime '2023-08-14T13:16:26.837949Z'^^xsd:dateTime .
+fsld:cisite_51_pyscript prov:endedAtTime '2023-08-14T13:16:26.859815Z'^^xsd:dateTime .
+fsld:cisite_51_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+
+fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
+fsld:agent_0009-0008-2877-3204 rdf:type prov:Agent .
+fsld:agent_0009-0008-2877-3204 skos:exactMatch <http://orcid.org/0009-0008-2877-3204>.
+fsld:cisite_52 rdf:type fsl:Site .
+fsld:cisite_52 rdf:type prov:Entity .
+fsld:cisite_52 rdf:type pleiades:Place .
+fsld:cisite_52 fsl:partOf fsl:CampanianIgnimbriteProject .
+fsld:cisite_52 fsl:siteType fsl:ArchaeologicalSite .
+fsld:cisite_52 rdfs:label 'Urluia (Romania)'@en.
+fsld:cisite_52 skos:prefLabel 'Urluia (Romania)'@en.
+fsld:cisite_52 skos:scopeNote 'CI findspot related from literature'@en.
+fsld:cisite_52 rdfs:comment 'CI findspot related from literature'@en.
+fsld:cisite_52 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
+fsld:cisite_52 fsl:certaintyLevel fsl:medium.
+fsld:cisite_52 fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_52 skos:closeMatch <http://sws.geonames.org/664132>.
+fsld:cisite_52 fsl:spatialType fsl:InhabitedPlace.
+fsld:cisite_52 fsl:hasReference 'Fitzsimmons et al., 2014, 2013'.
+fsld:cisite_52 fsl:hasReference 'Obreht et al., 2017'.
+fsld:cisite_52 fsl:hasReference 'Pötter et al., 2021'.
+fsld:cisite_52 geosparql:hasGeometry fsld:cisite_52_geom .
+fsld:cisite_52_geom rdf:type sf:Point .
+fsld:cisite_52_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(27.9021 44.0947)"^^geosparql:wktLiteral.
+fsld:cisite_52_geom fsl:certaintyLevel fsl:medium.
+fsld:cisite_52_geom fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_52_activity rdf:type prov:Activity .
+fsld:cisite_52_activity rdf:type fsl:Georeferencing.
+fsld:cisite_52_activity prov:startedAtTime '2023-08-14T13:16:26.837949Z'^^xsd:dateTime .
+fsld:cisite_52_activity prov:endedAtTime '2023-08-14T13:16:26.859815Z'^^xsd:dateTime .
+fsld:cisite_52_activity fsl:hasSource fsl:PaperDesc.
+fsld:cisite_52_activity fsl:hasSourceType fsl:Paper.
+fsld:cisite_52_activity fsl:hasReference 'Fitzsimmons et al., 2014, 2013'.
+fsld:cisite_52_activity fsl:hasReference 'Obreht et al., 2017'.
+fsld:cisite_52_activity fsl:hasReference 'Pötter et al., 2021'.
+fsld:cisite_52_activity fsl:activityDesc 'set a representative point based on scientific papers using Google Maps'@en.
+fsld:cisite_52_activity fsl:certaintyLevel fsl:medium.
+fsld:cisite_52_activity fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_52 prov:wasGeneratedBy fsld:cisite_52_activity.
+fsld:cisite_52_activity prov:used fsld:cisite_52.
+fsld:cisite_52 prov:wasAttributedTo <http://orcid.org/0009-0008-2877-3204>.
+fsld:cisite_52_activity prov:wasAssociatedWith <http://orcid.org/0009-0008-2877-3204>.
+fsld:cisite_52 dct:license <https://creativecommons.org/licenses/by/4.0/> .
+fsld:cisite_52 dct:creator <https://orcid.org/0000-0002-3246-3531> .
+fsld:cisite_52 dct:creator <https://orcid.org/0000-0003-1100-6494> .
+fsld:cisite_52 dct:rightsHolder <https://orcid.org/0000-0002-3246-3531> .
+fsld:cisite_52 dct:rightsHolder <https://orcid.org/0000-0003-1100-6494> .
+fsld:cisite_52 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+fsld:cisite_52 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
+fsld:cisite_52 prov:wasGeneratedBy fsld:cisite_52_pyscript .
+fsld:cisite_52_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
+fsld:cisite_52_pyscript prov:startedAtTime '2023-08-14T13:16:26.837949Z'^^xsd:dateTime .
+fsld:cisite_52_pyscript prov:endedAtTime '2023-08-14T13:16:26.859815Z'^^xsd:dateTime .
+fsld:cisite_52_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+
+fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
+fsld:agent_0009-0008-2877-3204 rdf:type prov:Agent .
+fsld:agent_0009-0008-2877-3204 skos:exactMatch <http://orcid.org/0009-0008-2877-3204>.
+fsld:cisite_54 rdf:type fsl:Site .
+fsld:cisite_54 rdf:type prov:Entity .
+fsld:cisite_54 rdf:type pleiades:Place .
+fsld:cisite_54 fsl:partOf fsl:CampanianIgnimbriteProject .
+fsld:cisite_54 fsl:siteType fsl:ArchaeologicalSite .
+fsld:cisite_54 rdfs:label 'Vlasca (Romania)'@en.
+fsld:cisite_54 skos:prefLabel 'Vlasca (Romania)'@en.
+fsld:cisite_54 skos:scopeNote 'CI findspot related from literature'@en.
+fsld:cisite_54 rdfs:comment 'CI findspot related from literature'@en.
+fsld:cisite_54 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
+fsld:cisite_54 fsl:certaintyLevel fsl:medium.
+fsld:cisite_54 fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_54 skos:closeMatch <http://sws.geonames.org/662562>.
+fsld:cisite_54 fsl:spatialType fsl:UnknownCategory.
+fsld:cisite_54 fsl:hasReference 'Obreht et al., 2017'.
+fsld:cisite_54 geosparql:hasGeometry fsld:cisite_54_geom .
+fsld:cisite_54_geom rdf:type sf:Point .
+fsld:cisite_54_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(27.8491 44.3921)"^^geosparql:wktLiteral.
+fsld:cisite_54_geom fsl:certaintyLevel fsl:medium.
+fsld:cisite_54_geom fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_54_activity rdf:type prov:Activity .
+fsld:cisite_54_activity rdf:type fsl:Georeferencing.
+fsld:cisite_54_activity prov:startedAtTime '2023-08-14T13:16:26.837949Z'^^xsd:dateTime .
+fsld:cisite_54_activity prov:endedAtTime '2023-08-14T13:16:26.859815Z'^^xsd:dateTime .
+fsld:cisite_54_activity fsl:hasSource fsl:PaperDesc.
+fsld:cisite_54_activity fsl:hasSourceType fsl:Paper.
+fsld:cisite_54_activity fsl:hasReference 'Obreht et al., 2017'.
+fsld:cisite_54_activity fsl:activityDesc 'set a representative point based on scientific papers using Google Maps'@en.
+fsld:cisite_54_activity fsl:certaintyLevel fsl:medium.
+fsld:cisite_54_activity fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_54 prov:wasGeneratedBy fsld:cisite_54_activity.
+fsld:cisite_54_activity prov:used fsld:cisite_54.
+fsld:cisite_54 prov:wasAttributedTo <http://orcid.org/0009-0008-2877-3204>.
+fsld:cisite_54_activity prov:wasAssociatedWith <http://orcid.org/0009-0008-2877-3204>.
+fsld:cisite_54 dct:license <https://creativecommons.org/licenses/by/4.0/> .
+fsld:cisite_54 dct:creator <https://orcid.org/0000-0002-3246-3531> .
+fsld:cisite_54 dct:creator <https://orcid.org/0000-0003-1100-6494> .
+fsld:cisite_54 dct:rightsHolder <https://orcid.org/0000-0002-3246-3531> .
+fsld:cisite_54 dct:rightsHolder <https://orcid.org/0000-0003-1100-6494> .
+fsld:cisite_54 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+fsld:cisite_54 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
+fsld:cisite_54 prov:wasGeneratedBy fsld:cisite_54_pyscript .
+fsld:cisite_54_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
+fsld:cisite_54_pyscript prov:startedAtTime '2023-08-14T13:16:26.837949Z'^^xsd:dateTime .
+fsld:cisite_54_pyscript prov:endedAtTime '2023-08-14T13:16:26.860816Z'^^xsd:dateTime .
+fsld:cisite_54_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+
+fsld:agent_0000-0002-3246-3531 rdf:type foaf:Person .
+fsld:agent_0000-0002-3246-3531 rdf:type prov:Agent .
+fsld:agent_0000-0002-3246-3531 skos:exactMatch <http://orcid.org/0000-0002-3246-3531>.
+fsld:cisite_55 rdf:type fsl:Site .
+fsld:cisite_55 rdf:type prov:Entity .
+fsld:cisite_55 rdf:type pleiades:Place .
+fsld:cisite_55 fsl:partOf fsl:CampanianIgnimbriteProject .
+fsld:cisite_55 fsl:siteType fsl:ArchaeologicalSite .
+fsld:cisite_55 rdfs:label 'Lower Danube Basin (Romania)'@en.
+fsld:cisite_55 skos:prefLabel 'Lower Danube Basin (Romania)'@en.
+fsld:cisite_55 skos:scopeNote 'CI findspot related from literature'@en.
+fsld:cisite_55 rdfs:comment 'CI findspot related from literature'@en.
+fsld:cisite_55 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
+fsld:cisite_55 fsl:certaintyLevel fsl:low.
+fsld:cisite_55 fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_55 fsl:spatialCloseMatch <http://sws.geonames.org/791630>.
+fsld:cisite_55 fsl:spatialType fsl:Plateau.
+fsld:cisite_55 fsl:hasReference 'Obreht et al., 2017'.
+fsld:cisite_55 geosparql:hasGeometry fsld:cisite_55_geom .
+fsld:cisite_55_geom rdf:type sf:Point .
+fsld:cisite_55_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(25.2920 43.6550)"^^geosparql:wktLiteral.
+fsld:cisite_55_geom fsl:certaintyLevel fsl:low.
+fsld:cisite_55_geom fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_55_activity rdf:type prov:Activity .
+fsld:cisite_55_activity rdf:type fsl:Georeferencing.
+fsld:cisite_55_activity prov:startedAtTime '2023-08-14T13:16:26.837949Z'^^xsd:dateTime .
+fsld:cisite_55_activity prov:endedAtTime '2023-08-14T13:16:26.860816Z'^^xsd:dateTime .
+fsld:cisite_55_activity fsl:hasSource fsl:PaperDesc.
+fsld:cisite_55_activity fsl:hasSourceType fsl:Paper.
+fsld:cisite_55_activity fsl:hasReference 'Obreht et al., 2017'.
+fsld:cisite_55_activity fsl:activityDesc 'set a representative point based on scientific papers using Google Maps and Obdreht et al (2017), Fig. 1'@en.
+fsld:cisite_55_activity fsl:certaintyLevel fsl:low.
+fsld:cisite_55_activity fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_55 prov:wasGeneratedBy fsld:cisite_55_activity.
+fsld:cisite_55_activity prov:used fsld:cisite_55.
+fsld:cisite_55 prov:wasAttributedTo <http://orcid.org/0000-0002-3246-3531>.
+fsld:cisite_55_activity prov:wasAssociatedWith <http://orcid.org/0000-0002-3246-3531>.
+fsld:cisite_55 dct:license <https://creativecommons.org/licenses/by/4.0/> .
+fsld:cisite_55 dct:creator <https://orcid.org/0000-0002-3246-3531> .
+fsld:cisite_55 dct:creator <https://orcid.org/0000-0003-1100-6494> .
+fsld:cisite_55 dct:rightsHolder <https://orcid.org/0000-0002-3246-3531> .
+fsld:cisite_55 dct:rightsHolder <https://orcid.org/0000-0003-1100-6494> .
+fsld:cisite_55 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+fsld:cisite_55 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
+fsld:cisite_55 prov:wasGeneratedBy fsld:cisite_55_pyscript .
+fsld:cisite_55_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
+fsld:cisite_55_pyscript prov:startedAtTime '2023-08-14T13:16:26.837949Z'^^xsd:dateTime .
+fsld:cisite_55_pyscript prov:endedAtTime '2023-08-14T13:16:26.860816Z'^^xsd:dateTime .
+fsld:cisite_55_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+
+fsld:agent_0000-0002-3246-3531 rdf:type foaf:Person .
+fsld:agent_0000-0002-3246-3531 rdf:type prov:Agent .
+fsld:agent_0000-0002-3246-3531 skos:exactMatch <http://orcid.org/0000-0002-3246-3531>.
+fsld:cisite_65 rdf:type fsl:Site .
+fsld:cisite_65 rdf:type prov:Entity .
+fsld:cisite_65 rdf:type pleiades:Place .
+fsld:cisite_65 fsl:partOf fsl:CampanianIgnimbriteProject .
+fsld:cisite_65 fsl:siteType fsl:ArchaeologicalSite .
+fsld:cisite_65 rdfs:label 'Haua-Fteah (Libya)'@en.
+fsld:cisite_65 skos:prefLabel 'Haua-Fteah (Libya)'@en.
+fsld:cisite_65 skos:scopeNote 'CI findspot related from literature'@en.
+fsld:cisite_65 rdfs:comment 'CI findspot related from literature'@en.
+fsld:cisite_65 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
+fsld:cisite_65 fsl:certaintyLevel fsl:high.
+fsld:cisite_65 fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_65 skos:closeMatch <http://wikidata.org/entity/Q25226810>.
+fsld:cisite_65 skos:closeMatch <http://openstreetmap.org/node/7778324735>.
+fsld:cisite_65 fsl:spatialType fsl:Cave;fsl:ArchaeologicalSite.
+fsld:cisite_65 fsl:hasReference 'Lowe et al., 2012'.
+fsld:cisite_65 geosparql:hasGeometry fsld:cisite_65_geom .
+fsld:cisite_65_geom rdf:type sf:Point .
+fsld:cisite_65_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(22.0516 32.9002)"^^geosparql:wktLiteral.
+fsld:cisite_65_geom fsl:certaintyLevel fsl:high.
+fsld:cisite_65_geom fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_65_activity rdf:type prov:Activity .
+fsld:cisite_65_activity rdf:type fsl:Georeferencing.
+fsld:cisite_65_activity prov:startedAtTime '2023-08-14T13:16:26.837949Z'^^xsd:dateTime .
+fsld:cisite_65_activity prov:endedAtTime '2023-08-14T13:16:26.860816Z'^^xsd:dateTime .
+fsld:cisite_65_activity fsl:hasSource fsl:PaperDesc.
+fsld:cisite_65_activity fsl:hasSourceType fsl:Paper.
+fsld:cisite_65_activity fsl:hasReference 'Lowe et al., 2012'.
+fsld:cisite_65_activity fsl:activityDesc 'set a representative point based on scientific papers using OSM Node 7778324735'@en.
+fsld:cisite_65_activity fsl:certaintyLevel fsl:high.
+fsld:cisite_65_activity fsl:certaintyDesc 'TODO'@en.
+fsld:cisite_65 prov:wasGeneratedBy fsld:cisite_65_activity.
+fsld:cisite_65_activity prov:used fsld:cisite_65.
+fsld:cisite_65 prov:wasAttributedTo <http://orcid.org/0000-0002-3246-3531>.
+fsld:cisite_65_activity prov:wasAssociatedWith <http://orcid.org/0000-0002-3246-3531>.
+fsld:cisite_65 dct:license <https://creativecommons.org/licenses/by/4.0/> .
+fsld:cisite_65 dct:creator <https://orcid.org/0000-0002-3246-3531> .
+fsld:cisite_65 dct:creator <https://orcid.org/0000-0003-1100-6494> .
+fsld:cisite_65 dct:rightsHolder <https://orcid.org/0000-0002-3246-3531> .
+fsld:cisite_65 dct:rightsHolder <https://orcid.org/0000-0003-1100-6494> .
+fsld:cisite_65 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+fsld:cisite_65 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
+fsld:cisite_65 prov:wasGeneratedBy fsld:cisite_65_pyscript .
+fsld:cisite_65_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
+fsld:cisite_65_pyscript prov:startedAtTime '2023-08-14T13:16:26.837949Z'^^xsd:dateTime .
+fsld:cisite_65_pyscript prov:endedAtTime '2023-08-14T13:16:26.860816Z'^^xsd:dateTime .
+fsld:cisite_65_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+
