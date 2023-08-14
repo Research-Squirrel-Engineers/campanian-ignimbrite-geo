@@ -97,8 +97,11 @@ for index, row in data.iterrows():
     for i in relatedtos:
         lines.append("fsld:cisite_" + str(row['id']) +
                      " " + str(row['relatedtohow']) + " <" + i + ">.")
-    lines.append("fsld:cisite_" +
-                 str(row['id']) + " " + "fsl:spatialType" + " " + str(row['spatialtype']) + ".")
+    spatialtype = str(row['spatialtype'])
+    spatialtypes = spatialtype.split(";")
+    for i in spatialtypes:
+        lines.append("fsld:cisite_" +
+                     str(row['id']) + " " + "fsl:spatialType" + " " + i + ".")
     # literature
     if str(row['literature']) != 'nan':
         lit = str(row['literature'])
