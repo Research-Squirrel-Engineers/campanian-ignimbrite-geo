@@ -1,0 +1,23 @@
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://fuzzy-sl.squirrel.link/data/Point_collection> a geo:GeometryCollection ;
+    rdfs:label "Point Instances Collection" ;
+    rdfs:member <http://fuzzy-sl.squirrel.link/data/cisite_10_geom>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_19_geom>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_27_geom>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_28_geom>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_42_geom>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_43_geom>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_44_geom>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_45_geom>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_48_geom>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_50_geom>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_51_geom>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_52_geom>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_54_geom>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_55_geom>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_5_geom>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_65_geom>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_6_geom> .
+

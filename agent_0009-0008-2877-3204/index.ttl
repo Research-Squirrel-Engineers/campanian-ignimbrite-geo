@@ -1,0 +1,8 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://fuzzy-sl.squirrel.link/data/agent_0009-0008-2877-3204> a prov:Agent,
+        foaf:Person ;
+    skos:exactMatch <http://orcid.org/0009-0008-2877-3204> .
+

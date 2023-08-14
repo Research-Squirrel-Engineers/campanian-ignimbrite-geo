@@ -1,0 +1,23 @@
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://fuzzy-sl.squirrel.link/data/Entity_collection> a geo:FeatureCollection ;
+    rdfs:label "Entity Instances Collection" ;
+    rdfs:member <http://fuzzy-sl.squirrel.link/data/cisite_10>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_19>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_27>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_28>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_42>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_43>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_44>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_45>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_48>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_5>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_50>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_51>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_52>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_54>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_55>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_6>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_65> .
+

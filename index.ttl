@@ -1,0 +1,1028 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://archaeoinformatics.link/ontology#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://fuzzy-sl.squirrel.link/data/Activity_collection> a skos:Collection ;
+    rdfs:label "Activity Instances Collection" ;
+    rdfs:member <http://fuzzy-sl.squirrel.link/data/cisite_10_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_10_pyscript>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_19_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_19_pyscript>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_27_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_27_pyscript>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_28_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_28_pyscript>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_42_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_42_pyscript>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_43_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_43_pyscript>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_44_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_44_pyscript>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_45_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_45_pyscript>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_48_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_48_pyscript>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_50_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_50_pyscript>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_51_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_51_pyscript>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_52_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_52_pyscript>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_54_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_54_pyscript>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_55_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_55_pyscript>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_5_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_5_pyscript>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_65_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_65_pyscript>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_6_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_6_pyscript> .
+
+<http://fuzzy-sl.squirrel.link/data/Agent_collection> a skos:Collection ;
+    rdfs:label "Agent Instances Collection" ;
+    rdfs:member <http://fuzzy-sl.squirrel.link/data/agent_0000-0002-3246-3531>,
+        <http://fuzzy-sl.squirrel.link/data/agent_0009-0008-2877-3204> .
+
+<http://fuzzy-sl.squirrel.link/data/Entity_collection> a geo:FeatureCollection ;
+    rdfs:label "Entity Instances Collection" ;
+    rdfs:member <http://fuzzy-sl.squirrel.link/data/cisite_10>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_19>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_27>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_28>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_42>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_43>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_44>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_45>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_48>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_5>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_50>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_51>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_52>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_54>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_55>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_6>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_65> .
+
+<http://fuzzy-sl.squirrel.link/data/Georeferencing_collection> a skos:Collection ;
+    rdfs:label "Georeferencing Instances Collection" ;
+    rdfs:member <http://fuzzy-sl.squirrel.link/data/cisite_10_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_19_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_27_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_28_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_42_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_43_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_44_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_45_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_48_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_50_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_51_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_52_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_54_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_55_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_5_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_65_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_6_activity> .
+
+<http://fuzzy-sl.squirrel.link/data/Person_collection> a skos:Collection ;
+    rdfs:label "Person Instances Collection" ;
+    rdfs:member <http://fuzzy-sl.squirrel.link/data/agent_0000-0002-3246-3531>,
+        <http://fuzzy-sl.squirrel.link/data/agent_0009-0008-2877-3204> .
+
+<http://fuzzy-sl.squirrel.link/data/Place_collection> a geo:FeatureCollection ;
+    rdfs:label "Place Instances Collection" ;
+    rdfs:member <http://fuzzy-sl.squirrel.link/data/cisite_10>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_19>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_27>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_28>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_42>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_43>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_44>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_45>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_48>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_5>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_50>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_51>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_52>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_54>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_55>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_6>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_65> .
+
+<http://fuzzy-sl.squirrel.link/data/Point_collection> a geo:GeometryCollection ;
+    rdfs:label "Point Instances Collection" ;
+    rdfs:member <http://fuzzy-sl.squirrel.link/data/cisite_10_geom>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_19_geom>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_27_geom>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_28_geom>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_42_geom>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_43_geom>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_44_geom>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_45_geom>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_48_geom>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_50_geom>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_51_geom>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_52_geom>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_54_geom>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_55_geom>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_5_geom>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_65_geom>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_6_geom> .
+
+<http://fuzzy-sl.squirrel.link/data/Site_collection> a geo:FeatureCollection ;
+    rdfs:label "Site Instances Collection" ;
+    rdfs:member <http://fuzzy-sl.squirrel.link/data/cisite_10>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_19>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_27>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_28>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_42>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_43>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_44>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_45>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_48>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_5>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_50>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_51>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_52>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_54>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_55>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_6>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_65> .
+
+<http://fuzzy-sl.squirrel.link/data/agent_0000-0002-3246-3531> a prov:Agent,
+        foaf:Person ;
+    skos:exactMatch <http://orcid.org/0000-0002-3246-3531> .
+
+<http://fuzzy-sl.squirrel.link/data/agent_0009-0008-2877-3204> a prov:Agent,
+        foaf:Person ;
+    skos:exactMatch <http://orcid.org/0009-0008-2877-3204> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_10_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:medium ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(14.3998 40.6385)"^^geo:wktLiteral .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_10_pyscript> a prov:Activity ;
+    prov:endedAtTime "2023-08-14T13:25:10.151648+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-08-14T13:25:10.140753+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_19_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:medium ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(15.6150 41.6541)"^^geo:wktLiteral .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_19_pyscript> a prov:Activity ;
+    prov:endedAtTime "2023-08-14T13:25:10.155714+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-08-14T13:25:10.140753+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_27_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:medium ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(14.3733 40.6070)"^^geo:wktLiteral .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_27_pyscript> a prov:Activity ;
+    prov:endedAtTime "2023-08-14T13:25:10.155845+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-08-14T13:25:10.140753+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_28_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:medium ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(14.7402 40.9746)"^^geo:wktLiteral .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_28_pyscript> a prov:Activity ;
+    prov:endedAtTime "2023-08-14T13:25:10.155845+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-08-14T13:25:10.140753+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_42_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:high ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(22.7024 43.6519)"^^geo:wktLiteral .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_42_pyscript> a prov:Activity ;
+    prov:endedAtTime "2023-08-14T13:25:10.155845+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-08-14T13:25:10.140753+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_43_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:high ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(23.3848 43.0892)"^^geo:wktLiteral .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_43_pyscript> a prov:Activity ;
+    prov:endedAtTime "2023-08-14T13:25:10.155845+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-08-14T13:25:10.140753+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_44_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:high ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(24.0053 43.1907)"^^geo:wktLiteral .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_44_pyscript> a prov:Activity ;
+    prov:endedAtTime "2023-08-14T13:25:10.155845+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-08-14T13:25:10.140753+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_45_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:high ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(23.1311 37.4226)"^^geo:wktLiteral .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_45_pyscript> a prov:Activity ;
+    prov:endedAtTime "2023-08-14T13:25:10.155845+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-08-14T13:25:10.140753+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_48_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:medium ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(14.2921 44.5104)"^^geo:wktLiteral .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_48_pyscript> a prov:Activity ;
+    prov:endedAtTime "2023-08-14T13:25:10.155845+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-08-14T13:25:10.140753+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_50_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:dubious ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(21.1617 41.8117)"^^geo:wktLiteral .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_50_pyscript> a prov:Activity ;
+    prov:endedAtTime "2023-08-14T13:25:10.155845+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-08-14T13:25:10.140753+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_51_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:high ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(18.4815 42.7790) "^^geo:wktLiteral .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_51_pyscript> a prov:Activity ;
+    prov:endedAtTime "2023-08-14T13:25:10.155845+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-08-14T13:25:10.140753+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_52_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:medium ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(27.9021 44.0947)"^^geo:wktLiteral .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_52_pyscript> a prov:Activity ;
+    prov:endedAtTime "2023-08-14T13:25:10.155845+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-08-14T13:25:10.140753+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_54_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:medium ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(27.8491 44.3921)"^^geo:wktLiteral .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_54_pyscript> a prov:Activity ;
+    prov:endedAtTime "2023-08-14T13:25:10.155845+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-08-14T13:25:10.140753+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_55_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:low ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(25.2920 43.6550)"^^geo:wktLiteral .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_55_pyscript> a prov:Activity ;
+    prov:endedAtTime "2023-08-14T13:25:10.155845+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-08-14T13:25:10.140753+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_5_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:high ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(15.2092 40.4956)"^^geo:wktLiteral .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_5_pyscript> a prov:Activity ;
+    prov:endedAtTime "2023-08-14T13:25:10.151648+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-08-14T13:25:10.140753+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_65_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:high ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(22.0516 32.9002)"^^geo:wktLiteral .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_65_pyscript> a prov:Activity ;
+    prov:endedAtTime "2023-08-14T13:25:10.155845+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-08-14T13:25:10.140753+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_6_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:medium ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(14.7662 40.7198)"^^geo:wktLiteral .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_6_pyscript> a prov:Activity ;
+    prov:endedAtTime "2023-08-14T13:25:10.151648+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-08-14T13:25:10.140753+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_10_activity> a ns1:Georeferencing,
+        prov:Activity ;
+    ns1:activityDesc "set a representative point based on scientific papers using Google Maps"@en ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:medium ;
+    ns1:hasReference "Civetta et al., 1997" ;
+    ns1:hasSource ns1:PaperDesc ;
+    ns1:hasSourceType ns1:Paper ;
+    prov:endedAtTime "2023-08-14T13:25:10.151648+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-08-14T13:25:10.140753+00:00"^^xsd:dateTime ;
+    prov:used <http://fuzzy-sl.squirrel.link/data/cisite_10> ;
+    prov:wasAssociatedWith <http://orcid.org/0009-0008-2877-3204> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_19_activity> a ns1:Georeferencing,
+        prov:Activity ;
+    ns1:activityDesc "set a representative point based on scientific papers using OSM Node 2293681037"@en ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:medium ;
+    ns1:hasReference "Giaccio et al., 2008" ;
+    ns1:hasSource ns1:PaperDesc ;
+    ns1:hasSourceType ns1:Paper ;
+    prov:endedAtTime "2023-08-14T13:25:10.151648+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-08-14T13:25:10.140753+00:00"^^xsd:dateTime ;
+    prov:used <http://fuzzy-sl.squirrel.link/data/cisite_19> ;
+    prov:wasAssociatedWith <http://orcid.org/0000-0002-3246-3531> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_27_activity> a ns1:Georeferencing,
+        prov:Activity ;
+    ns1:activityDesc "set a representative point based on scientific papers using OSM Node 705576753"@en ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:medium ;
+    ns1:hasReference "Civetta et al., 1997" ;
+    ns1:hasSource ns1:PaperDesc ;
+    ns1:hasSourceType ns1:Paper ;
+    prov:endedAtTime "2023-08-14T13:25:10.155845+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-08-14T13:25:10.140753+00:00"^^xsd:dateTime ;
+    prov:used <http://fuzzy-sl.squirrel.link/data/cisite_27> ;
+    prov:wasAssociatedWith <http://orcid.org/0000-0002-3246-3531> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_28_activity> a ns1:Georeferencing,
+        prov:Activity ;
+    ns1:activityDesc "set a representative point based on scientific papers using OSM Node 68567290"@en ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:medium ;
+    ns1:hasReference "Rosi et al., 1999" ;
+    ns1:hasSource ns1:PaperDesc ;
+    ns1:hasSourceType ns1:Paper ;
+    prov:endedAtTime "2023-08-14T13:25:10.155845+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-08-14T13:25:10.140753+00:00"^^xsd:dateTime ;
+    prov:used <http://fuzzy-sl.squirrel.link/data/cisite_28> ;
+    prov:wasAssociatedWith <http://orcid.org/0000-0002-3246-3531> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_42_activity> a ns1:Georeferencing,
+        prov:Activity ;
+    ns1:activityDesc "set a representative point based on scientific papers using Google Maps"@en ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:high ;
+    ns1:hasReference "Lowe et al., 2012" ;
+    ns1:hasSource ns1:PaperDesc ;
+    ns1:hasSourceType ns1:Paper ;
+    prov:endedAtTime "2023-08-14T13:25:10.155845+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-08-14T13:25:10.140753+00:00"^^xsd:dateTime ;
+    prov:used <http://fuzzy-sl.squirrel.link/data/cisite_42> ;
+    prov:wasAssociatedWith <http://orcid.org/0009-0008-2877-3204> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_43_activity> a ns1:Georeferencing,
+        prov:Activity ;
+    ns1:activityDesc "set a representative point based on scientific papers using Google Maps"@en ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:high ;
+    ns1:hasReference "Fedele et al., 2008, 2003",
+        "Fitzsimmons et al., 2013",
+        "Giaccio et al., 2008" ;
+    ns1:hasSource ns1:PaperDesc ;
+    ns1:hasSourceType ns1:Paper ;
+    prov:endedAtTime "2023-08-14T13:25:10.155845+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-08-14T13:25:10.140753+00:00"^^xsd:dateTime ;
+    prov:used <http://fuzzy-sl.squirrel.link/data/cisite_43> ;
+    prov:wasAssociatedWith <http://orcid.org/0009-0008-2877-3204> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_44_activity> a ns1:Georeferencing,
+        prov:Activity ;
+    ns1:activityDesc "set a representative point based on scientific papers using Tsanova et al., 2021, p.2"@en ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:high ;
+    ns1:hasReference "Tsanova et al., 2021" ;
+    ns1:hasSource ns1:PaperDesc ;
+    ns1:hasSourceType ns1:Paper ;
+    prov:endedAtTime "2023-08-14T13:25:10.155845+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-08-14T13:25:10.140753+00:00"^^xsd:dateTime ;
+    prov:used <http://fuzzy-sl.squirrel.link/data/cisite_44> ;
+    prov:wasAssociatedWith <http://orcid.org/0000-0002-3246-3531> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_45_activity> a ns1:Georeferencing,
+        prov:Activity ;
+    ns1:activityDesc "set a representative point based on scientific papers using OSM Node 1221172611"@en ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:high ;
+    ns1:hasReference "Fedele et al., 2003" ;
+    ns1:hasSource ns1:PaperDesc ;
+    ns1:hasSourceType ns1:Paper ;
+    prov:endedAtTime "2023-08-14T13:25:10.155845+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-08-14T13:25:10.140753+00:00"^^xsd:dateTime ;
+    prov:used <http://fuzzy-sl.squirrel.link/data/cisite_45> ;
+    prov:wasAssociatedWith <http://orcid.org/0000-0002-3246-3531> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_48_activity> a ns1:Georeferencing,
+        prov:Activity ;
+    ns1:activityDesc "set a representative point based on scientific papers using Google Maps"@en ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:medium ;
+    ns1:hasReference "Wacha, 2011" ;
+    ns1:hasSource ns1:PaperDesc ;
+    ns1:hasSourceType ns1:Paper ;
+    prov:endedAtTime "2023-08-14T13:25:10.155845+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-08-14T13:25:10.140753+00:00"^^xsd:dateTime ;
+    prov:used <http://fuzzy-sl.squirrel.link/data/cisite_48> ;
+    prov:wasAssociatedWith <http://orcid.org/0009-0008-2877-3204> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_50_activity> a ns1:Georeferencing,
+        prov:Activity ;
+    ns1:activityDesc "set a representative point based on scientific papers using Google Maps"@en ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:dubious ;
+    ns1:hasReference "Lowe et al., 2012" ;
+    ns1:hasSource ns1:PaperDesc ;
+    ns1:hasSourceType ns1:Paper ;
+    prov:endedAtTime "2023-08-14T13:25:10.155845+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-08-14T13:25:10.140753+00:00"^^xsd:dateTime ;
+    prov:used <http://fuzzy-sl.squirrel.link/data/cisite_50> ;
+    prov:wasAssociatedWith <http://orcid.org/0009-0008-2877-3204> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_51_activity> a ns1:Georeferencing,
+        prov:Activity ;
+    ns1:activityDesc "set a representative point based on scientific papers using Google Maps"@en ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:high ;
+    ns1:hasReference "Morley & Woodward, 2011" ;
+    ns1:hasSource ns1:PaperDesc ;
+    ns1:hasSourceType ns1:Paper ;
+    prov:endedAtTime "2023-08-14T13:25:10.155845+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-08-14T13:25:10.140753+00:00"^^xsd:dateTime ;
+    prov:used <http://fuzzy-sl.squirrel.link/data/cisite_51> ;
+    prov:wasAssociatedWith <http://orcid.org/0009-0008-2877-3204> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_52_activity> a ns1:Georeferencing,
+        prov:Activity ;
+    ns1:activityDesc "set a representative point based on scientific papers using Google Maps"@en ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:medium ;
+    ns1:hasReference "Fitzsimmons et al., 2014, 2013",
+        "Obreht et al., 2017",
+        "Pötter et al., 2021" ;
+    ns1:hasSource ns1:PaperDesc ;
+    ns1:hasSourceType ns1:Paper ;
+    prov:endedAtTime "2023-08-14T13:25:10.155845+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-08-14T13:25:10.140753+00:00"^^xsd:dateTime ;
+    prov:used <http://fuzzy-sl.squirrel.link/data/cisite_52> ;
+    prov:wasAssociatedWith <http://orcid.org/0009-0008-2877-3204> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_54_activity> a ns1:Georeferencing,
+        prov:Activity ;
+    ns1:activityDesc "set a representative point based on scientific papers using Google Maps"@en ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:medium ;
+    ns1:hasReference "Obreht et al., 2017" ;
+    ns1:hasSource ns1:PaperDesc ;
+    ns1:hasSourceType ns1:Paper ;
+    prov:endedAtTime "2023-08-14T13:25:10.155845+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-08-14T13:25:10.140753+00:00"^^xsd:dateTime ;
+    prov:used <http://fuzzy-sl.squirrel.link/data/cisite_54> ;
+    prov:wasAssociatedWith <http://orcid.org/0009-0008-2877-3204> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_55_activity> a ns1:Georeferencing,
+        prov:Activity ;
+    ns1:activityDesc "set a representative point based on scientific papers using Google Maps and Obdreht et al (2017), Fig. 1"@en ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:low ;
+    ns1:hasReference "Obreht et al., 2017" ;
+    ns1:hasSource ns1:PaperDesc ;
+    ns1:hasSourceType ns1:Paper ;
+    prov:endedAtTime "2023-08-14T13:25:10.155845+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-08-14T13:25:10.140753+00:00"^^xsd:dateTime ;
+    prov:used <http://fuzzy-sl.squirrel.link/data/cisite_55> ;
+    prov:wasAssociatedWith <http://orcid.org/0000-0002-3246-3531> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_5_activity> a ns1:Georeferencing,
+        prov:Activity ;
+    ns1:activityDesc "set a representative point based on scientific papers using OSM Node 337519639"@en ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:high ;
+    ns1:hasReference "Fedele et al., 2008",
+        "Giaccio et al., 2008" ;
+    ns1:hasSource ns1:PaperDesc ;
+    ns1:hasSourceType ns1:Paper ;
+    prov:endedAtTime "2023-08-14T13:25:10.151648+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-08-14T13:25:10.140753+00:00"^^xsd:dateTime ;
+    prov:used <http://fuzzy-sl.squirrel.link/data/cisite_5> ;
+    prov:wasAssociatedWith <http://orcid.org/0000-0002-3246-3531> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_65_activity> a ns1:Georeferencing,
+        prov:Activity ;
+    ns1:activityDesc "set a representative point based on scientific papers using OSM Node 7778324735"@en ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:high ;
+    ns1:hasReference "Lowe et al., 2012" ;
+    ns1:hasSource ns1:PaperDesc ;
+    ns1:hasSourceType ns1:Paper ;
+    prov:endedAtTime "2023-08-14T13:25:10.155845+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-08-14T13:25:10.140753+00:00"^^xsd:dateTime ;
+    prov:used <http://fuzzy-sl.squirrel.link/data/cisite_65> ;
+    prov:wasAssociatedWith <http://orcid.org/0000-0002-3246-3531> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_6_activity> a ns1:Georeferencing,
+        prov:Activity ;
+    ns1:activityDesc "set a representative point based on scientific papers using OSM Node 4371325110"@en ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:medium ;
+    ns1:hasReference "Rosi et al., 1999" ;
+    ns1:hasSource ns1:PaperDesc ;
+    ns1:hasSourceType ns1:Paper ;
+    prov:endedAtTime "2023-08-14T13:25:10.151648+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-08-14T13:25:10.140753+00:00"^^xsd:dateTime ;
+    prov:used <http://fuzzy-sl.squirrel.link/data/cisite_6> ;
+    prov:wasAssociatedWith <http://orcid.org/0000-0002-3246-3531> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_10> a ns1:Site,
+        prov:Entity,
+        <https://pleiades.stoa.org/places/vocab#Place> ;
+    rdfs:label "Marina di Cassano (Naples)"@en ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:medium ;
+    ns1:hasReference "Civetta et al., 1997" ;
+    ns1:partOf ns1:CampanianIgnimbriteProject ;
+    ns1:siteType ns1:ArchaeologicalSite ;
+    ns1:spatialType ns1:Bight ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-1100-6494> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-1100-6494> ;
+    geo:hasGeometry <http://fuzzy-sl.squirrel.link/data/cisite_10_geom> ;
+    rdfs:comment "CI findspot related from literature"@en ;
+    skos:closeMatch <http://openstreetmap.org/node/566221732>,
+        <http://sws.geonames.org/11961630> ;
+    skos:prefLabel "Marina di Cassano (Naples)"@en ;
+    skos:scopeNote "CI findspot related from literature"@en ;
+    prov:wasAttributedTo <http://orcid.org/0009-0008-2877-3204>,
+        <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> ;
+    prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> ;
+    prov:wasGeneratedBy <http://fuzzy-sl.squirrel.link/data/cisite_10_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_10_pyscript> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_19> a ns1:Site,
+        prov:Entity,
+        <https://pleiades.stoa.org/places/vocab#Place> ;
+    rdfs:label "Paglicci Cave"@en ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:medium ;
+    ns1:hasReference "Giaccio et al., 2008" ;
+    ns1:partOf ns1:CampanianIgnimbriteProject ;
+    ns1:siteType ns1:ArchaeologicalSite ;
+    ns1:spatialType ns1:ArchaeologicalSite,
+        ns1:Cave ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-1100-6494> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-1100-6494> ;
+    geo:hasGeometry <http://fuzzy-sl.squirrel.link/data/cisite_19_geom> ;
+    rdfs:comment "CI findspot related from literature"@en ;
+    skos:closeMatch <http://openstreetmap.org/node/2293681037>,
+        <http://wikidata.org/entity/Q3777010> ;
+    skos:prefLabel "Paglicci Cave"@en ;
+    skos:scopeNote "CI findspot related from literature"@en ;
+    prov:wasAttributedTo <http://orcid.org/0000-0002-3246-3531>,
+        <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> ;
+    prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> ;
+    prov:wasGeneratedBy <http://fuzzy-sl.squirrel.link/data/cisite_19_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_19_pyscript> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_27> a ns1:Site,
+        prov:Entity,
+        <https://pleiades.stoa.org/places/vocab#Place> ;
+    rdfs:label "Sant‘ Agata dei due Golfi"@en ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:medium ;
+    ns1:hasReference "Civetta et al., 1997" ;
+    ns1:partOf ns1:CampanianIgnimbriteProject ;
+    ns1:siteType ns1:ArchaeologicalSite ;
+    ns1:spatialType ns1:InhabitedPlace ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-1100-6494> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-1100-6494> ;
+    geo:hasGeometry <http://fuzzy-sl.squirrel.link/data/cisite_27_geom> ;
+    rdfs:comment "CI findspot related from literature"@en ;
+    skos:closeMatch <http://openstreetmap.org/node/705576753>,
+        <http://wikidata.org/entity/Q1860399> ;
+    skos:prefLabel "Sant‘ Agata dei due Golfi"@en ;
+    skos:scopeNote "CI findspot related from literature"@en ;
+    prov:wasAttributedTo <http://orcid.org/0000-0002-3246-3531>,
+        <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> ;
+    prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> ;
+    prov:wasGeneratedBy <http://fuzzy-sl.squirrel.link/data/cisite_27_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_27_pyscript> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_28> a ns1:Site,
+        prov:Entity,
+        <https://pleiades.stoa.org/places/vocab#Place> ;
+    rdfs:label "Sant‘ Angelo a Scala"@en ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:medium ;
+    ns1:hasReference "Rosi et al., 1999" ;
+    ns1:partOf ns1:CampanianIgnimbriteProject ;
+    ns1:siteType ns1:ArchaeologicalSite ;
+    ns1:spatialType ns1:InhabitedPlace ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-1100-6494> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-1100-6494> ;
+    geo:hasGeometry <http://fuzzy-sl.squirrel.link/data/cisite_28_geom> ;
+    rdfs:comment "CI findspot related from literature"@en ;
+    skos:closeMatch <http://openstreetmap.org/node/68567290>,
+        <http://wikidata.org/entity/Q55100> ;
+    skos:prefLabel "Sant‘ Angelo a Scala"@en ;
+    skos:scopeNote "CI findspot related from literature"@en ;
+    prov:wasAttributedTo <http://orcid.org/0000-0002-3246-3531>,
+        <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> ;
+    prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> ;
+    prov:wasGeneratedBy <http://fuzzy-sl.squirrel.link/data/cisite_28_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_28_pyscript> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_42> a ns1:Site,
+        prov:Entity,
+        <https://pleiades.stoa.org/places/vocab#Place> ;
+    rdfs:label "Kozarnika Cave (Bulgaria)"@en ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:high ;
+    ns1:hasReference "Lowe et al., 2012" ;
+    ns1:partOf ns1:CampanianIgnimbriteProject ;
+    ns1:siteType ns1:ArchaeologicalSite ;
+    ns1:spatialType ns1:Cave ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-1100-6494> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-1100-6494> ;
+    geo:hasGeometry <http://fuzzy-sl.squirrel.link/data/cisite_42_geom> ;
+    rdfs:comment "CI findspot related from literature"@en ;
+    skos:closeMatch <http://openstreetmap.org/node/8814442373>,
+        <http://wikidata.org/entity/Q2037533> ;
+    skos:prefLabel "Kozarnika Cave (Bulgaria)"@en ;
+    skos:scopeNote "CI findspot related from literature"@en ;
+    prov:wasAttributedTo <http://orcid.org/0009-0008-2877-3204>,
+        <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> ;
+    prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> ;
+    prov:wasGeneratedBy <http://fuzzy-sl.squirrel.link/data/cisite_42_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_42_pyscript> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_43> a ns1:Site,
+        prov:Entity,
+        <https://pleiades.stoa.org/places/vocab#Place> ;
+    rdfs:label "Temnata Cave (Bulgaria)"@en ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:high ;
+    ns1:hasReference "Fedele et al., 2008, 2003",
+        "Fitzsimmons et al., 2013",
+        "Giaccio et al., 2008" ;
+    ns1:partOf ns1:CampanianIgnimbriteProject ;
+    ns1:siteType ns1:ArchaeologicalSite ;
+    ns1:spatialType ns1:Cave ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-1100-6494> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-1100-6494> ;
+    geo:hasGeometry <http://fuzzy-sl.squirrel.link/data/cisite_43_geom> ;
+    rdfs:comment "CI findspot related from literature"@en ;
+    skos:closeMatch <http://openstreetmap.org/node/369821847>,
+        <http://sws.geonames.org/726486>,
+        <http://wikidata.org/entity/Q12296153> ;
+    skos:prefLabel "Temnata Cave (Bulgaria)"@en ;
+    skos:scopeNote "CI findspot related from literature"@en ;
+    prov:wasAttributedTo <http://orcid.org/0009-0008-2877-3204>,
+        <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> ;
+    prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> ;
+    prov:wasGeneratedBy <http://fuzzy-sl.squirrel.link/data/cisite_43_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_43_pyscript> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_44> a ns1:Site,
+        prov:Entity,
+        <https://pleiades.stoa.org/places/vocab#Place> ;
+    rdfs:label "Toplitsa Cave (Bulgaria)"@en ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:high ;
+    ns1:hasReference "Tsanova et al., 2021" ;
+    ns1:partOf ns1:CampanianIgnimbriteProject ;
+    ns1:siteType ns1:ArchaeologicalSite ;
+    ns1:spatialType ns1:ArchaeologicalSite,
+        ns1:Cave ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-1100-6494> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-1100-6494> ;
+    geo:hasGeometry <http://fuzzy-sl.squirrel.link/data/cisite_44_geom> ;
+    rdfs:comment "CI findspot related from literature"@en ;
+    skos:closeMatch <http://openstreetmap.org/node/11109379095>,
+        <http://wikidata.org/entity/Q61788595> ;
+    skos:prefLabel "Toplitsa Cave (Bulgaria)"@en ;
+    skos:scopeNote "CI findspot related from literature"@en ;
+    prov:wasAttributedTo <http://orcid.org/0000-0002-3246-3531>,
+        <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> ;
+    prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> ;
+    prov:wasGeneratedBy <http://fuzzy-sl.squirrel.link/data/cisite_44_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_44_pyscript> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_45> a ns1:Site,
+        prov:Entity,
+        <https://pleiades.stoa.org/places/vocab#Place> ;
+    rdfs:label "Franchthi Cave (Greece)"@en ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:high ;
+    ns1:hasReference "Fedele et al., 2003" ;
+    ns1:partOf ns1:CampanianIgnimbriteProject ;
+    ns1:siteType ns1:ArchaeologicalSite ;
+    ns1:spatialType ns1:ArchaeologicalSite,
+        ns1:Cave ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-1100-6494> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-1100-6494> ;
+    geo:hasGeometry <http://fuzzy-sl.squirrel.link/data/cisite_45_geom> ;
+    rdfs:comment "CI findspot related from literature"@en ;
+    skos:closeMatch <http://openstreetmap.org/node/1221172611>,
+        <http://wikidata.org/entity/Q1441331> ;
+    skos:prefLabel "Franchthi Cave (Greece)"@en ;
+    skos:scopeNote "CI findspot related from literature"@en ;
+    prov:wasAttributedTo <http://orcid.org/0000-0002-3246-3531>,
+        <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> ;
+    prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> ;
+    prov:wasGeneratedBy <http://fuzzy-sl.squirrel.link/data/cisite_45_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_45_pyscript> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_48> a ns1:Site,
+        prov:Entity,
+        <https://pleiades.stoa.org/places/vocab#Place> ;
+    rdfs:label "Susak Island (Greece)"@en ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:medium ;
+    ns1:hasReference "Wacha, 2011" ;
+    ns1:partOf ns1:CampanianIgnimbriteProject ;
+    ns1:siteType ns1:ArchaeologicalSite ;
+    ns1:spatialType ns1:Island ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-1100-6494> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-1100-6494> ;
+    geo:hasGeometry <http://fuzzy-sl.squirrel.link/data/cisite_48_geom> ;
+    rdfs:comment "CI findspot related from literature"@en ;
+    skos:closeMatch <http://openstreetmap.org/relation/9854999>,
+        <http://sws.geonames.org/3189468> ;
+    skos:prefLabel "Susak Island (Greece)"@en ;
+    skos:scopeNote "CI findspot related from literature"@en ;
+    prov:wasAttributedTo <http://orcid.org/0009-0008-2877-3204>,
+        <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> ;
+    prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> ;
+    prov:wasGeneratedBy <http://fuzzy-sl.squirrel.link/data/cisite_48_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_48_pyscript> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_5> a ns1:Site,
+        prov:Entity,
+        <https://pleiades.stoa.org/places/vocab#Place> ;
+    rdfs:label "Castelcivita Cave"@en ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:high ;
+    ns1:hasReference "Fedele et al., 2008",
+        "Giaccio et al., 2008" ;
+    ns1:partOf ns1:CampanianIgnimbriteProject ;
+    ns1:siteType ns1:ArchaeologicalSite ;
+    ns1:spatialType ns1:Cave ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-1100-6494> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-1100-6494> ;
+    geo:hasGeometry <http://fuzzy-sl.squirrel.link/data/cisite_5_geom> ;
+    rdfs:comment "CI findspot related from literature"@en ;
+    skos:closeMatch <http://openstreetmap.org/node/337519639>,
+        <http://wikidata.org/entity/Q3777120> ;
+    skos:prefLabel "Castelcivita Cave"@en ;
+    skos:scopeNote "CI findspot related from literature"@en ;
+    prov:wasAttributedTo <http://orcid.org/0000-0002-3246-3531>,
+        <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> ;
+    prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> ;
+    prov:wasGeneratedBy <http://fuzzy-sl.squirrel.link/data/cisite_5_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_5_pyscript> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_50> a ns1:Site,
+        prov:Entity,
+        <https://pleiades.stoa.org/places/vocab#Place> ;
+    rdfs:label "Golema Pesht Cave near Zdunje (Macedonia)"@en ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:dubious ;
+    ns1:hasReference "Lowe et al., 2012" ;
+    ns1:partOf ns1:CampanianIgnimbriteProject ;
+    ns1:siteType ns1:ArchaeologicalSite ;
+    ns1:spatialType ns1:ArchaeologicalSite,
+        ns1:Cave ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-1100-6494> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-1100-6494> ;
+    geo:hasGeometry <http://fuzzy-sl.squirrel.link/data/cisite_50_geom> ;
+    rdfs:comment "CI findspot related from literature"@en ;
+    skos:closeMatch <http://openstreetmap.org/node/11107939919>,
+        <http://wikidata.org/entity/Q20565511> ;
+    skos:prefLabel "Golema Pesht Cave near Zdunje (Macedonia)"@en ;
+    skos:scopeNote "CI findspot related from literature"@en ;
+    prov:wasAttributedTo <http://orcid.org/0009-0008-2877-3204>,
+        <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> ;
+    prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> ;
+    prov:wasGeneratedBy <http://fuzzy-sl.squirrel.link/data/cisite_50_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_50_pyscript> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_51> a ns1:Site,
+        prov:Entity,
+        <https://pleiades.stoa.org/places/vocab#Place> ;
+    rdfs:label "Crvena Stiljena (Montenegro)"@en ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:high ;
+    ns1:hasReference "Morley & Woodward, 2011" ;
+    ns1:partOf ns1:CampanianIgnimbriteProject ;
+    ns1:siteType ns1:ArchaeologicalSite ;
+    ns1:spatialType ns1:ArchaeologicalSite,
+        ns1:Cave ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-1100-6494> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-1100-6494> ;
+    geo:hasGeometry <http://fuzzy-sl.squirrel.link/data/cisite_51_geom> ;
+    rdfs:comment "CI findspot related from literature"@en ;
+    skos:closeMatch <http://openstreetmap.org/node/10879170567>,
+        <http://wikidata.org/entity/Q121418883> ;
+    skos:prefLabel "Crvena Stiljena (Montenegro)"@en ;
+    skos:scopeNote "CI findspot related from literature"@en ;
+    prov:wasAttributedTo <http://orcid.org/0009-0008-2877-3204>,
+        <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> ;
+    prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> ;
+    prov:wasGeneratedBy <http://fuzzy-sl.squirrel.link/data/cisite_51_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_51_pyscript> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_52> a ns1:Site,
+        prov:Entity,
+        <https://pleiades.stoa.org/places/vocab#Place> ;
+    rdfs:label "Urluia (Romania)"@en ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:medium ;
+    ns1:hasReference "Fitzsimmons et al., 2014, 2013",
+        "Obreht et al., 2017",
+        "Pötter et al., 2021" ;
+    ns1:partOf ns1:CampanianIgnimbriteProject ;
+    ns1:siteType ns1:ArchaeologicalSite ;
+    ns1:spatialType ns1:InhabitedPlace ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-1100-6494> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-1100-6494> ;
+    geo:hasGeometry <http://fuzzy-sl.squirrel.link/data/cisite_52_geom> ;
+    rdfs:comment "CI findspot related from literature"@en ;
+    skos:closeMatch <http://sws.geonames.org/664132> ;
+    skos:prefLabel "Urluia (Romania)"@en ;
+    skos:scopeNote "CI findspot related from literature"@en ;
+    prov:wasAttributedTo <http://orcid.org/0009-0008-2877-3204>,
+        <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> ;
+    prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> ;
+    prov:wasGeneratedBy <http://fuzzy-sl.squirrel.link/data/cisite_52_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_52_pyscript> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_54> a ns1:Site,
+        prov:Entity,
+        <https://pleiades.stoa.org/places/vocab#Place> ;
+    rdfs:label "Vlasca (Romania)"@en ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:medium ;
+    ns1:hasReference "Obreht et al., 2017" ;
+    ns1:partOf ns1:CampanianIgnimbriteProject ;
+    ns1:siteType ns1:ArchaeologicalSite ;
+    ns1:spatialType ns1:UnknownCategory ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-1100-6494> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-1100-6494> ;
+    geo:hasGeometry <http://fuzzy-sl.squirrel.link/data/cisite_54_geom> ;
+    rdfs:comment "CI findspot related from literature"@en ;
+    skos:closeMatch <http://sws.geonames.org/662562> ;
+    skos:prefLabel "Vlasca (Romania)"@en ;
+    skos:scopeNote "CI findspot related from literature"@en ;
+    prov:wasAttributedTo <http://orcid.org/0009-0008-2877-3204>,
+        <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> ;
+    prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> ;
+    prov:wasGeneratedBy <http://fuzzy-sl.squirrel.link/data/cisite_54_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_54_pyscript> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_55> a ns1:Site,
+        prov:Entity,
+        <https://pleiades.stoa.org/places/vocab#Place> ;
+    rdfs:label "Lower Danube Basin (Romania)"@en ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:low ;
+    ns1:hasReference "Obreht et al., 2017" ;
+    ns1:partOf ns1:CampanianIgnimbriteProject ;
+    ns1:siteType ns1:ArchaeologicalSite ;
+    ns1:spatialCloseMatch <http://sws.geonames.org/791630> ;
+    ns1:spatialType ns1:Plateau ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-1100-6494> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-1100-6494> ;
+    geo:hasGeometry <http://fuzzy-sl.squirrel.link/data/cisite_55_geom> ;
+    rdfs:comment "CI findspot related from literature"@en ;
+    skos:prefLabel "Lower Danube Basin (Romania)"@en ;
+    skos:scopeNote "CI findspot related from literature"@en ;
+    prov:wasAttributedTo <http://orcid.org/0000-0002-3246-3531>,
+        <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> ;
+    prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> ;
+    prov:wasGeneratedBy <http://fuzzy-sl.squirrel.link/data/cisite_55_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_55_pyscript> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_6> a ns1:Site,
+        prov:Entity,
+        <https://pleiades.stoa.org/places/vocab#Place> ;
+    rdfs:label "Copecchia"@en ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:medium ;
+    ns1:hasReference "Rosi et al., 1999" ;
+    ns1:partOf ns1:CampanianIgnimbriteProject ;
+    ns1:siteType ns1:ArchaeologicalSite ;
+    ns1:spatialType ns1:UnknownCategory ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-1100-6494> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-1100-6494> ;
+    geo:hasGeometry <http://fuzzy-sl.squirrel.link/data/cisite_6_geom> ;
+    rdfs:comment "CI findspot related from literature"@en ;
+    skos:closeMatch <http://openstreetmap.org/node/4371325110>,
+        <http://wikidata.org/entity/Q3690987> ;
+    skos:prefLabel "Copecchia"@en ;
+    skos:scopeNote "CI findspot related from literature"@en ;
+    prov:wasAttributedTo <http://orcid.org/0000-0002-3246-3531>,
+        <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> ;
+    prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> ;
+    prov:wasGeneratedBy <http://fuzzy-sl.squirrel.link/data/cisite_6_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_6_pyscript> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_65> a ns1:Site,
+        prov:Entity,
+        <https://pleiades.stoa.org/places/vocab#Place> ;
+    rdfs:label "Haua-Fteah (Libya)"@en ;
+    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyLevel ns1:high ;
+    ns1:hasReference "Lowe et al., 2012" ;
+    ns1:partOf ns1:CampanianIgnimbriteProject ;
+    ns1:siteType ns1:ArchaeologicalSite ;
+    ns1:spatialType ns1:ArchaeologicalSite,
+        ns1:Cave ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-1100-6494> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-1100-6494> ;
+    geo:hasGeometry <http://fuzzy-sl.squirrel.link/data/cisite_65_geom> ;
+    rdfs:comment "CI findspot related from literature"@en ;
+    skos:closeMatch <http://openstreetmap.org/node/7778324735>,
+        <http://wikidata.org/entity/Q25226810> ;
+    skos:prefLabel "Haua-Fteah (Libya)"@en ;
+    skos:scopeNote "CI findspot related from literature"@en ;
+    prov:wasAttributedTo <http://orcid.org/0000-0002-3246-3531>,
+        <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> ;
+    prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> ;
+    prov:wasGeneratedBy <http://fuzzy-sl.squirrel.link/data/cisite_65_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_65_pyscript> .
+

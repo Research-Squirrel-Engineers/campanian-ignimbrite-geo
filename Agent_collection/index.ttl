@@ -1,0 +1,8 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://fuzzy-sl.squirrel.link/data/Agent_collection> a skos:Collection ;
+    rdfs:label "Agent Instances Collection" ;
+    rdfs:member <http://fuzzy-sl.squirrel.link/data/agent_0000-0002-3246-3531>,
+        <http://fuzzy-sl.squirrel.link/data/agent_0009-0008-2877-3204> .
+
