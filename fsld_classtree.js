@@ -220,10 +220,24 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://fuzzy-sl.squirrel.link/data/cisite_22_suniv0_",
+        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "type": "geoinstance",
+        "text": "Phlegraean Fields (fsld:cisite_22)",
+        "data": {}
+      },
+      {
+        "id": "http://fuzzy-sl.squirrel.link/data/cisite_24_suniv0_",
+        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "type": "geoinstance",
+        "text": "Pozzuoli Bay (fsld:cisite_24)",
+        "data": {}
+      },
+      {
         "id": "http://archaeoinformatics.link/ontology#Site",
         "parent": "#",
         "type": "geoclass",
-        "text": "Site (fsl:Site) [17]",
+        "text": "Site (fsl:Site) [19]",
         "data": {}
       },
       {
@@ -346,10 +360,24 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://fuzzy-sl.squirrel.link/data/cisite_22_suniv1_",
+        "parent": "http://www.w3.org/ns/prov#Entity",
+        "type": "geoinstance",
+        "text": "Phlegraean Fields (fsld:cisite_22)",
+        "data": {}
+      },
+      {
+        "id": "http://fuzzy-sl.squirrel.link/data/cisite_24_suniv1_",
+        "parent": "http://www.w3.org/ns/prov#Entity",
+        "type": "geoinstance",
+        "text": "Pozzuoli Bay (fsld:cisite_24)",
+        "data": {}
+      },
+      {
         "id": "http://www.w3.org/ns/prov#Entity",
         "parent": "#",
         "type": "geoclass",
-        "text": "Entity (prov:Entity) [17]",
+        "text": "Entity (prov:Entity) [19]",
         "data": {}
       },
       {
@@ -472,10 +500,24 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://fuzzy-sl.squirrel.link/data/cisite_22_suniv2_",
+        "parent": "https://pleiades.stoa.org/places/vocab#Place",
+        "type": "geoinstance",
+        "text": "Phlegraean Fields (fsld:cisite_22)",
+        "data": {}
+      },
+      {
+        "id": "http://fuzzy-sl.squirrel.link/data/cisite_24_suniv2_",
+        "parent": "https://pleiades.stoa.org/places/vocab#Place",
+        "type": "geoinstance",
+        "text": "Pozzuoli Bay (fsld:cisite_24)",
+        "data": {}
+      },
+      {
         "id": "https://pleiades.stoa.org/places/vocab#Place",
         "parent": "#",
         "type": "geoclass",
-        "text": "Place (pleiades:Place) [17]",
+        "text": "Place (pleiades:Place) [19]",
         "data": {
           "to": {
             "http://archaeoinformatics.link/ontology#certaintyDesc": {
@@ -494,7 +536,7 @@ var tree={
               "instancecount": 1
             },
             "http://archaeoinformatics.link/ontology#spatialType": {
-              "instancecount": 2
+              "instancecount": 1
             },
             "http://purl.org/dc/terms/creator": {
               "instancecount": 2
@@ -551,7 +593,7 @@ var tree={
             }
           }
         },
-        "instancecount": 27
+        "instancecount": 26
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_5_geom",
@@ -673,10 +715,24 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://fuzzy-sl.squirrel.link/data/cisite_22_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "cisite_22_geom (fsld:cisite_22_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://fuzzy-sl.squirrel.link/data/cisite_24_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "cisite_24_geom (fsld:cisite_24_geom)",
+        "data": {}
+      },
+      {
         "id": "http://www.opengis.net/ont/sf#Point",
         "parent": "#",
         "type": "geoclass",
-        "text": "Point (sf:Point) [17]",
+        "text": "Point (sf:Point) [19]",
         "data": {
           "to": {
             "http://archaeoinformatics.link/ontology#certaintyDesc": {
@@ -946,10 +1002,38 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://fuzzy-sl.squirrel.link/data/cisite_22_activity_suniv0_",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "cisite_22_activity (fsld:cisite_22_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://fuzzy-sl.squirrel.link/data/cisite_22_pyscript",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "cisite_22_pyscript (fsld:cisite_22_pyscript)",
+        "data": {}
+      },
+      {
+        "id": "http://fuzzy-sl.squirrel.link/data/cisite_24_activity_suniv0_",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "cisite_24_activity (fsld:cisite_24_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://fuzzy-sl.squirrel.link/data/cisite_24_pyscript",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "cisite_24_pyscript (fsld:cisite_24_pyscript)",
+        "data": {}
+      },
+      {
         "id": "http://www.w3.org/ns/prov#Activity",
         "parent": "#",
         "type": "class",
-        "text": "Activity (prov:Activity) [34]",
+        "text": "Activity (prov:Activity) [38]",
         "data": {
           "to": {
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
@@ -1100,10 +1184,24 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://fuzzy-sl.squirrel.link/data/cisite_22_activity_suniv1_",
+        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "type": "instance",
+        "text": "cisite_22_activity (fsld:cisite_22_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://fuzzy-sl.squirrel.link/data/cisite_24_activity_suniv1_",
+        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "type": "instance",
+        "text": "cisite_24_activity (fsld:cisite_24_activity)",
+        "data": {}
+      },
+      {
         "id": "http://archaeoinformatics.link/ontology#Georeferencing",
         "parent": "#",
         "type": "class",
-        "text": "Georeferencing (fsl:Georeferencing) [17]",
+        "text": "Georeferencing (fsl:Georeferencing) [19]",
         "data": {
           "to": {
             "http://archaeoinformatics.link/ontology#activityDesc": {
@@ -1200,14 +1298,14 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 17,
-              "http://www.w3.org/ns/prov#Activity": 17,
-              "http://archaeoinformatics.link/ontology#Georeferencing": 17
+              "instancecount": 2,
+              "http://xmlns.com/foaf/0.1/Person": 2,
+              "http://www.w3.org/ns/prov#Agent": 2
             }
           },
           "from": {}
         },
-        "instancecount": 19
+        "instancecount": 4
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/Site_collection",
@@ -1244,15 +1342,15 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 17,
-              "http://archaeoinformatics.link/ontology#Site": 17,
-              "http://www.w3.org/ns/prov#Entity": 17,
-              "https://pleiades.stoa.org/places/vocab#Place": 17
+              "instancecount": 19,
+              "http://archaeoinformatics.link/ontology#Site": 19,
+              "http://www.w3.org/ns/prov#Entity": 19,
+              "https://pleiades.stoa.org/places/vocab#Place": 19
             }
           },
           "from": {}
         },
-        "instancecount": 20
+        "instancecount": 22
       },
       {
         "id": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
@@ -1282,13 +1380,13 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 17,
-              "http://www.opengis.net/ont/sf#Point": 17
+              "instancecount": 19,
+              "http://www.opengis.net/ont/sf#Point": 19
             }
           },
           "from": {}
         },
-        "instancecount": 20
+        "instancecount": 22
       }
     ]
   }

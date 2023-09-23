@@ -5,6 +5,8 @@
     rdfs:label "Site Instances Collection" ;
     rdfs:member <http://fuzzy-sl.squirrel.link/data/cisite_10>,
         <http://fuzzy-sl.squirrel.link/data/cisite_19>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_22>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_24>,
         <http://fuzzy-sl.squirrel.link/data/cisite_27>,
         <http://fuzzy-sl.squirrel.link/data/cisite_28>,
         <http://fuzzy-sl.squirrel.link/data/cisite_42>,

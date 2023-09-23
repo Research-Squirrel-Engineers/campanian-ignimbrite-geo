@@ -9,7 +9,7 @@
         prov:Entity,
         <https://pleiades.stoa.org/places/vocab#Place> ;
     rdfs:label "Susak Island (Greece)"@en ;
-    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyDesc "findspot mentioned in a scientific paper"@en ;
     ns1:certaintyLevel ns1:medium ;
     ns1:hasReference "Wacha, 2011" ;
     ns1:partOf ns1:CampanianIgnimbriteProject ;

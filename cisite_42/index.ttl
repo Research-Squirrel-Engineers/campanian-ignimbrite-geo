@@ -9,7 +9,7 @@
         prov:Entity,
         <https://pleiades.stoa.org/places/vocab#Place> ;
     rdfs:label "Kozarnika Cave (Bulgaria)"@en ;
-    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyDesc "findspot mentioned in a scientific paper"@en ;
     ns1:certaintyLevel ns1:high ;
     ns1:hasReference "Lowe et al., 2012" ;
     ns1:partOf ns1:CampanianIgnimbriteProject ;

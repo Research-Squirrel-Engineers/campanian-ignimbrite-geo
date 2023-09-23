@@ -9,7 +9,7 @@
         prov:Entity,
         <https://pleiades.stoa.org/places/vocab#Place> ;
     rdfs:label "Golema Pesht Cave near Zdunje (Macedonia)"@en ;
-    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyDesc "findspot mentioned in a scientific paper"@en ;
     ns1:certaintyLevel ns1:dubious ;
     ns1:hasReference "Lowe et al., 2012" ;
     ns1:partOf ns1:CampanianIgnimbriteProject ;

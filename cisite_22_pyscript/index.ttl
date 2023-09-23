@@ -1,0 +1,8 @@
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_22_pyscript> a prov:Activity ;
+    prov:endedAtTime "2023-09-23T16:26:00.541378+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-09-23T16:26:00.508452+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
+

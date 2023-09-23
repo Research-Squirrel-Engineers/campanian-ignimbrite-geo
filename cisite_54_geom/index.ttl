@@ -2,7 +2,7 @@
 @prefix ns1: <http://archaeoinformatics.link/ontology#> .
 
 <http://fuzzy-sl.squirrel.link/data/cisite_54_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyDesc "findspot mentioned in a scientific paper"@en ;
     ns1:certaintyLevel ns1:medium ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(27.8491 44.3921)"^^geo:wktLiteral .
 

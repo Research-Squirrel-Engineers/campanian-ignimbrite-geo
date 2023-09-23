@@ -9,7 +9,7 @@
         prov:Entity,
         <https://pleiades.stoa.org/places/vocab#Place> ;
     rdfs:label "Sant‘ Agata dei due Golfi"@en ;
-    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyDesc "findspot mentioned in a scientific paper"@en ;
     ns1:certaintyLevel ns1:medium ;
     ns1:hasReference "Civetta et al., 1997" ;
     ns1:partOf ns1:CampanianIgnimbriteProject ;

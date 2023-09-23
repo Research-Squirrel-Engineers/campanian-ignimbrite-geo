@@ -5,15 +5,15 @@
 <http://fuzzy-sl.squirrel.link/data/cisite_52_activity> a ns1:Georeferencing,
         prov:Activity ;
     ns1:activityDesc "set a representative point based on scientific papers using Google Maps"@en ;
-    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyDesc "findspot mentioned in a scientific paper"@en ;
     ns1:certaintyLevel ns1:medium ;
     ns1:hasReference "Fitzsimmons et al., 2014, 2013",
         "Obreht et al., 2017",
         "Pötter et al., 2021" ;
     ns1:hasSource ns1:PaperDesc ;
     ns1:hasSourceType ns1:Paper ;
-    prov:endedAtTime "2023-08-14T13:25:10.155845+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-08-14T13:25:10.140753+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-09-23T16:26:00.538374+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-09-23T16:26:00.508452+00:00"^^xsd:dateTime ;
     prov:used <http://fuzzy-sl.squirrel.link/data/cisite_52> ;
     prov:wasAssociatedWith <http://orcid.org/0009-0008-2877-3204> .
 

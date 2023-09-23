@@ -9,7 +9,7 @@
         prov:Entity,
         <https://pleiades.stoa.org/places/vocab#Place> ;
     rdfs:label "Temnata Cave (Bulgaria)"@en ;
-    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyDesc "findspot mentioned in a scientific paper"@en ;
     ns1:certaintyLevel ns1:high ;
     ns1:hasReference "Fedele et al., 2008, 2003",
         "Fitzsimmons et al., 2013",

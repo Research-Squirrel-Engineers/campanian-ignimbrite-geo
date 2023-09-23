@@ -9,7 +9,7 @@
         prov:Entity,
         <https://pleiades.stoa.org/places/vocab#Place> ;
     rdfs:label "Sant‘ Angelo a Scala"@en ;
-    ns1:certaintyDesc "TODO"@en ;
+    ns1:certaintyDesc "findspot mentioned in a scientific paper"@en ;
     ns1:certaintyLevel ns1:medium ;
     ns1:hasReference "Rosi et al., 1999" ;
     ns1:partOf ns1:CampanianIgnimbriteProject ;

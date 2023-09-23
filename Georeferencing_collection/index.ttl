@@ -5,6 +5,8 @@
     rdfs:label "Georeferencing Instances Collection" ;
     rdfs:member <http://fuzzy-sl.squirrel.link/data/cisite_10_activity>,
         <http://fuzzy-sl.squirrel.link/data/cisite_19_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_22_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_24_activity>,
         <http://fuzzy-sl.squirrel.link/data/cisite_27_activity>,
         <http://fuzzy-sl.squirrel.link/data/cisite_28_activity>,
         <http://fuzzy-sl.squirrel.link/data/cisite_42_activity>,
