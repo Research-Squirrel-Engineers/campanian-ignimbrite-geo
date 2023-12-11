@@ -9,9 +9,10 @@
         prov:Entity,
         <https://pleiades.stoa.org/places/vocab#Place> ;
     rdfs:label "Urluia (Romania)"@en ;
-    ns1:certaintyDesc "findspot mentioned in a scientific paper"@en ;
+    ns1:certaintyDesc "Fitzsimmons et al. (2014), p.76: “In this paper we investigate [...] the site of Urluia Quarry on the Dobrogea loess plateau [...], some 15 km south of the Danube River. The site immediately overlies the Quaternary-uplifted Cretaceous-Tertiary-age limestone basement rocks (Munteanu et al., 2008), which were the target of earlier quarrying activities.”; Pötter et al. (2021), p.5: “The Urluia (URL) LPS is located in an abandoned limestone quarry on the limestone plateau of the Dobrogea (Fitzsimmons et al., 2013; Fitzsimmons and Hambach, 2014; Obreht et al., 2017).”"@en ;
     ns1:certaintyLevel ns1:medium ;
-    ns1:hasReference "Fitzsimmons et al., 2014, 2013",
+    ns1:hasReference "Fitzsimmons et al., 2014",
+        "Fitzsimmons et al.,, 2013",
         "Obreht et al., 2017",
         "Pötter et al., 2021" ;
     ns1:partOf ns1:CampanianIgnimbriteProject ;
@@ -24,7 +25,8 @@
         <https://orcid.org/0000-0003-1100-6494> ;
     geo:hasGeometry <http://fuzzy-sl.squirrel.link/data/cisite_52_geom> ;
     rdfs:comment "CI findspot related from literature"@en ;
-    skos:closeMatch <http://sws.geonames.org/664132> ;
+    skos:closeMatch <http://openstreetmap.org/way/84975654>,
+        <http://sws.geonames.org/664132> ;
     skos:prefLabel "Urluia (Romania)"@en ;
     skos:scopeNote "CI findspot related from literature"@en ;
     prov:wasAttributedTo <http://orcid.org/0009-0008-2877-3204>,

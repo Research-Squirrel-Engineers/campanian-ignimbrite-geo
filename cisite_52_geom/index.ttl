@@ -2,7 +2,7 @@
 @prefix ns1: <http://archaeoinformatics.link/ontology#> .
 
 <http://fuzzy-sl.squirrel.link/data/cisite_52_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    ns1:certaintyDesc "findspot mentioned in a scientific paper"@en ;
+    ns1:certaintyDesc "Fitzsimmons et al. (2014), p.76: “In this paper we investigate [...] the site of Urluia Quarry on the Dobrogea loess plateau [...], some 15 km south of the Danube River. The site immediately overlies the Quaternary-uplifted Cretaceous-Tertiary-age limestone basement rocks (Munteanu et al., 2008), which were the target of earlier quarrying activities.”; Pötter et al. (2021), p.5: “The Urluia (URL) LPS is located in an abandoned limestone quarry on the limestone plateau of the Dobrogea (Fitzsimmons et al., 2013; Fitzsimmons and Hambach, 2014; Obreht et al., 2017).”"@en ;
     ns1:certaintyLevel ns1:medium ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(27.9021 44.0947)"^^geo:wktLiteral .
 

@@ -1,0 +1,33 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://archaeoinformatics.link/ontology#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_56> a ns1:Site,
+        prov:Entity,
+        <https://pleiades.stoa.org/places/vocab#Place> ;
+    rdfs:label "Bratul Borcea (Romania)"@en ;
+    ns1:certaintyDesc "findspot mentioned in a scientific paper"@en ;
+    ns1:certaintyLevel ns1:dubious ;
+    ns1:dubiousMatch <https://sws.geonames.org/684225> ;
+    ns1:hasReference "Pötter et al., 2021" ;
+    ns1:partOf ns1:CampanianIgnimbriteProject ;
+    ns1:siteType ns1:ArchaeologicalSite ;
+    ns1:spatialType ns1:UnknownCategory ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-1100-6494> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0003-1100-6494> ;
+    geo:hasGeometry <http://fuzzy-sl.squirrel.link/data/cisite_56_geom> ;
+    rdfs:comment "CI findspot related from literature"@en ;
+    skos:prefLabel "Bratul Borcea (Romania)"@en ;
+    skos:scopeNote "CI findspot related from literature"@en ;
+    prov:wasAttributedTo <http://orcid.org/0009-0008-2877-3204>,
+        <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> ;
+    prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> ;
+    prov:wasGeneratedBy <http://fuzzy-sl.squirrel.link/data/cisite_56_activity>,
+        <http://fuzzy-sl.squirrel.link/data/cisite_56_pyscript> .
+

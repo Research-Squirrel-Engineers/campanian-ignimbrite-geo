@@ -1,0 +1,17 @@
+@prefix ns1: <http://archaeoinformatics.link/ontology#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_30_activity> a ns1:Georeferencing,
+        prov:Activity ;
+    ns1:activityDesc "set a representative point based on scientific papers using Google Maps"@en ;
+    ns1:certaintyDesc "findspot mentioned in a scientific paper"@en ;
+    ns1:certaintyLevel ns1:medium ;
+    ns1:hasReference "Civetta et al., 1997" ;
+    ns1:hasSource ns1:PaperDesc ;
+    ns1:hasSourceType ns1:Paper ;
+    prov:endedAtTime "2023-12-11T14:12:38.891878+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-12-11T14:12:38.856725+00:00"^^xsd:dateTime ;
+    prov:used <http://fuzzy-sl.squirrel.link/data/cisite_30> ;
+    prov:wasAssociatedWith <http://orcid.org/0009-0008-2877-3204> .
+

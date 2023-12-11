@@ -1,0 +1,8 @@
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://archaeoinformatics.link/ontology#> .
+
+<http://fuzzy-sl.squirrel.link/data/cisite_4_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    ns1:certaintyDesc "findspot mentioned in a scientific paper"@en ;
+    ns1:certaintyLevel ns1:medium ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(14.5259 40.6993)"^^geo:wktLiteral .
+

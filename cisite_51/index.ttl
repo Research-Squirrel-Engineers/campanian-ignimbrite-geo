@@ -9,7 +9,7 @@
         prov:Entity,
         <https://pleiades.stoa.org/places/vocab#Place> ;
     rdfs:label "Crvena Stiljena (Montenegro)"@en ;
-    ns1:certaintyDesc "findspot mentioned in a scientific paper"@en ;
+    ns1:certaintyDesc "findspot mentioned in a scientific paper and found on OpenStreetMap"@en ;
     ns1:certaintyLevel ns1:high ;
     ns1:hasReference "Morley & Woodward, 2011" ;
     ns1:partOf ns1:CampanianIgnimbriteProject ;
