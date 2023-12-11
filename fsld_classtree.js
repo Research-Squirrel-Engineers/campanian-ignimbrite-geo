@@ -1628,7 +1628,7 @@ var tree={
               "instancecount": 1
             },
             "http://archaeoinformatics.link/ontology#spatialType": {
-              "instancecount": 1
+              "instancecount": 2
             },
             "http://purl.org/dc/terms/creator": {
               "instancecount": 2
@@ -1653,7 +1653,7 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2004/02/skos/core#closeMatch": {
-              "instancecount": 1
+              "instancecount": 2
             },
             "http://www.w3.org/2004/02/skos/core#prefLabel": {
               "instancecount": 1
@@ -1685,7 +1685,7 @@ var tree={
             }
           }
         },
-        "instancecount": 25
+        "instancecount": 27
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_1_geom",
@@ -3762,7 +3762,7 @@ var tree={
               "instancecount": 1
             },
             "http://archaeoinformatics.link/ontology#hasReference": {
-              "instancecount": 2
+              "instancecount": 1
             },
             "http://archaeoinformatics.link/ontology#hasSource": {
               "instancecount": 1
@@ -3802,7 +3802,7 @@ var tree={
             }
           }
         },
-        "instancecount": 13
+        "instancecount": 12
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/Person_collection",

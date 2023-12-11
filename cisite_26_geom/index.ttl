@@ -4,5 +4,5 @@
 <http://fuzzy-sl.squirrel.link/data/cisite_26_geom> a <http://www.opengis.net/ont/sf#Point> ;
     ns1:certaintyDesc "findspot mentioned in a scientific paper"@en ;
     ns1:certaintyLevel ns1:medium ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(40.8888 14.1489)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(14.1489 40.8888)"^^geo:wktLiteral .
 
