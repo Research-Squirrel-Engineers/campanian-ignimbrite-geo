@@ -19,7 +19,7 @@ jobs:
     uses: sparqlunicorn/sparqlunicornGoesGIS-ontdoc/.github/workflows/udoc.yml@main
     with:
       version: v016
-      rdffilepath: rdf/ci.ttl
+      rdffilepath: rdf/ci_full.ttl
       docpath: docs
       prefixns: http://fuzzy-sl.squirrel.link/data/
       prefixnsshort: fsld
