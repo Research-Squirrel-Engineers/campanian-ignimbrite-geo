@@ -1214,7 +1214,7 @@ var tree={
               "instancecount": 1
             },
             "http://archaeoinformatics.link/ontology#hasReference": {
-              "instancecount": 1
+              "instancecount": 3
             },
             "http://archaeoinformatics.link/ontology#hasSource": {
               "instancecount": 1
@@ -1254,7 +1254,7 @@ var tree={
             }
           }
         },
-        "instancecount": 12
+        "instancecount": 14
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/Person_collection",
