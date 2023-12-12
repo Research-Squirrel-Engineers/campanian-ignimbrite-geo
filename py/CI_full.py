@@ -228,7 +228,7 @@ prefixes += "@prefix wikidata: <http://wikidata.org/entity/> .\r\n"
 prefixes += "@prefix osmn: <http://openopenstreetmap.org/node/> .\r\n"
 prefixes += "@prefix osmr: <http://openopenstreetmap.org/relation/> .\r\n"
 prefixes += "@prefix osmw: <http://openopenstreetmap.org/way/> .\r\n"
-prefixes += "@prefix fsl: <http://archaeoinformatics.link/ontology#> .\r\n"
+prefixes += "@prefix fsl: <http://fuzzy-sl.squirrel.link/ontology/> .\r\n"
 prefixes += "@prefix fsld: <http://fuzzy-sl.squirrel.link/data/> .\r\n"
 prefixes += "\r\n"
 

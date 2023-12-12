@@ -1,5 +1,5 @@
 # create triples from https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo 
-# on 2023-12-11 14:21
+# on 2023-12-12 12:13
 
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -17,7 +17,7 @@
 @prefix osmn: <http://openopenstreetmap.org/node/> .
 @prefix osmr: <http://openopenstreetmap.org/relation/> .
 @prefix osmw: <http://openopenstreetmap.org/way/> .
-@prefix fsl: <http://archaeoinformatics.link/ontology#> .
+@prefix fsl: <http://fuzzy-sl.squirrel.link/ontology/> .
 @prefix fsld: <http://fuzzy-sl.squirrel.link/data/> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -45,8 +45,8 @@ fsld:cisite_1_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_1_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_1_activity rdf:type prov:Activity .
 fsld:cisite_1_activity rdf:type fsl:Georeferencing.
-fsld:cisite_1_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_1_activity prov:endedAtTime '2023-12-11T14:21:24.910917Z'^^xsd:dateTime .
+fsld:cisite_1_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_1_activity prov:endedAtTime '2023-12-12T12:13:37.942633Z'^^xsd:dateTime .
 fsld:cisite_1_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_1_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_1_activity fsl:hasReference 'Scandone et al., 1991'.
@@ -66,8 +66,8 @@ fsld:cisite_1 prov:wasAttributedTo <https://github.com/Research-Squirrel-Enginee
 fsld:cisite_1 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_1 prov:wasGeneratedBy fsld:cisite_1_pyscript .
 fsld:cisite_1_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_1_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_1_pyscript prov:endedAtTime '2023-12-11T14:21:24.910917Z'^^xsd:dateTime .
+fsld:cisite_1_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_1_pyscript prov:endedAtTime '2023-12-12T12:13:37.942633Z'^^xsd:dateTime .
 fsld:cisite_1_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -95,8 +95,8 @@ fsld:cisite_2_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_2_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_2_activity rdf:type prov:Activity .
 fsld:cisite_2_activity rdf:type fsl:Georeferencing.
-fsld:cisite_2_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_2_activity prov:endedAtTime '2023-12-11T14:21:24.910917Z'^^xsd:dateTime .
+fsld:cisite_2_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_2_activity prov:endedAtTime '2023-12-12T12:13:37.942633Z'^^xsd:dateTime .
 fsld:cisite_2_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_2_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_2_activity fsl:hasReference 'Rosi et al., 1999'.
@@ -116,8 +116,8 @@ fsld:cisite_2 prov:wasAttributedTo <https://github.com/Research-Squirrel-Enginee
 fsld:cisite_2 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_2 prov:wasGeneratedBy fsld:cisite_2_pyscript .
 fsld:cisite_2_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_2_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_2_pyscript prov:endedAtTime '2023-12-11T14:21:24.910917Z'^^xsd:dateTime .
+fsld:cisite_2_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_2_pyscript prov:endedAtTime '2023-12-12T12:13:37.942633Z'^^xsd:dateTime .
 fsld:cisite_2_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -145,8 +145,8 @@ fsld:cisite_3_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_3_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_3_activity rdf:type prov:Activity .
 fsld:cisite_3_activity rdf:type fsl:Georeferencing.
-fsld:cisite_3_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_3_activity prov:endedAtTime '2023-12-11T14:21:24.910917Z'^^xsd:dateTime .
+fsld:cisite_3_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_3_activity prov:endedAtTime '2023-12-12T12:13:37.942633Z'^^xsd:dateTime .
 fsld:cisite_3_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_3_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_3_activity fsl:hasReference 'Rosi et al., 1999'.
@@ -166,8 +166,8 @@ fsld:cisite_3 prov:wasAttributedTo <https://github.com/Research-Squirrel-Enginee
 fsld:cisite_3 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_3 prov:wasGeneratedBy fsld:cisite_3_pyscript .
 fsld:cisite_3_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_3_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_3_pyscript prov:endedAtTime '2023-12-11T14:21:24.910917Z'^^xsd:dateTime .
+fsld:cisite_3_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_3_pyscript prov:endedAtTime '2023-12-12T12:13:37.942633Z'^^xsd:dateTime .
 fsld:cisite_3_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -195,8 +195,8 @@ fsld:cisite_4_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_4_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_4_activity rdf:type prov:Activity .
 fsld:cisite_4_activity rdf:type fsl:Georeferencing.
-fsld:cisite_4_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_4_activity prov:endedAtTime '2023-12-11T14:21:24.910917Z'^^xsd:dateTime .
+fsld:cisite_4_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_4_activity prov:endedAtTime '2023-12-12T12:13:37.943632Z'^^xsd:dateTime .
 fsld:cisite_4_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_4_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_4_activity fsl:hasReference 'Rosi et al., 1999'.
@@ -216,8 +216,8 @@ fsld:cisite_4 prov:wasAttributedTo <https://github.com/Research-Squirrel-Enginee
 fsld:cisite_4 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_4 prov:wasGeneratedBy fsld:cisite_4_pyscript .
 fsld:cisite_4_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_4_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_4_pyscript prov:endedAtTime '2023-12-11T14:21:24.910917Z'^^xsd:dateTime .
+fsld:cisite_4_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_4_pyscript prov:endedAtTime '2023-12-12T12:13:37.943632Z'^^xsd:dateTime .
 fsld:cisite_4_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0000-0002-3246-3531 rdf:type foaf:Person .
@@ -247,8 +247,8 @@ fsld:cisite_5_geom fsl:certaintyLevel fsl:high.
 fsld:cisite_5_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_5_activity rdf:type prov:Activity .
 fsld:cisite_5_activity rdf:type fsl:Georeferencing.
-fsld:cisite_5_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_5_activity prov:endedAtTime '2023-12-11T14:21:24.910917Z'^^xsd:dateTime .
+fsld:cisite_5_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_5_activity prov:endedAtTime '2023-12-12T12:13:37.943632Z'^^xsd:dateTime .
 fsld:cisite_5_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_5_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_5_activity fsl:hasReference 'Fedele et al., 2008'.
@@ -269,8 +269,8 @@ fsld:cisite_5 prov:wasAttributedTo <https://github.com/Research-Squirrel-Enginee
 fsld:cisite_5 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_5 prov:wasGeneratedBy fsld:cisite_5_pyscript .
 fsld:cisite_5_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_5_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_5_pyscript prov:endedAtTime '2023-12-11T14:21:24.910917Z'^^xsd:dateTime .
+fsld:cisite_5_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_5_pyscript prov:endedAtTime '2023-12-12T12:13:37.943632Z'^^xsd:dateTime .
 fsld:cisite_5_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0000-0002-3246-3531 rdf:type foaf:Person .
@@ -299,8 +299,8 @@ fsld:cisite_6_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_6_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_6_activity rdf:type prov:Activity .
 fsld:cisite_6_activity rdf:type fsl:Georeferencing.
-fsld:cisite_6_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_6_activity prov:endedAtTime '2023-12-11T14:21:24.926424Z'^^xsd:dateTime .
+fsld:cisite_6_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_6_activity prov:endedAtTime '2023-12-12T12:13:37.944640Z'^^xsd:dateTime .
 fsld:cisite_6_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_6_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_6_activity fsl:hasReference 'Rosi et al., 1999'.
@@ -320,8 +320,8 @@ fsld:cisite_6 prov:wasAttributedTo <https://github.com/Research-Squirrel-Enginee
 fsld:cisite_6 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_6 prov:wasGeneratedBy fsld:cisite_6_pyscript .
 fsld:cisite_6_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_6_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_6_pyscript prov:endedAtTime '2023-12-11T14:21:24.927241Z'^^xsd:dateTime .
+fsld:cisite_6_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_6_pyscript prov:endedAtTime '2023-12-12T12:13:37.944640Z'^^xsd:dateTime .
 fsld:cisite_6_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0000-0002-3246-3531 rdf:type foaf:Person .
@@ -349,8 +349,8 @@ fsld:cisite_7_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_7_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_7_activity rdf:type prov:Activity .
 fsld:cisite_7_activity rdf:type fsl:Georeferencing.
-fsld:cisite_7_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_7_activity prov:endedAtTime '2023-12-11T14:21:24.927241Z'^^xsd:dateTime .
+fsld:cisite_7_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_7_activity prov:endedAtTime '2023-12-12T12:13:37.944640Z'^^xsd:dateTime .
 fsld:cisite_7_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_7_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_7_activity fsl:hasReference 'Pappalardo et al., 1999'.
@@ -370,8 +370,8 @@ fsld:cisite_7 prov:wasAttributedTo <https://github.com/Research-Squirrel-Enginee
 fsld:cisite_7 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_7 prov:wasGeneratedBy fsld:cisite_7_pyscript .
 fsld:cisite_7_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_7_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_7_pyscript prov:endedAtTime '2023-12-11T14:21:24.927241Z'^^xsd:dateTime .
+fsld:cisite_7_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_7_pyscript prov:endedAtTime '2023-12-12T12:13:37.944640Z'^^xsd:dateTime .
 fsld:cisite_7_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0000-0002-3246-3531 rdf:type foaf:Person .
@@ -399,8 +399,8 @@ fsld:cisite_8_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_8_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_8_activity rdf:type prov:Activity .
 fsld:cisite_8_activity rdf:type fsl:Georeferencing.
-fsld:cisite_8_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_8_activity prov:endedAtTime '2023-12-11T14:21:24.927241Z'^^xsd:dateTime .
+fsld:cisite_8_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_8_activity prov:endedAtTime '2023-12-12T12:13:37.944640Z'^^xsd:dateTime .
 fsld:cisite_8_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_8_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_8_activity fsl:hasReference 'Arienzo et al., 2009'.
@@ -420,8 +420,8 @@ fsld:cisite_8 prov:wasAttributedTo <https://github.com/Research-Squirrel-Enginee
 fsld:cisite_8 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_8 prov:wasGeneratedBy fsld:cisite_8_pyscript .
 fsld:cisite_8_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_8_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_8_pyscript prov:endedAtTime '2023-12-11T14:21:24.927241Z'^^xsd:dateTime .
+fsld:cisite_8_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_8_pyscript prov:endedAtTime '2023-12-12T12:13:37.945631Z'^^xsd:dateTime .
 fsld:cisite_8_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0000-0002-3246-3531 rdf:type foaf:Person .
@@ -450,8 +450,8 @@ fsld:cisite_9_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_9_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_9_activity rdf:type prov:Activity .
 fsld:cisite_9_activity rdf:type fsl:Georeferencing.
-fsld:cisite_9_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_9_activity prov:endedAtTime '2023-12-11T14:21:24.928255Z'^^xsd:dateTime .
+fsld:cisite_9_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_9_activity prov:endedAtTime '2023-12-12T12:13:37.945631Z'^^xsd:dateTime .
 fsld:cisite_9_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_9_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_9_activity fsl:hasReference 'Civetta et al., 1997'.
@@ -472,8 +472,8 @@ fsld:cisite_9 prov:wasAttributedTo <https://github.com/Research-Squirrel-Enginee
 fsld:cisite_9 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_9 prov:wasGeneratedBy fsld:cisite_9_pyscript .
 fsld:cisite_9_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_9_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_9_pyscript prov:endedAtTime '2023-12-11T14:21:24.928255Z'^^xsd:dateTime .
+fsld:cisite_9_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_9_pyscript prov:endedAtTime '2023-12-12T12:13:37.945631Z'^^xsd:dateTime .
 fsld:cisite_9_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -502,8 +502,8 @@ fsld:cisite_10_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_10_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_10_activity rdf:type prov:Activity .
 fsld:cisite_10_activity rdf:type fsl:Georeferencing.
-fsld:cisite_10_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_10_activity prov:endedAtTime '2023-12-11T14:21:24.928255Z'^^xsd:dateTime .
+fsld:cisite_10_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_10_activity prov:endedAtTime '2023-12-12T12:13:37.945631Z'^^xsd:dateTime .
 fsld:cisite_10_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_10_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_10_activity fsl:hasReference 'Civetta et al., 1997'.
@@ -523,8 +523,8 @@ fsld:cisite_10 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_10 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_10 prov:wasGeneratedBy fsld:cisite_10_pyscript .
 fsld:cisite_10_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_10_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_10_pyscript prov:endedAtTime '2023-12-11T14:21:24.928255Z'^^xsd:dateTime .
+fsld:cisite_10_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_10_pyscript prov:endedAtTime '2023-12-12T12:13:37.945631Z'^^xsd:dateTime .
 fsld:cisite_10_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -552,8 +552,8 @@ fsld:cisite_11_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_11_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_11_activity rdf:type prov:Activity .
 fsld:cisite_11_activity rdf:type fsl:Georeferencing.
-fsld:cisite_11_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_11_activity prov:endedAtTime '2023-12-11T14:21:24.928255Z'^^xsd:dateTime .
+fsld:cisite_11_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_11_activity prov:endedAtTime '2023-12-12T12:13:37.946631Z'^^xsd:dateTime .
 fsld:cisite_11_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_11_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_11_activity fsl:hasReference 'Rosi et al., 1999'.
@@ -573,8 +573,8 @@ fsld:cisite_11 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_11 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_11 prov:wasGeneratedBy fsld:cisite_11_pyscript .
 fsld:cisite_11_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_11_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_11_pyscript prov:endedAtTime '2023-12-11T14:21:24.928255Z'^^xsd:dateTime .
+fsld:cisite_11_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_11_pyscript prov:endedAtTime '2023-12-12T12:13:37.946631Z'^^xsd:dateTime .
 fsld:cisite_11_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -602,8 +602,8 @@ fsld:cisite_12_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_12_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_12_activity rdf:type prov:Activity .
 fsld:cisite_12_activity rdf:type fsl:Georeferencing.
-fsld:cisite_12_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_12_activity prov:endedAtTime '2023-12-11T14:21:24.929263Z'^^xsd:dateTime .
+fsld:cisite_12_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_12_activity prov:endedAtTime '2023-12-12T12:13:37.946631Z'^^xsd:dateTime .
 fsld:cisite_12_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_12_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_12_activity fsl:hasReference 'Pappalardo et al., 1999'.
@@ -623,8 +623,8 @@ fsld:cisite_12 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_12 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_12 prov:wasGeneratedBy fsld:cisite_12_pyscript .
 fsld:cisite_12_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_12_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_12_pyscript prov:endedAtTime '2023-12-11T14:21:24.929263Z'^^xsd:dateTime .
+fsld:cisite_12_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_12_pyscript prov:endedAtTime '2023-12-12T12:13:37.946631Z'^^xsd:dateTime .
 fsld:cisite_12_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -652,8 +652,8 @@ fsld:cisite_13_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_13_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_13_activity rdf:type prov:Activity .
 fsld:cisite_13_activity rdf:type fsl:Georeferencing.
-fsld:cisite_13_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_13_activity prov:endedAtTime '2023-12-11T14:21:24.929263Z'^^xsd:dateTime .
+fsld:cisite_13_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_13_activity prov:endedAtTime '2023-12-12T12:13:37.946631Z'^^xsd:dateTime .
 fsld:cisite_13_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_13_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_13_activity fsl:hasReference 'Narcisi, 1996'.
@@ -673,8 +673,8 @@ fsld:cisite_13 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_13 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_13 prov:wasGeneratedBy fsld:cisite_13_pyscript .
 fsld:cisite_13_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_13_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_13_pyscript prov:endedAtTime '2023-12-11T14:21:24.929263Z'^^xsd:dateTime .
+fsld:cisite_13_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_13_pyscript prov:endedAtTime '2023-12-12T12:13:37.947631Z'^^xsd:dateTime .
 fsld:cisite_13_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -702,8 +702,8 @@ fsld:cisite_14_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_14_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_14_activity rdf:type prov:Activity .
 fsld:cisite_14_activity rdf:type fsl:Georeferencing.
-fsld:cisite_14_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_14_activity prov:endedAtTime '2023-12-11T14:21:24.929263Z'^^xsd:dateTime .
+fsld:cisite_14_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_14_activity prov:endedAtTime '2023-12-12T12:13:37.947631Z'^^xsd:dateTime .
 fsld:cisite_14_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_14_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_14_activity fsl:hasReference 'Rosi et al., 1999'.
@@ -723,8 +723,8 @@ fsld:cisite_14 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_14 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_14 prov:wasGeneratedBy fsld:cisite_14_pyscript .
 fsld:cisite_14_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_14_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_14_pyscript prov:endedAtTime '2023-12-11T14:21:24.929263Z'^^xsd:dateTime .
+fsld:cisite_14_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_14_pyscript prov:endedAtTime '2023-12-12T12:13:37.948638Z'^^xsd:dateTime .
 fsld:cisite_14_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -753,8 +753,8 @@ fsld:cisite_15_geom fsl:certaintyLevel fsl:high.
 fsld:cisite_15_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_15_activity rdf:type prov:Activity .
 fsld:cisite_15_activity rdf:type fsl:Georeferencing.
-fsld:cisite_15_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_15_activity prov:endedAtTime '2023-12-11T14:21:24.930257Z'^^xsd:dateTime .
+fsld:cisite_15_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_15_activity prov:endedAtTime '2023-12-12T12:13:37.948638Z'^^xsd:dateTime .
 fsld:cisite_15_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_15_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_15_activity fsl:hasReference 'Brauer et al., 2000'.
@@ -775,8 +775,8 @@ fsld:cisite_15 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_15 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_15 prov:wasGeneratedBy fsld:cisite_15_pyscript .
 fsld:cisite_15_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_15_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_15_pyscript prov:endedAtTime '2023-12-11T14:21:24.930257Z'^^xsd:dateTime .
+fsld:cisite_15_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_15_pyscript prov:endedAtTime '2023-12-12T12:13:37.949162Z'^^xsd:dateTime .
 fsld:cisite_15_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -804,8 +804,8 @@ fsld:cisite_16_geom fsl:certaintyLevel fsl:low.
 fsld:cisite_16_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_16_activity rdf:type prov:Activity .
 fsld:cisite_16_activity rdf:type fsl:Georeferencing.
-fsld:cisite_16_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_16_activity prov:endedAtTime '2023-12-11T14:21:24.930257Z'^^xsd:dateTime .
+fsld:cisite_16_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_16_activity prov:endedAtTime '2023-12-12T12:13:37.949162Z'^^xsd:dateTime .
 fsld:cisite_16_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_16_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_16_activity fsl:hasReference 'Giaccio et al., 2008'.
@@ -825,8 +825,8 @@ fsld:cisite_16 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_16 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_16 prov:wasGeneratedBy fsld:cisite_16_pyscript .
 fsld:cisite_16_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_16_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_16_pyscript prov:endedAtTime '2023-12-11T14:21:24.930257Z'^^xsd:dateTime .
+fsld:cisite_16_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_16_pyscript prov:endedAtTime '2023-12-12T12:13:37.949162Z'^^xsd:dateTime .
 fsld:cisite_16_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -854,8 +854,8 @@ fsld:cisite_17_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_17_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_17_activity rdf:type prov:Activity .
 fsld:cisite_17_activity rdf:type fsl:Georeferencing.
-fsld:cisite_17_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_17_activity prov:endedAtTime '2023-12-11T14:21:24.930257Z'^^xsd:dateTime .
+fsld:cisite_17_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_17_activity prov:endedAtTime '2023-12-12T12:13:37.949162Z'^^xsd:dateTime .
 fsld:cisite_17_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_17_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_17_activity fsl:hasReference 'Orsi et al., 1996'.
@@ -875,8 +875,8 @@ fsld:cisite_17 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_17 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_17 prov:wasGeneratedBy fsld:cisite_17_pyscript .
 fsld:cisite_17_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_17_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_17_pyscript prov:endedAtTime '2023-12-11T14:21:24.930257Z'^^xsd:dateTime .
+fsld:cisite_17_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_17_pyscript prov:endedAtTime '2023-12-12T12:13:37.949162Z'^^xsd:dateTime .
 fsld:cisite_17_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -905,8 +905,8 @@ fsld:cisite_18_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_18_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_18_activity rdf:type prov:Activity .
 fsld:cisite_18_activity rdf:type fsl:Georeferencing.
-fsld:cisite_18_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_18_activity prov:endedAtTime '2023-12-11T14:21:24.931251Z'^^xsd:dateTime .
+fsld:cisite_18_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_18_activity prov:endedAtTime '2023-12-12T12:13:37.950175Z'^^xsd:dateTime .
 fsld:cisite_18_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_18_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_18_activity fsl:hasReference 'Civetta et al., 1997'.
@@ -927,8 +927,8 @@ fsld:cisite_18 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_18 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_18 prov:wasGeneratedBy fsld:cisite_18_pyscript .
 fsld:cisite_18_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_18_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_18_pyscript prov:endedAtTime '2023-12-11T14:21:24.931251Z'^^xsd:dateTime .
+fsld:cisite_18_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_18_pyscript prov:endedAtTime '2023-12-12T12:13:37.950175Z'^^xsd:dateTime .
 fsld:cisite_18_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0000-0002-3246-3531 rdf:type foaf:Person .
@@ -958,8 +958,8 @@ fsld:cisite_19_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_19_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_19_activity rdf:type prov:Activity .
 fsld:cisite_19_activity rdf:type fsl:Georeferencing.
-fsld:cisite_19_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_19_activity prov:endedAtTime '2023-12-11T14:21:24.931251Z'^^xsd:dateTime .
+fsld:cisite_19_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_19_activity prov:endedAtTime '2023-12-12T12:13:37.950175Z'^^xsd:dateTime .
 fsld:cisite_19_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_19_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_19_activity fsl:hasReference 'Giaccio et al., 2008'.
@@ -979,8 +979,8 @@ fsld:cisite_19 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_19 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_19 prov:wasGeneratedBy fsld:cisite_19_pyscript .
 fsld:cisite_19_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_19_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_19_pyscript prov:endedAtTime '2023-12-11T14:21:24.931251Z'^^xsd:dateTime .
+fsld:cisite_19_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_19_pyscript prov:endedAtTime '2023-12-12T12:13:37.950175Z'^^xsd:dateTime .
 fsld:cisite_19_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -1008,8 +1008,8 @@ fsld:cisite_20_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_20_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_20_activity rdf:type prov:Activity .
 fsld:cisite_20_activity rdf:type fsl:Georeferencing.
-fsld:cisite_20_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_20_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_20_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_20_activity prov:endedAtTime '2023-12-12T12:13:37.951170Z'^^xsd:dateTime .
 fsld:cisite_20_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_20_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_20_activity fsl:hasReference 'Rosi et al., 1999'.
@@ -1029,8 +1029,8 @@ fsld:cisite_20 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_20 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_20 prov:wasGeneratedBy fsld:cisite_20_pyscript .
 fsld:cisite_20_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_20_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_20_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_20_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_20_pyscript prov:endedAtTime '2023-12-12T12:13:37.951170Z'^^xsd:dateTime .
 fsld:cisite_20_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -1058,8 +1058,8 @@ fsld:cisite_21_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_21_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_21_activity rdf:type prov:Activity .
 fsld:cisite_21_activity rdf:type fsl:Georeferencing.
-fsld:cisite_21_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_21_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_21_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_21_activity prov:endedAtTime '2023-12-12T12:13:37.951170Z'^^xsd:dateTime .
 fsld:cisite_21_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_21_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_21_activity fsl:hasReference 'Rosi et al., 1999'.
@@ -1079,8 +1079,8 @@ fsld:cisite_21 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_21 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_21 prov:wasGeneratedBy fsld:cisite_21_pyscript .
 fsld:cisite_21_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_21_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_21_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_21_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_21_pyscript prov:endedAtTime '2023-12-12T12:13:37.951170Z'^^xsd:dateTime .
 fsld:cisite_21_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -1110,8 +1110,8 @@ fsld:cisite_22_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_22_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_22_activity rdf:type prov:Activity .
 fsld:cisite_22_activity rdf:type fsl:Georeferencing.
-fsld:cisite_22_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_22_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_22_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_22_activity prov:endedAtTime '2023-12-12T12:13:37.951170Z'^^xsd:dateTime .
 fsld:cisite_22_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_22_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_22_activity fsl:hasReference 'Orsi et al., 1996'.
@@ -1132,8 +1132,8 @@ fsld:cisite_22 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_22 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_22 prov:wasGeneratedBy fsld:cisite_22_pyscript .
 fsld:cisite_22_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_22_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_22_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_22_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_22_pyscript prov:endedAtTime '2023-12-12T12:13:37.952176Z'^^xsd:dateTime .
 fsld:cisite_22_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -1163,8 +1163,8 @@ fsld:cisite_23_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_23_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_23_activity rdf:type prov:Activity .
 fsld:cisite_23_activity rdf:type fsl:Georeferencing.
-fsld:cisite_23_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_23_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_23_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_23_activity prov:endedAtTime '2023-12-12T12:13:37.952176Z'^^xsd:dateTime .
 fsld:cisite_23_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_23_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_23_activity fsl:hasReference 'Civetta et al., 1997'.
@@ -1186,8 +1186,8 @@ fsld:cisite_23 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_23 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_23 prov:wasGeneratedBy fsld:cisite_23_pyscript .
 fsld:cisite_23_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_23_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_23_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_23_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_23_pyscript prov:endedAtTime '2023-12-12T12:13:37.952176Z'^^xsd:dateTime .
 fsld:cisite_23_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -1216,8 +1216,8 @@ fsld:cisite_24_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_24_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_24_activity rdf:type prov:Activity .
 fsld:cisite_24_activity rdf:type fsl:Georeferencing.
-fsld:cisite_24_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_24_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_24_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_24_activity prov:endedAtTime '2023-12-12T12:13:37.952176Z'^^xsd:dateTime .
 fsld:cisite_24_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_24_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_24_activity fsl:hasReference 'Orsi et al., 1996'.
@@ -1237,8 +1237,8 @@ fsld:cisite_24 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_24 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_24 prov:wasGeneratedBy fsld:cisite_24_pyscript .
 fsld:cisite_24_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_24_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_24_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_24_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_24_pyscript prov:endedAtTime '2023-12-12T12:13:37.952176Z'^^xsd:dateTime .
 fsld:cisite_24_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -1266,8 +1266,8 @@ fsld:cisite_25_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_25_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_25_activity rdf:type prov:Activity .
 fsld:cisite_25_activity rdf:type fsl:Georeferencing.
-fsld:cisite_25_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_25_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_25_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_25_activity prov:endedAtTime '2023-12-12T12:13:37.953181Z'^^xsd:dateTime .
 fsld:cisite_25_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_25_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_25_activity fsl:hasReference 'Civetta et al., 1997'.
@@ -1287,8 +1287,8 @@ fsld:cisite_25 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_25 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_25 prov:wasGeneratedBy fsld:cisite_25_pyscript .
 fsld:cisite_25_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_25_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_25_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_25_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_25_pyscript prov:endedAtTime '2023-12-12T12:13:37.953181Z'^^xsd:dateTime .
 fsld:cisite_25_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -1316,8 +1316,8 @@ fsld:cisite_26_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_26_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_26_activity rdf:type prov:Activity .
 fsld:cisite_26_activity rdf:type fsl:Georeferencing.
-fsld:cisite_26_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_26_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_26_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_26_activity prov:endedAtTime '2023-12-12T12:13:37.953181Z'^^xsd:dateTime .
 fsld:cisite_26_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_26_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_26_activity fsl:hasReference 'Pappalardo et al., 1999'.
@@ -1337,8 +1337,8 @@ fsld:cisite_26 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_26 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_26 prov:wasGeneratedBy fsld:cisite_26_pyscript .
 fsld:cisite_26_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_26_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_26_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_26_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_26_pyscript prov:endedAtTime '2023-12-12T12:13:37.953181Z'^^xsd:dateTime .
 fsld:cisite_26_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0000-0002-3246-3531 rdf:type foaf:Person .
@@ -1367,8 +1367,8 @@ fsld:cisite_27_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_27_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_27_activity rdf:type prov:Activity .
 fsld:cisite_27_activity rdf:type fsl:Georeferencing.
-fsld:cisite_27_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_27_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_27_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_27_activity prov:endedAtTime '2023-12-12T12:13:37.953181Z'^^xsd:dateTime .
 fsld:cisite_27_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_27_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_27_activity fsl:hasReference 'Civetta et al., 1997'.
@@ -1388,8 +1388,8 @@ fsld:cisite_27 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_27 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_27 prov:wasGeneratedBy fsld:cisite_27_pyscript .
 fsld:cisite_27_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_27_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_27_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_27_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_27_pyscript prov:endedAtTime '2023-12-12T12:13:37.954177Z'^^xsd:dateTime .
 fsld:cisite_27_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0000-0002-3246-3531 rdf:type foaf:Person .
@@ -1418,8 +1418,8 @@ fsld:cisite_28_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_28_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_28_activity rdf:type prov:Activity .
 fsld:cisite_28_activity rdf:type fsl:Georeferencing.
-fsld:cisite_28_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_28_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_28_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_28_activity prov:endedAtTime '2023-12-12T12:13:37.954177Z'^^xsd:dateTime .
 fsld:cisite_28_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_28_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_28_activity fsl:hasReference 'Rosi et al., 1999'.
@@ -1439,8 +1439,8 @@ fsld:cisite_28 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_28 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_28 prov:wasGeneratedBy fsld:cisite_28_pyscript .
 fsld:cisite_28_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_28_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_28_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_28_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_28_pyscript prov:endedAtTime '2023-12-12T12:13:37.954177Z'^^xsd:dateTime .
 fsld:cisite_28_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -1468,8 +1468,8 @@ fsld:cisite_29_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_29_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_29_activity rdf:type prov:Activity .
 fsld:cisite_29_activity rdf:type fsl:Georeferencing.
-fsld:cisite_29_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_29_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_29_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_29_activity prov:endedAtTime '2023-12-12T12:13:37.954177Z'^^xsd:dateTime .
 fsld:cisite_29_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_29_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_29_activity fsl:hasReference 'Civetta et al., 1997'.
@@ -1489,8 +1489,8 @@ fsld:cisite_29 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_29 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_29 prov:wasGeneratedBy fsld:cisite_29_pyscript .
 fsld:cisite_29_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_29_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_29_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_29_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_29_pyscript prov:endedAtTime '2023-12-12T12:13:37.954177Z'^^xsd:dateTime .
 fsld:cisite_29_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -1518,8 +1518,8 @@ fsld:cisite_30_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_30_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_30_activity rdf:type prov:Activity .
 fsld:cisite_30_activity rdf:type fsl:Georeferencing.
-fsld:cisite_30_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_30_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_30_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_30_activity prov:endedAtTime '2023-12-12T12:13:37.955177Z'^^xsd:dateTime .
 fsld:cisite_30_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_30_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_30_activity fsl:hasReference 'Civetta et al., 1997'.
@@ -1539,8 +1539,8 @@ fsld:cisite_30 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_30 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_30 prov:wasGeneratedBy fsld:cisite_30_pyscript .
 fsld:cisite_30_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_30_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_30_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_30_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_30_pyscript prov:endedAtTime '2023-12-12T12:13:37.955177Z'^^xsd:dateTime .
 fsld:cisite_30_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -1569,8 +1569,8 @@ fsld:cisite_31_geom fsl:certaintyLevel fsl:dubious.
 fsld:cisite_31_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_31_activity rdf:type prov:Activity .
 fsld:cisite_31_activity rdf:type fsl:Georeferencing.
-fsld:cisite_31_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_31_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_31_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_31_activity prov:endedAtTime '2023-12-12T12:13:37.955177Z'^^xsd:dateTime .
 fsld:cisite_31_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_31_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_31_activity fsl:hasReference 'Civetta et al., 1997'.
@@ -1590,8 +1590,8 @@ fsld:cisite_31 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_31 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_31 prov:wasGeneratedBy fsld:cisite_31_pyscript .
 fsld:cisite_31_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_31_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_31_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_31_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_31_pyscript prov:endedAtTime '2023-12-12T12:13:37.955177Z'^^xsd:dateTime .
 fsld:cisite_31_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -1621,8 +1621,8 @@ fsld:cisite_32_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_32_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_32_activity rdf:type prov:Activity .
 fsld:cisite_32_activity rdf:type fsl:Georeferencing.
-fsld:cisite_32_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_32_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_32_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_32_activity prov:endedAtTime '2023-12-12T12:13:37.955177Z'^^xsd:dateTime .
 fsld:cisite_32_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_32_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_32_activity fsl:hasReference 'Fedele et al., 2008'.
@@ -1644,8 +1644,8 @@ fsld:cisite_32 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_32 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_32 prov:wasGeneratedBy fsld:cisite_32_pyscript .
 fsld:cisite_32_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_32_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_32_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_32_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_32_pyscript prov:endedAtTime '2023-12-12T12:13:37.956176Z'^^xsd:dateTime .
 fsld:cisite_32_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -1673,8 +1673,8 @@ fsld:cisite_33_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_33_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_33_activity rdf:type prov:Activity .
 fsld:cisite_33_activity rdf:type fsl:Georeferencing.
-fsld:cisite_33_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_33_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_33_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_33_activity prov:endedAtTime '2023-12-12T12:13:37.956176Z'^^xsd:dateTime .
 fsld:cisite_33_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_33_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_33_activity fsl:hasReference 'Rosi et al., 1999'.
@@ -1694,8 +1694,8 @@ fsld:cisite_33 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_33 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_33 prov:wasGeneratedBy fsld:cisite_33_pyscript .
 fsld:cisite_33_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_33_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_33_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_33_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_33_pyscript prov:endedAtTime '2023-12-12T12:13:37.956176Z'^^xsd:dateTime .
 fsld:cisite_33_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -1723,8 +1723,8 @@ fsld:cisite_34_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_34_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_34_activity rdf:type prov:Activity .
 fsld:cisite_34_activity rdf:type fsl:Georeferencing.
-fsld:cisite_34_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_34_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_34_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_34_activity prov:endedAtTime '2023-12-12T12:13:37.956176Z'^^xsd:dateTime .
 fsld:cisite_34_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_34_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_34_activity fsl:hasReference 'Pappalardo et al., 1999'.
@@ -1744,8 +1744,8 @@ fsld:cisite_34 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_34 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_34 prov:wasGeneratedBy fsld:cisite_34_pyscript .
 fsld:cisite_34_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_34_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_34_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_34_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_34_pyscript prov:endedAtTime '2023-12-12T12:13:37.956176Z'^^xsd:dateTime .
 fsld:cisite_34_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -1773,8 +1773,8 @@ fsld:cisite_35_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_35_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_35_activity rdf:type prov:Activity .
 fsld:cisite_35_activity rdf:type fsl:Georeferencing.
-fsld:cisite_35_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_35_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_35_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_35_activity prov:endedAtTime '2023-12-12T12:13:37.957177Z'^^xsd:dateTime .
 fsld:cisite_35_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_35_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_35_activity fsl:hasReference 'Pappalardo et al., 1999'.
@@ -1794,8 +1794,8 @@ fsld:cisite_35 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_35 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_35 prov:wasGeneratedBy fsld:cisite_35_pyscript .
 fsld:cisite_35_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_35_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_35_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_35_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_35_pyscript prov:endedAtTime '2023-12-12T12:13:37.957177Z'^^xsd:dateTime .
 fsld:cisite_35_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -1823,8 +1823,8 @@ fsld:cisite_36_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_36_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_36_activity rdf:type prov:Activity .
 fsld:cisite_36_activity rdf:type fsl:Georeferencing.
-fsld:cisite_36_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_36_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_36_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_36_activity prov:endedAtTime '2023-12-12T12:13:37.957177Z'^^xsd:dateTime .
 fsld:cisite_36_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_36_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_36_activity fsl:hasReference 'Rosi et al., 1999'.
@@ -1844,8 +1844,8 @@ fsld:cisite_36 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_36 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_36 prov:wasGeneratedBy fsld:cisite_36_pyscript .
 fsld:cisite_36_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_36_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_36_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_36_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_36_pyscript prov:endedAtTime '2023-12-12T12:13:37.957177Z'^^xsd:dateTime .
 fsld:cisite_36_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -1874,8 +1874,8 @@ fsld:cisite_37_geom fsl:certaintyLevel fsl:dubious.
 fsld:cisite_37_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_37_activity rdf:type prov:Activity .
 fsld:cisite_37_activity rdf:type fsl:Georeferencing.
-fsld:cisite_37_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_37_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_37_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_37_activity prov:endedAtTime '2023-12-12T12:13:37.957177Z'^^xsd:dateTime .
 fsld:cisite_37_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_37_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_37_activity fsl:hasReference 'Rosi et al., 1999'.
@@ -1895,8 +1895,8 @@ fsld:cisite_37 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_37 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_37 prov:wasGeneratedBy fsld:cisite_37_pyscript .
 fsld:cisite_37_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_37_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_37_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_37_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_37_pyscript prov:endedAtTime '2023-12-12T12:13:37.957177Z'^^xsd:dateTime .
 fsld:cisite_37_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -1924,8 +1924,8 @@ fsld:cisite_38_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_38_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_38_activity rdf:type prov:Activity .
 fsld:cisite_38_activity rdf:type fsl:Georeferencing.
-fsld:cisite_38_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_38_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_38_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_38_activity prov:endedAtTime '2023-12-12T12:13:37.957177Z'^^xsd:dateTime .
 fsld:cisite_38_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_38_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_38_activity fsl:hasReference 'Rosi et al., 1999'.
@@ -1945,8 +1945,8 @@ fsld:cisite_38 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_38 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_38 prov:wasGeneratedBy fsld:cisite_38_pyscript .
 fsld:cisite_38_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_38_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_38_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_38_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_38_pyscript prov:endedAtTime '2023-12-12T12:13:37.958694Z'^^xsd:dateTime .
 fsld:cisite_38_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -1974,8 +1974,8 @@ fsld:cisite_39_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_39_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_39_activity rdf:type prov:Activity .
 fsld:cisite_39_activity rdf:type fsl:Georeferencing.
-fsld:cisite_39_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_39_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_39_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_39_activity prov:endedAtTime '2023-12-12T12:13:37.958694Z'^^xsd:dateTime .
 fsld:cisite_39_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_39_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_39_activity fsl:hasReference 'Civetta et al., 1997'.
@@ -1995,8 +1995,8 @@ fsld:cisite_39 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_39 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_39 prov:wasGeneratedBy fsld:cisite_39_pyscript .
 fsld:cisite_39_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_39_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_39_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_39_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_39_pyscript prov:endedAtTime '2023-12-12T12:13:37.958694Z'^^xsd:dateTime .
 fsld:cisite_39_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -2025,8 +2025,8 @@ fsld:cisite_40_geom fsl:certaintyLevel fsl:dubious.
 fsld:cisite_40_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_40_activity rdf:type prov:Activity .
 fsld:cisite_40_activity rdf:type fsl:Georeferencing.
-fsld:cisite_40_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_40_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_40_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_40_activity prov:endedAtTime '2023-12-12T12:13:37.959714Z'^^xsd:dateTime .
 fsld:cisite_40_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_40_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_40_activity fsl:hasReference 'Rosi et al., 1999'.
@@ -2046,8 +2046,8 @@ fsld:cisite_40 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_40 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_40 prov:wasGeneratedBy fsld:cisite_40_pyscript .
 fsld:cisite_40_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_40_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_40_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_40_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_40_pyscript prov:endedAtTime '2023-12-12T12:13:37.959714Z'^^xsd:dateTime .
 fsld:cisite_40_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -2076,8 +2076,8 @@ fsld:cisite_41_geom fsl:certaintyLevel fsl:high.
 fsld:cisite_41_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_41_activity rdf:type prov:Activity .
 fsld:cisite_41_activity rdf:type fsl:Georeferencing.
-fsld:cisite_41_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_41_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_41_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_41_activity prov:endedAtTime '2023-12-12T12:13:37.959714Z'^^xsd:dateTime .
 fsld:cisite_41_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_41_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_41_activity fsl:hasReference 'Leicher et al., 2019, 2016'.
@@ -2097,8 +2097,8 @@ fsld:cisite_41 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_41 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_41 prov:wasGeneratedBy fsld:cisite_41_pyscript .
 fsld:cisite_41_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_41_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_41_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_41_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_41_pyscript prov:endedAtTime '2023-12-12T12:13:37.959714Z'^^xsd:dateTime .
 fsld:cisite_41_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -2127,8 +2127,8 @@ fsld:cisite_42_geom fsl:certaintyLevel fsl:high.
 fsld:cisite_42_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_42_activity rdf:type prov:Activity .
 fsld:cisite_42_activity rdf:type fsl:Georeferencing.
-fsld:cisite_42_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_42_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_42_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_42_activity prov:endedAtTime '2023-12-12T12:13:37.960709Z'^^xsd:dateTime .
 fsld:cisite_42_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_42_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_42_activity fsl:hasReference 'Lowe et al., 2012'.
@@ -2148,8 +2148,8 @@ fsld:cisite_42 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_42 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_42 prov:wasGeneratedBy fsld:cisite_42_pyscript .
 fsld:cisite_42_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_42_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_42_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_42_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_42_pyscript prov:endedAtTime '2023-12-12T12:13:37.960709Z'^^xsd:dateTime .
 fsld:cisite_42_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -2181,8 +2181,8 @@ fsld:cisite_43_geom fsl:certaintyLevel fsl:high.
 fsld:cisite_43_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_43_activity rdf:type prov:Activity .
 fsld:cisite_43_activity rdf:type fsl:Georeferencing.
-fsld:cisite_43_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_43_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_43_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_43_activity prov:endedAtTime '2023-12-12T12:13:37.961711Z'^^xsd:dateTime .
 fsld:cisite_43_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_43_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_43_activity fsl:hasReference 'Fedele et al., 2008, 2003'.
@@ -2204,8 +2204,8 @@ fsld:cisite_43 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_43 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_43 prov:wasGeneratedBy fsld:cisite_43_pyscript .
 fsld:cisite_43_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_43_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_43_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_43_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_43_pyscript prov:endedAtTime '2023-12-12T12:13:37.961711Z'^^xsd:dateTime .
 fsld:cisite_43_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0000-0002-3246-3531 rdf:type foaf:Person .
@@ -2235,8 +2235,8 @@ fsld:cisite_44_geom fsl:certaintyLevel fsl:high.
 fsld:cisite_44_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_44_activity rdf:type prov:Activity .
 fsld:cisite_44_activity rdf:type fsl:Georeferencing.
-fsld:cisite_44_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_44_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_44_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_44_activity prov:endedAtTime '2023-12-12T12:13:37.961711Z'^^xsd:dateTime .
 fsld:cisite_44_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_44_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_44_activity fsl:hasReference 'Tsanova et al., 2021'.
@@ -2256,8 +2256,8 @@ fsld:cisite_44 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_44 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_44 prov:wasGeneratedBy fsld:cisite_44_pyscript .
 fsld:cisite_44_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_44_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_44_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_44_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_44_pyscript prov:endedAtTime '2023-12-12T12:13:37.961711Z'^^xsd:dateTime .
 fsld:cisite_44_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0000-0002-3246-3531 rdf:type foaf:Person .
@@ -2287,8 +2287,8 @@ fsld:cisite_45_geom fsl:certaintyLevel fsl:high.
 fsld:cisite_45_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper and found on OpenStreetMap'@en.
 fsld:cisite_45_activity rdf:type prov:Activity .
 fsld:cisite_45_activity rdf:type fsl:Georeferencing.
-fsld:cisite_45_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_45_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_45_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_45_activity prov:endedAtTime '2023-12-12T12:13:37.963705Z'^^xsd:dateTime .
 fsld:cisite_45_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_45_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_45_activity fsl:hasReference 'Fedele et al., 2003'.
@@ -2308,8 +2308,8 @@ fsld:cisite_45 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_45 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_45 prov:wasGeneratedBy fsld:cisite_45_pyscript .
 fsld:cisite_45_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_45_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_45_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_45_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_45_pyscript prov:endedAtTime '2023-12-12T12:13:37.963705Z'^^xsd:dateTime .
 fsld:cisite_45_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -2337,8 +2337,8 @@ fsld:cisite_46_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_46_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_46_activity rdf:type prov:Activity .
 fsld:cisite_46_activity rdf:type fsl:Georeferencing.
-fsld:cisite_46_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_46_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_46_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_46_activity prov:endedAtTime '2023-12-12T12:13:37.964708Z'^^xsd:dateTime .
 fsld:cisite_46_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_46_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_46_activity fsl:hasReference 'Lowe et al., 2012'.
@@ -2358,8 +2358,8 @@ fsld:cisite_46 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_46 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_46 prov:wasGeneratedBy fsld:cisite_46_pyscript .
 fsld:cisite_46_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_46_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_46_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_46_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_46_pyscript prov:endedAtTime '2023-12-12T12:13:37.964708Z'^^xsd:dateTime .
 fsld:cisite_46_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -2388,8 +2388,8 @@ fsld:cisite_47_geom fsl:certaintyLevel fsl:low.
 fsld:cisite_47_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_47_activity rdf:type prov:Activity .
 fsld:cisite_47_activity rdf:type fsl:Georeferencing.
-fsld:cisite_47_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_47_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_47_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_47_activity prov:endedAtTime '2023-12-12T12:13:37.964708Z'^^xsd:dateTime .
 fsld:cisite_47_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_47_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_47_activity fsl:hasReference 'Lowe et al., 2012'.
@@ -2410,8 +2410,8 @@ fsld:cisite_47 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_47 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_47 prov:wasGeneratedBy fsld:cisite_47_pyscript .
 fsld:cisite_47_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_47_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_47_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_47_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_47_pyscript prov:endedAtTime '2023-12-12T12:13:37.965705Z'^^xsd:dateTime .
 fsld:cisite_47_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -2440,8 +2440,8 @@ fsld:cisite_48_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_48_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_48_activity rdf:type prov:Activity .
 fsld:cisite_48_activity rdf:type fsl:Georeferencing.
-fsld:cisite_48_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_48_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_48_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_48_activity prov:endedAtTime '2023-12-12T12:13:37.965705Z'^^xsd:dateTime .
 fsld:cisite_48_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_48_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_48_activity fsl:hasReference 'Wacha, 2011'.
@@ -2461,8 +2461,8 @@ fsld:cisite_48 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_48 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_48 prov:wasGeneratedBy fsld:cisite_48_pyscript .
 fsld:cisite_48_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_48_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_48_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_48_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_48_pyscript prov:endedAtTime '2023-12-12T12:13:37.965705Z'^^xsd:dateTime .
 fsld:cisite_48_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -2492,8 +2492,8 @@ fsld:cisite_49_geom fsl:certaintyLevel fsl:high.
 fsld:cisite_49_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_49_activity rdf:type prov:Activity .
 fsld:cisite_49_activity rdf:type fsl:Georeferencing.
-fsld:cisite_49_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_49_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_49_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_49_activity prov:endedAtTime '2023-12-12T12:13:37.966705Z'^^xsd:dateTime .
 fsld:cisite_49_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_49_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_49_activity fsl:hasReference 'Leicher et al., 2019'.
@@ -2514,8 +2514,8 @@ fsld:cisite_49 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_49 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_49 prov:wasGeneratedBy fsld:cisite_49_pyscript .
 fsld:cisite_49_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_49_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_49_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_49_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_49_pyscript prov:endedAtTime '2023-12-12T12:13:37.966705Z'^^xsd:dateTime .
 fsld:cisite_49_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -2545,8 +2545,8 @@ fsld:cisite_50_geom fsl:certaintyLevel fsl:dubious.
 fsld:cisite_50_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_50_activity rdf:type prov:Activity .
 fsld:cisite_50_activity rdf:type fsl:Georeferencing.
-fsld:cisite_50_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_50_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_50_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_50_activity prov:endedAtTime '2023-12-12T12:13:37.966705Z'^^xsd:dateTime .
 fsld:cisite_50_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_50_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_50_activity fsl:hasReference 'Lowe et al., 2012'.
@@ -2566,8 +2566,8 @@ fsld:cisite_50 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_50 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_50 prov:wasGeneratedBy fsld:cisite_50_pyscript .
 fsld:cisite_50_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_50_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_50_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_50_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_50_pyscript prov:endedAtTime '2023-12-12T12:13:37.967706Z'^^xsd:dateTime .
 fsld:cisite_50_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -2597,8 +2597,8 @@ fsld:cisite_51_geom fsl:certaintyLevel fsl:high.
 fsld:cisite_51_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper and found on OpenStreetMap'@en.
 fsld:cisite_51_activity rdf:type prov:Activity .
 fsld:cisite_51_activity rdf:type fsl:Georeferencing.
-fsld:cisite_51_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_51_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_51_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_51_activity prov:endedAtTime '2023-12-12T12:13:37.967706Z'^^xsd:dateTime .
 fsld:cisite_51_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_51_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_51_activity fsl:hasReference 'Morley & Woodward, 2011'.
@@ -2618,8 +2618,8 @@ fsld:cisite_51 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_51 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_51 prov:wasGeneratedBy fsld:cisite_51_pyscript .
 fsld:cisite_51_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_51_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_51_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_51_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_51_pyscript prov:endedAtTime '2023-12-12T12:13:37.968710Z'^^xsd:dateTime .
 fsld:cisite_51_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -2651,8 +2651,8 @@ fsld:cisite_52_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_52_geom fsl:certaintyDesc 'Fitzsimmons et al. (2014), p.76: “In this paper we investigate [...] the site of Urluia Quarry on the Dobrogea loess plateau [...], some 15 km south of the Danube River. The site immediately overlies the Quaternary-uplifted Cretaceous-Tertiary-age limestone basement rocks (Munteanu et al., 2008), which were the target of earlier quarrying activities.”; Pötter et al. (2021), p.5: “The Urluia (URL) LPS is located in an abandoned limestone quarry on the limestone plateau of the Dobrogea (Fitzsimmons et al., 2013; Fitzsimmons and Hambach, 2014; Obreht et al., 2017).”'@en.
 fsld:cisite_52_activity rdf:type prov:Activity .
 fsld:cisite_52_activity rdf:type fsl:Georeferencing.
-fsld:cisite_52_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_52_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_52_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_52_activity prov:endedAtTime '2023-12-12T12:13:37.968710Z'^^xsd:dateTime .
 fsld:cisite_52_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_52_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_52_activity fsl:hasReference 'Fitzsimmons et al., 2014'.
@@ -2675,8 +2675,8 @@ fsld:cisite_52 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_52 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_52 prov:wasGeneratedBy fsld:cisite_52_pyscript .
 fsld:cisite_52_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_52_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_52_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_52_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_52_pyscript prov:endedAtTime '2023-12-12T12:13:37.968710Z'^^xsd:dateTime .
 fsld:cisite_52_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -2705,8 +2705,8 @@ fsld:cisite_53_geom fsl:certaintyLevel fsl:representative.
 fsld:cisite_53_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_53_activity rdf:type prov:Activity .
 fsld:cisite_53_activity rdf:type fsl:Georeferencing.
-fsld:cisite_53_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_53_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_53_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_53_activity prov:endedAtTime '2023-12-12T12:13:37.969969Z'^^xsd:dateTime .
 fsld:cisite_53_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_53_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_53_activity fsl:hasReference 'Fitzsimmons et al., 2014'.
@@ -2727,8 +2727,8 @@ fsld:cisite_53 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_53 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_53 prov:wasGeneratedBy fsld:cisite_53_pyscript .
 fsld:cisite_53_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_53_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_53_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_53_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_53_pyscript prov:endedAtTime '2023-12-12T12:13:37.969969Z'^^xsd:dateTime .
 fsld:cisite_53_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -2756,8 +2756,8 @@ fsld:cisite_54_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_54_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_54_activity rdf:type prov:Activity .
 fsld:cisite_54_activity rdf:type fsl:Georeferencing.
-fsld:cisite_54_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_54_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_54_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_54_activity prov:endedAtTime '2023-12-12T12:13:37.969969Z'^^xsd:dateTime .
 fsld:cisite_54_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_54_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_54_activity fsl:hasReference 'Obreht et al., 2017'.
@@ -2777,8 +2777,8 @@ fsld:cisite_54 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_54 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_54 prov:wasGeneratedBy fsld:cisite_54_pyscript .
 fsld:cisite_54_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_54_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_54_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_54_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_54_pyscript prov:endedAtTime '2023-12-12T12:13:37.970972Z'^^xsd:dateTime .
 fsld:cisite_54_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0000-0002-3246-3531 rdf:type foaf:Person .
@@ -2806,8 +2806,8 @@ fsld:cisite_55_geom fsl:certaintyLevel fsl:low.
 fsld:cisite_55_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_55_activity rdf:type prov:Activity .
 fsld:cisite_55_activity rdf:type fsl:Georeferencing.
-fsld:cisite_55_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_55_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_55_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_55_activity prov:endedAtTime '2023-12-12T12:13:37.970972Z'^^xsd:dateTime .
 fsld:cisite_55_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_55_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_55_activity fsl:hasReference 'Obreht et al., 2017'.
@@ -2827,8 +2827,8 @@ fsld:cisite_55 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_55 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_55 prov:wasGeneratedBy fsld:cisite_55_pyscript .
 fsld:cisite_55_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_55_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_55_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_55_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_55_pyscript prov:endedAtTime '2023-12-12T12:13:37.970972Z'^^xsd:dateTime .
 fsld:cisite_55_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -2856,8 +2856,8 @@ fsld:cisite_56_geom fsl:certaintyLevel fsl:dubious.
 fsld:cisite_56_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_56_activity rdf:type prov:Activity .
 fsld:cisite_56_activity rdf:type fsl:Georeferencing.
-fsld:cisite_56_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_56_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_56_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_56_activity prov:endedAtTime '2023-12-12T12:13:37.971968Z'^^xsd:dateTime .
 fsld:cisite_56_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_56_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_56_activity fsl:hasReference 'Pötter et al., 2021'.
@@ -2877,8 +2877,8 @@ fsld:cisite_56 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_56 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_56 prov:wasGeneratedBy fsld:cisite_56_pyscript .
 fsld:cisite_56_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_56_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_56_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_56_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_56_pyscript prov:endedAtTime '2023-12-12T12:13:37.971968Z'^^xsd:dateTime .
 fsld:cisite_56_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -2906,8 +2906,8 @@ fsld:cisite_57_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_57_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_57_activity rdf:type prov:Activity .
 fsld:cisite_57_activity rdf:type fsl:Georeferencing.
-fsld:cisite_57_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_57_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_57_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_57_activity prov:endedAtTime '2023-12-12T12:13:37.971968Z'^^xsd:dateTime .
 fsld:cisite_57_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_57_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_57_activity fsl:hasReference 'Pötter et al., 2021'.
@@ -2927,8 +2927,8 @@ fsld:cisite_57 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_57 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_57 prov:wasGeneratedBy fsld:cisite_57_pyscript .
 fsld:cisite_57_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_57_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_57_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_57_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_57_pyscript prov:endedAtTime '2023-12-12T12:13:37.971968Z'^^xsd:dateTime .
 fsld:cisite_57_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -2956,8 +2956,8 @@ fsld:cisite_58_geom fsl:certaintyLevel fsl:low.
 fsld:cisite_58_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_58_activity rdf:type prov:Activity .
 fsld:cisite_58_activity rdf:type fsl:Georeferencing.
-fsld:cisite_58_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_58_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_58_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_58_activity prov:endedAtTime '2023-12-12T12:13:37.971968Z'^^xsd:dateTime .
 fsld:cisite_58_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_58_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_58_activity fsl:hasReference 'Fitzsimmons et al., 2013'.
@@ -2977,8 +2977,8 @@ fsld:cisite_58 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_58 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_58 prov:wasGeneratedBy fsld:cisite_58_pyscript .
 fsld:cisite_58_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_58_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_58_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_58_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_58_pyscript prov:endedAtTime '2023-12-12T12:13:37.972972Z'^^xsd:dateTime .
 fsld:cisite_58_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -3007,8 +3007,8 @@ fsld:cisite_59_geom fsl:certaintyLevel fsl:representative.
 fsld:cisite_59_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_59_activity rdf:type prov:Activity .
 fsld:cisite_59_activity rdf:type fsl:Georeferencing.
-fsld:cisite_59_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_59_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_59_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_59_activity prov:endedAtTime '2023-12-12T12:13:37.972972Z'^^xsd:dateTime .
 fsld:cisite_59_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_59_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_59_activity fsl:hasReference 'Fedele et al., 2008'.
@@ -3029,8 +3029,8 @@ fsld:cisite_59 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_59 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_59 prov:wasGeneratedBy fsld:cisite_59_pyscript .
 fsld:cisite_59_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_59_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_59_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_59_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_59_pyscript prov:endedAtTime '2023-12-12T12:13:37.972972Z'^^xsd:dateTime .
 fsld:cisite_59_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -3058,8 +3058,8 @@ fsld:cisite_60_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_60_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_60_activity rdf:type prov:Activity .
 fsld:cisite_60_activity rdf:type fsl:Georeferencing.
-fsld:cisite_60_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_60_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_60_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_60_activity prov:endedAtTime '2023-12-12T12:13:37.972972Z'^^xsd:dateTime .
 fsld:cisite_60_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_60_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_60_activity fsl:hasReference 'Fedele et al., 2003'.
@@ -3079,8 +3079,8 @@ fsld:cisite_60 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_60 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_60 prov:wasGeneratedBy fsld:cisite_60_pyscript .
 fsld:cisite_60_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_60_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_60_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_60_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_60_pyscript prov:endedAtTime '2023-12-12T12:13:37.972972Z'^^xsd:dateTime .
 fsld:cisite_60_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -3108,8 +3108,8 @@ fsld:cisite_61_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_61_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_61_activity rdf:type prov:Activity .
 fsld:cisite_61_activity rdf:type fsl:Georeferencing.
-fsld:cisite_61_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_61_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_61_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_61_activity prov:endedAtTime '2023-12-12T12:13:37.972972Z'^^xsd:dateTime .
 fsld:cisite_61_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_61_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_61_activity fsl:hasReference 'Baykal et al., 2018'.
@@ -3129,8 +3129,8 @@ fsld:cisite_61 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_61 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_61 prov:wasGeneratedBy fsld:cisite_61_pyscript .
 fsld:cisite_61_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_61_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_61_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_61_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_61_pyscript prov:endedAtTime '2023-12-12T12:13:37.974484Z'^^xsd:dateTime .
 fsld:cisite_61_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -3160,8 +3160,8 @@ fsld:cisite_62_geom fsl:certaintyLevel fsl:high.
 fsld:cisite_62_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_62_activity rdf:type prov:Activity .
 fsld:cisite_62_activity rdf:type fsl:Georeferencing.
-fsld:cisite_62_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_62_activity prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_62_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_62_activity prov:endedAtTime '2023-12-12T12:13:37.974484Z'^^xsd:dateTime .
 fsld:cisite_62_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_62_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_62_activity fsl:hasReference 'Boric et al., 2012'.
@@ -3182,8 +3182,8 @@ fsld:cisite_62 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_62 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_62 prov:wasGeneratedBy fsld:cisite_62_pyscript .
 fsld:cisite_62_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_62_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_62_pyscript prov:endedAtTime '2023-12-11T14:21:24.931772Z'^^xsd:dateTime .
+fsld:cisite_62_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_62_pyscript prov:endedAtTime '2023-12-12T12:13:37.974484Z'^^xsd:dateTime .
 fsld:cisite_62_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -3211,8 +3211,8 @@ fsld:cisite_63_geom fsl:certaintyLevel fsl:low.
 fsld:cisite_63_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_63_activity rdf:type prov:Activity .
 fsld:cisite_63_activity rdf:type fsl:Georeferencing.
-fsld:cisite_63_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_63_activity prov:endedAtTime '2023-12-11T14:21:24.944825Z'^^xsd:dateTime .
+fsld:cisite_63_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_63_activity prov:endedAtTime '2023-12-12T12:13:37.975499Z'^^xsd:dateTime .
 fsld:cisite_63_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_63_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_63_activity fsl:hasReference 'Baykal et al., 2018'.
@@ -3232,8 +3232,8 @@ fsld:cisite_63 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_63 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_63 prov:wasGeneratedBy fsld:cisite_63_pyscript .
 fsld:cisite_63_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_63_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_63_pyscript prov:endedAtTime '2023-12-11T14:21:24.944825Z'^^xsd:dateTime .
+fsld:cisite_63_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_63_pyscript prov:endedAtTime '2023-12-12T12:13:37.975499Z'^^xsd:dateTime .
 fsld:cisite_63_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0009-0008-2877-3204 rdf:type foaf:Person .
@@ -3261,8 +3261,8 @@ fsld:cisite_64_geom fsl:certaintyLevel fsl:low.
 fsld:cisite_64_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_64_activity rdf:type prov:Activity .
 fsld:cisite_64_activity rdf:type fsl:Georeferencing.
-fsld:cisite_64_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_64_activity prov:endedAtTime '2023-12-11T14:21:24.944825Z'^^xsd:dateTime .
+fsld:cisite_64_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_64_activity prov:endedAtTime '2023-12-12T12:13:37.975499Z'^^xsd:dateTime .
 fsld:cisite_64_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_64_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_64_activity fsl:hasReference 'Fitzsimmons et al., 2013'.
@@ -3282,8 +3282,8 @@ fsld:cisite_64 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_64 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_64 prov:wasGeneratedBy fsld:cisite_64_pyscript .
 fsld:cisite_64_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_64_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_64_pyscript prov:endedAtTime '2023-12-11T14:21:24.944825Z'^^xsd:dateTime .
+fsld:cisite_64_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_64_pyscript prov:endedAtTime '2023-12-12T12:13:37.975499Z'^^xsd:dateTime .
 fsld:cisite_64_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0000-0002-3246-3531 rdf:type foaf:Person .
@@ -3313,8 +3313,8 @@ fsld:cisite_65_geom fsl:certaintyLevel fsl:high.
 fsld:cisite_65_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_65_activity rdf:type prov:Activity .
 fsld:cisite_65_activity rdf:type fsl:Georeferencing.
-fsld:cisite_65_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_65_activity prov:endedAtTime '2023-12-11T14:21:24.945884Z'^^xsd:dateTime .
+fsld:cisite_65_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_65_activity prov:endedAtTime '2023-12-12T12:13:37.976503Z'^^xsd:dateTime .
 fsld:cisite_65_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_65_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_65_activity fsl:hasReference 'Lowe et al., 2012'.
@@ -3334,8 +3334,8 @@ fsld:cisite_65 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engine
 fsld:cisite_65 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_65 prov:wasGeneratedBy fsld:cisite_65_pyscript .
 fsld:cisite_65_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_65_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_65_pyscript prov:endedAtTime '2023-12-11T14:21:24.945884Z'^^xsd:dateTime .
+fsld:cisite_65_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_65_pyscript prov:endedAtTime '2023-12-12T12:13:37.976503Z'^^xsd:dateTime .
 fsld:cisite_65_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0000-0002-3246-3531 rdf:type foaf:Person .
@@ -3364,8 +3364,8 @@ fsld:cisite_101_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_101_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_101_activity rdf:type prov:Activity .
 fsld:cisite_101_activity rdf:type fsl:Georeferencing.
-fsld:cisite_101_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_101_activity prov:endedAtTime '2023-12-11T14:21:24.945884Z'^^xsd:dateTime .
+fsld:cisite_101_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_101_activity prov:endedAtTime '2023-12-12T12:13:37.976503Z'^^xsd:dateTime .
 fsld:cisite_101_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_101_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_101_activity fsl:hasReference 'Obreht, I. et al. (2017), Fig. 1'.
@@ -3386,8 +3386,8 @@ fsld:cisite_101 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engin
 fsld:cisite_101 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_101 prov:wasGeneratedBy fsld:cisite_101_pyscript .
 fsld:cisite_101_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_101_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_101_pyscript prov:endedAtTime '2023-12-11T14:21:24.945884Z'^^xsd:dateTime .
+fsld:cisite_101_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_101_pyscript prov:endedAtTime '2023-12-12T12:13:37.976503Z'^^xsd:dateTime .
 fsld:cisite_101_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0000-0002-3246-3531 rdf:type foaf:Person .
@@ -3416,8 +3416,8 @@ fsld:cisite_102_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_102_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_102_activity rdf:type prov:Activity .
 fsld:cisite_102_activity rdf:type fsl:Georeferencing.
-fsld:cisite_102_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_102_activity prov:endedAtTime '2023-12-11T14:21:24.946887Z'^^xsd:dateTime .
+fsld:cisite_102_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_102_activity prov:endedAtTime '2023-12-12T12:13:37.976503Z'^^xsd:dateTime .
 fsld:cisite_102_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_102_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_102_activity fsl:hasReference 'Obreht, I. et al. (2017), Fig. 1'.
@@ -3438,8 +3438,8 @@ fsld:cisite_102 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engin
 fsld:cisite_102 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_102 prov:wasGeneratedBy fsld:cisite_102_pyscript .
 fsld:cisite_102_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_102_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_102_pyscript prov:endedAtTime '2023-12-11T14:21:24.946887Z'^^xsd:dateTime .
+fsld:cisite_102_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_102_pyscript prov:endedAtTime '2023-12-12T12:13:37.977507Z'^^xsd:dateTime .
 fsld:cisite_102_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0000-0002-3246-3531 rdf:type foaf:Person .
@@ -3468,8 +3468,8 @@ fsld:cisite_103_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_103_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_103_activity rdf:type prov:Activity .
 fsld:cisite_103_activity rdf:type fsl:Georeferencing.
-fsld:cisite_103_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_103_activity prov:endedAtTime '2023-12-11T14:21:24.946887Z'^^xsd:dateTime .
+fsld:cisite_103_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_103_activity prov:endedAtTime '2023-12-12T12:13:37.977507Z'^^xsd:dateTime .
 fsld:cisite_103_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_103_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_103_activity fsl:hasReference 'Obreht, I. et al. (2017), Fig. 1'.
@@ -3490,8 +3490,8 @@ fsld:cisite_103 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engin
 fsld:cisite_103 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_103 prov:wasGeneratedBy fsld:cisite_103_pyscript .
 fsld:cisite_103_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_103_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_103_pyscript prov:endedAtTime '2023-12-11T14:21:24.946887Z'^^xsd:dateTime .
+fsld:cisite_103_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_103_pyscript prov:endedAtTime '2023-12-12T12:13:37.977507Z'^^xsd:dateTime .
 fsld:cisite_103_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0000-0002-3246-3531 rdf:type foaf:Person .
@@ -3521,8 +3521,8 @@ fsld:cisite_104_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_104_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_104_activity rdf:type prov:Activity .
 fsld:cisite_104_activity rdf:type fsl:Georeferencing.
-fsld:cisite_104_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_104_activity prov:endedAtTime '2023-12-11T14:21:24.947886Z'^^xsd:dateTime .
+fsld:cisite_104_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_104_activity prov:endedAtTime '2023-12-12T12:13:37.977507Z'^^xsd:dateTime .
 fsld:cisite_104_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_104_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_104_activity fsl:hasReference 'Obreht, I. et al. (2017), Fig. 1'.
@@ -3544,8 +3544,8 @@ fsld:cisite_104 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engin
 fsld:cisite_104 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_104 prov:wasGeneratedBy fsld:cisite_104_pyscript .
 fsld:cisite_104_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_104_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_104_pyscript prov:endedAtTime '2023-12-11T14:21:24.947886Z'^^xsd:dateTime .
+fsld:cisite_104_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_104_pyscript prov:endedAtTime '2023-12-12T12:13:37.978499Z'^^xsd:dateTime .
 fsld:cisite_104_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0000-0002-3246-3531 rdf:type foaf:Person .
@@ -3574,8 +3574,8 @@ fsld:cisite_105_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_105_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_105_activity rdf:type prov:Activity .
 fsld:cisite_105_activity rdf:type fsl:Georeferencing.
-fsld:cisite_105_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_105_activity prov:endedAtTime '2023-12-11T14:21:24.948836Z'^^xsd:dateTime .
+fsld:cisite_105_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_105_activity prov:endedAtTime '2023-12-12T12:13:37.979008Z'^^xsd:dateTime .
 fsld:cisite_105_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_105_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_105_activity fsl:hasReference 'Obreht, I. et al. (2017), Fig. 1'.
@@ -3596,8 +3596,8 @@ fsld:cisite_105 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engin
 fsld:cisite_105 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_105 prov:wasGeneratedBy fsld:cisite_105_pyscript .
 fsld:cisite_105_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_105_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_105_pyscript prov:endedAtTime '2023-12-11T14:21:24.948836Z'^^xsd:dateTime .
+fsld:cisite_105_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_105_pyscript prov:endedAtTime '2023-12-12T12:13:37.979008Z'^^xsd:dateTime .
 fsld:cisite_105_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
 fsld:agent_0000-0002-3246-3531 rdf:type foaf:Person .
@@ -3626,8 +3626,8 @@ fsld:cisite_106_geom fsl:certaintyLevel fsl:medium.
 fsld:cisite_106_geom fsl:certaintyDesc 'findspot mentioned in a scientific paper'@en.
 fsld:cisite_106_activity rdf:type prov:Activity .
 fsld:cisite_106_activity rdf:type fsl:Georeferencing.
-fsld:cisite_106_activity prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_106_activity prov:endedAtTime '2023-12-11T14:21:24.948836Z'^^xsd:dateTime .
+fsld:cisite_106_activity prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_106_activity prov:endedAtTime '2023-12-12T12:13:37.979517Z'^^xsd:dateTime .
 fsld:cisite_106_activity fsl:hasSource fsl:PaperDesc.
 fsld:cisite_106_activity fsl:hasSourceType fsl:Paper.
 fsld:cisite_106_activity fsl:hasReference 'Obreht, I. et al. (2017), Fig. 1'.
@@ -3648,7 +3648,7 @@ fsld:cisite_106 prov:wasAttributedTo <https://github.com/Research-Squirrel-Engin
 fsld:cisite_106 prov:wasDerivedFrom <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> .
 fsld:cisite_106 prov:wasGeneratedBy fsld:cisite_106_pyscript .
 fsld:cisite_106_pyscript rdf:type <http://www.w3.org/ns/prov#Activity> .
-fsld:cisite_106_pyscript prov:startedAtTime '2023-12-11T14:21:24.909317Z'^^xsd:dateTime .
-fsld:cisite_106_pyscript prov:endedAtTime '2023-12-11T14:21:24.949880Z'^^xsd:dateTime .
+fsld:cisite_106_pyscript prov:startedAtTime '2023-12-12T12:13:37.926589Z'^^xsd:dateTime .
+fsld:cisite_106_pyscript prov:endedAtTime '2023-12-12T12:13:37.979517Z'^^xsd:dateTime .
 fsld:cisite_106_pyscript prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 
