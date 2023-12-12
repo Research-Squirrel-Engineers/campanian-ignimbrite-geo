@@ -1619,7 +1619,7 @@ var tree={
               "instancecount": 1
             },
             "http://fuzzy-sl.squirrel.link/ontology/hasReference": {
-              "instancecount": 2
+              "instancecount": 1
             },
             "http://fuzzy-sl.squirrel.link/ontology/partOf": {
               "instancecount": 1
@@ -1685,7 +1685,7 @@ var tree={
             }
           }
         },
-        "instancecount": 26
+        "instancecount": 25
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_1_geom",
@@ -3846,14 +3846,14 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 2,
-              "http://xmlns.com/foaf/0.1/Person": 2,
-              "http://www.w3.org/ns/prov#Agent": 2
+              "instancecount": 142,
+              "http://www.w3.org/ns/prov#Activity": 142,
+              "http://fuzzy-sl.squirrel.link/ontology/Georeferencing": 71
             }
           },
           "from": {}
         },
-        "instancecount": 4
+        "instancecount": 144
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/Site_collection",
