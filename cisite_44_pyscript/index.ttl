@@ -2,7 +2,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://fuzzy-sl.squirrel.link/data/cisite_44_pyscript> a prov:Activity ;
-    prov:endedAtTime "2023-12-11T14:21:24.931772+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-12-11T14:21:24.909317+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-12-12T12:13:37.961711+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-12-12T12:13:37.926589+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .
 

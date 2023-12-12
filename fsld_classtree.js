@@ -102,503 +102,503 @@ var tree={
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_1_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Acerra Sink (fsld:cisite_1)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_2_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Acqua Fidia (fsld:cisite_2)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_3_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Capezzano (fsld:cisite_3)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_4_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Casola (fsld:cisite_4)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_5_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Castelcivita Cave (fsld:cisite_5)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_6_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Copecchia (fsld:cisite_6)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_7_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Cuma (fsld:cisite_7)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_8_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Gulf of Naples (fsld:cisite_8)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_9_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Lago Patria (Naples) (fsld:cisite_9)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_10_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Marina di Cassano (Naples) (fsld:cisite_10)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_11_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Massaquano (Naples) (fsld:cisite_11)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_12_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Monte Echia (Naples) (fsld:cisite_12)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_13_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Lago Grande di Monticchio (fsld:cisite_13)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_14_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Monticchio (Bagni) (fsld:cisite_14)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_15_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Monticchio Lakes (fsld:cisite_15)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_16_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Murge Plateau (fsld:cisite_16)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_17_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Naples (fsld:cisite_17)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_18_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Pacognano (fsld:cisite_18)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_19_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Paglicci Cave (fsld:cisite_19)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_20_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Pellezzano (fsld:cisite_20)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_21_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Penta (fsld:cisite_21)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_22_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Phlegraean Fields (fsld:cisite_22)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_23_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Ponti Rossi (Naples) (fsld:cisite_23)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_24_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Pozzuoli Bay (fsld:cisite_24)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_25_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Pucara (fsld:cisite_25)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_26_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Punta Marmolite (fsld:cisite_26)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_27_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Sant\u2018 Agata dei due Golfi (fsld:cisite_27)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_28_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Sant\u2018 Angelo a Scala (fsld:cisite_28)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_29_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "San Marco (fsld:cisite_29)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_30_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "San Nicola La Strada (fsld:cisite_30)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_31_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Scarafea Area (fsld:cisite_31)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_32_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Serino (fsld:cisite_32)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_33_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Starza (fsld:cisite_33)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_34_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Torregaveta (fsld:cisite_34)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_35_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Trefola (fsld:cisite_35)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_36_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Tufara (fsld:cisite_36)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_37_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Tufarella Area (fsld:cisite_37)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_38_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Vico Equense (fsld:cisite_38)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_39_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Villa di Briano (Naples) (fsld:cisite_39)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_40_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Voscone Area (fsld:cisite_40)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_41_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Lake Ohrid (Albania) (fsld:cisite_41)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_42_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Kozarnika Cave (Bulgaria) (fsld:cisite_42)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_43_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Temnata Cave (Bulgaria) (fsld:cisite_43)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_44_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Toplitsa Cave (Bulgaria) (fsld:cisite_44)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_45_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Franchthi Cave (Greece) (fsld:cisite_45)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_46_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Klissoura (Greece) (fsld:cisite_46)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_47_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Tenaghi Philippon (Greece) (fsld:cisite_47)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_48_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Susak Island (Greece) (fsld:cisite_48)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_49_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Lake Ohrid (Macedonia) (fsld:cisite_49)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_50_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Golema Pesht Cave near Zdunje (Macedonia) (fsld:cisite_50)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_51_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Crvena Stiljena (Montenegro) (fsld:cisite_51)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_52_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Urluia (Romania) (fsld:cisite_52)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_53_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Dobrogea (Romania) (fsld:cisite_53)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_54_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Vlasca (Romania) (fsld:cisite_54)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_55_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Lower Danube Basin (Romania) (fsld:cisite_55)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_56_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Bratul Borcea (Romania) (fsld:cisite_56)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_57_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Balta Alba (Romania) (fsld:cisite_57)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_58_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Russian Plane (fsld:cisite_58)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_59_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Kostenki-Borshchevo (Russia) (fsld:cisite_59)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_60_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Kostenki (Russia) (fsld:cisite_60)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_61_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Kisiljevo (Serbia) (fsld:cisite_61)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_62_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Tabula Traiana (Serbia) (fsld:cisite_62)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_63_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Titel Pleateau (Serbia) (fsld:cisite_63)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_64_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Southern Ukraine (fsld:cisite_64)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_65_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Haua-Fteah (Libya) (fsld:cisite_65)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_101_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Orlovat (fsld:cisite_101)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_102_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Stala\u0107 (fsld:cisite_102)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_103_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Dunaszekcs\u0151 (fsld:cisite_103)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_104_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Batajnica (fsld:cisite_104)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_105_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Rasova (fsld:cisite_105)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_106_suniv0_",
-        "parent": "http://archaeoinformatics.link/ontology#Site",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "type": "geoinstance",
         "text": "Lake Prespa (fsld:cisite_106)",
         "data": {}
       },
       {
-        "id": "http://archaeoinformatics.link/ontology#Site",
+        "id": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "parent": "#",
         "type": "geoclass",
         "text": "Site (fsl:Site) [71]",
@@ -1612,22 +1612,25 @@ var tree={
         "text": "Place (pleiades:Place) [71]",
         "data": {
           "to": {
-            "http://archaeoinformatics.link/ontology#certaintyDesc": {
+            "http://fuzzy-sl.squirrel.link/ontology/certaintyDesc": {
               "instancecount": 1
             },
-            "http://archaeoinformatics.link/ontology#certaintyLevel": {
+            "http://fuzzy-sl.squirrel.link/ontology/certaintyLevel": {
               "instancecount": 1
             },
-            "http://archaeoinformatics.link/ontology#hasReference": {
+            "http://fuzzy-sl.squirrel.link/ontology/hasReference": {
+              "instancecount": 2
+            },
+            "http://fuzzy-sl.squirrel.link/ontology/partOf": {
               "instancecount": 1
             },
-            "http://archaeoinformatics.link/ontology#partOf": {
+            "http://fuzzy-sl.squirrel.link/ontology/siteType": {
               "instancecount": 1
             },
-            "http://archaeoinformatics.link/ontology#siteType": {
+            "http://fuzzy-sl.squirrel.link/ontology/spatialCloseMatch": {
               "instancecount": 1
             },
-            "http://archaeoinformatics.link/ontology#spatialType": {
+            "http://fuzzy-sl.squirrel.link/ontology/spatialType": {
               "instancecount": 1
             },
             "http://purl.org/dc/terms/creator": {
@@ -1652,9 +1655,6 @@ var tree={
             "http://www.w3.org/2000/01/rdf-schema#label": {
               "instancecount": 1
             },
-            "http://www.w3.org/2004/02/skos/core#closeMatch": {
-              "instancecount": 2
-            },
             "http://www.w3.org/2004/02/skos/core#prefLabel": {
               "instancecount": 1
             },
@@ -1670,7 +1670,7 @@ var tree={
             "http://www.w3.org/ns/prov#wasGeneratedBy": {
               "instancecount": 2,
               "http://www.w3.org/ns/prov#Activity": 2,
-              "http://archaeoinformatics.link/ontology#Georeferencing": 1
+              "http://fuzzy-sl.squirrel.link/ontology/Georeferencing": 1
             }
           },
           "from": {
@@ -1681,7 +1681,7 @@ var tree={
             "http://www.w3.org/ns/prov#used": {
               "instancecount": 0,
               "http://www.w3.org/ns/prov#Activity": 1,
-              "http://archaeoinformatics.link/ontology#Georeferencing": 1
+              "http://fuzzy-sl.squirrel.link/ontology/Georeferencing": 1
             }
           }
         },
@@ -2191,10 +2191,10 @@ var tree={
         "text": "Point (sf:Point) [71]",
         "data": {
           "to": {
-            "http://archaeoinformatics.link/ontology#certaintyDesc": {
+            "http://fuzzy-sl.squirrel.link/ontology/certaintyDesc": {
               "instancecount": 1
             },
-            "http://archaeoinformatics.link/ontology#certaintyLevel": {
+            "http://fuzzy-sl.squirrel.link/ontology/certaintyLevel": {
               "instancecount": 1
             },
             "http://www.opengis.net/ont/geosparql#asWKT": {
@@ -2207,7 +2207,7 @@ var tree={
           "from": {
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
               "instancecount": 0,
-              "http://archaeoinformatics.link/ontology#Site": 1,
+              "http://fuzzy-sl.squirrel.link/ontology/Site": 1,
               "http://www.w3.org/ns/prov#Entity": 1,
               "https://pleiades.stoa.org/places/vocab#Place": 1
             },
@@ -3240,7 +3240,7 @@ var tree={
             },
             "http://www.w3.org/ns/prov#wasGeneratedBy": {
               "instancecount": 0,
-              "http://archaeoinformatics.link/ontology#Site": 1,
+              "http://fuzzy-sl.squirrel.link/ontology/Site": 1,
               "http://www.w3.org/ns/prov#Entity": 1,
               "https://pleiades.stoa.org/places/vocab#Place": 1
             }
@@ -3250,524 +3250,524 @@ var tree={
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_1_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_1_activity (fsld:cisite_1_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_2_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_2_activity (fsld:cisite_2_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_3_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_3_activity (fsld:cisite_3_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_4_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_4_activity (fsld:cisite_4_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_5_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_5_activity (fsld:cisite_5_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_6_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_6_activity (fsld:cisite_6_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_7_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_7_activity (fsld:cisite_7_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_8_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_8_activity (fsld:cisite_8_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_9_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_9_activity (fsld:cisite_9_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_10_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_10_activity (fsld:cisite_10_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_11_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_11_activity (fsld:cisite_11_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_12_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_12_activity (fsld:cisite_12_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_13_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_13_activity (fsld:cisite_13_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_14_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_14_activity (fsld:cisite_14_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_15_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_15_activity (fsld:cisite_15_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_16_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_16_activity (fsld:cisite_16_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_17_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_17_activity (fsld:cisite_17_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_18_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_18_activity (fsld:cisite_18_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_19_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_19_activity (fsld:cisite_19_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_20_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_20_activity (fsld:cisite_20_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_21_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_21_activity (fsld:cisite_21_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_22_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_22_activity (fsld:cisite_22_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_23_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_23_activity (fsld:cisite_23_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_24_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_24_activity (fsld:cisite_24_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_25_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_25_activity (fsld:cisite_25_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_26_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_26_activity (fsld:cisite_26_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_27_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_27_activity (fsld:cisite_27_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_28_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_28_activity (fsld:cisite_28_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_29_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_29_activity (fsld:cisite_29_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_30_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_30_activity (fsld:cisite_30_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_31_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_31_activity (fsld:cisite_31_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_32_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_32_activity (fsld:cisite_32_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_33_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_33_activity (fsld:cisite_33_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_34_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_34_activity (fsld:cisite_34_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_35_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_35_activity (fsld:cisite_35_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_36_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_36_activity (fsld:cisite_36_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_37_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_37_activity (fsld:cisite_37_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_38_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_38_activity (fsld:cisite_38_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_39_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_39_activity (fsld:cisite_39_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_40_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_40_activity (fsld:cisite_40_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_41_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_41_activity (fsld:cisite_41_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_42_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_42_activity (fsld:cisite_42_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_43_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_43_activity (fsld:cisite_43_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_44_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_44_activity (fsld:cisite_44_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_45_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_45_activity (fsld:cisite_45_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_46_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_46_activity (fsld:cisite_46_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_47_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_47_activity (fsld:cisite_47_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_48_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_48_activity (fsld:cisite_48_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_49_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_49_activity (fsld:cisite_49_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_50_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_50_activity (fsld:cisite_50_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_51_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_51_activity (fsld:cisite_51_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_52_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_52_activity (fsld:cisite_52_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_53_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_53_activity (fsld:cisite_53_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_54_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_54_activity (fsld:cisite_54_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_55_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_55_activity (fsld:cisite_55_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_56_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_56_activity (fsld:cisite_56_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_57_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_57_activity (fsld:cisite_57_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_58_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_58_activity (fsld:cisite_58_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_59_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_59_activity (fsld:cisite_59_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_60_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_60_activity (fsld:cisite_60_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_61_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_61_activity (fsld:cisite_61_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_62_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_62_activity (fsld:cisite_62_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_63_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_63_activity (fsld:cisite_63_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_64_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_64_activity (fsld:cisite_64_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_65_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_65_activity (fsld:cisite_65_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_101_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_101_activity (fsld:cisite_101_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_102_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_102_activity (fsld:cisite_102_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_103_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_103_activity (fsld:cisite_103_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_104_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_104_activity (fsld:cisite_104_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_105_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_105_activity (fsld:cisite_105_activity)",
         "data": {}
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_106_activity_suniv1_",
-        "parent": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "type": "instance",
         "text": "cisite_106_activity (fsld:cisite_106_activity)",
         "data": {}
       },
       {
-        "id": "http://archaeoinformatics.link/ontology#Georeferencing",
+        "id": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "parent": "#",
         "type": "class",
         "text": "Georeferencing (fsl:Georeferencing) [71]",
         "data": {
           "to": {
-            "http://archaeoinformatics.link/ontology#activityDesc": {
+            "http://fuzzy-sl.squirrel.link/ontology/activityDesc": {
               "instancecount": 1
             },
-            "http://archaeoinformatics.link/ontology#certaintyDesc": {
+            "http://fuzzy-sl.squirrel.link/ontology/certaintyDesc": {
               "instancecount": 1
             },
-            "http://archaeoinformatics.link/ontology#certaintyLevel": {
+            "http://fuzzy-sl.squirrel.link/ontology/certaintyLevel": {
               "instancecount": 1
             },
-            "http://archaeoinformatics.link/ontology#hasReference": {
-              "instancecount": 3
-            },
-            "http://archaeoinformatics.link/ontology#hasSource": {
+            "http://fuzzy-sl.squirrel.link/ontology/hasReference": {
               "instancecount": 1
             },
-            "http://archaeoinformatics.link/ontology#hasSourceType": {
+            "http://fuzzy-sl.squirrel.link/ontology/hasSource": {
+              "instancecount": 1
+            },
+            "http://fuzzy-sl.squirrel.link/ontology/hasSourceType": {
               "instancecount": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
@@ -3781,7 +3781,7 @@ var tree={
             },
             "http://www.w3.org/ns/prov#used": {
               "instancecount": 1,
-              "http://archaeoinformatics.link/ontology#Site": 1,
+              "http://fuzzy-sl.squirrel.link/ontology/Site": 1,
               "http://www.w3.org/ns/prov#Entity": 1,
               "https://pleiades.stoa.org/places/vocab#Place": 1
             },
@@ -3796,13 +3796,13 @@ var tree={
             },
             "http://www.w3.org/ns/prov#wasGeneratedBy": {
               "instancecount": 0,
-              "http://archaeoinformatics.link/ontology#Site": 1,
+              "http://fuzzy-sl.squirrel.link/ontology/Site": 1,
               "http://www.w3.org/ns/prov#Entity": 1,
               "https://pleiades.stoa.org/places/vocab#Place": 1
             }
           }
         },
-        "instancecount": 14
+        "instancecount": 12
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/Person_collection",
@@ -3891,7 +3891,7 @@ var tree={
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 71,
-              "http://archaeoinformatics.link/ontology#Site": 71,
+              "http://fuzzy-sl.squirrel.link/ontology/Site": 71,
               "http://www.w3.org/ns/prov#Entity": 71,
               "https://pleiades.stoa.org/places/vocab#Place": 71
             }

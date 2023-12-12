@@ -1,5 +1,5 @@
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
-@prefix ns1: <http://archaeoinformatics.link/ontology#> .
+@prefix ns1: <http://fuzzy-sl.squirrel.link/ontology/> .
 
 <http://fuzzy-sl.squirrel.link/data/cisite_101_geom> a <http://www.opengis.net/ont/sf#Point> ;
     ns1:certaintyDesc "findspot mentioned in a scientific paper"@en ;
