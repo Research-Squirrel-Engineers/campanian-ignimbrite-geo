@@ -13,10 +13,10 @@ type: dataset
 identifiers:
   - description: This is the collection of archived snapshots of all versions
     type: doi
-    value: "10.5281/zenodo.tbd"
+    value: "10.5281/zenodo.10361309"
   - description: This is the archived snapshot of version 0.1
     type: doi
-    value: "10.5281/zenodo.tbd"
+    value: "10.5281/zenodo.10361310"
 date-released: 2023-12-12
 license: cc-by-4.0
 repository-code: "https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo"
