@@ -1,0 +1,898 @@
+@prefix adms: <http://www.w3.org/ns/adms#> .
+@prefix brick: <https://brickschema.org/schema/Brick#> .
+@prefix csvw: <http://www.w3.org/ns/csvw#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcam: <http://purl.org/dc/dcam/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix doap: <http://usefulinc.com/ns/doap#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix odrl: <http://www.w3.org/ns/odrl/2/> .
+@prefix org: <http://www.w3.org/ns/org#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prof: <http://www.w3.org/ns/dx/prof/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix qb: <http://purl.org/linked-data/cube#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix ssn: <http://www.w3.org/ns/ssn/> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix vext: <http://ldf.fi/void-ext#> .
+@prefix voaf: <http://purl.org/vocommons/voaf#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix wgs: <https://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_creativecommons.org_licenses_by_4.0_> a void:Linkset ;
+    rdfs:label "Linkset: CI_FSL - 4.0"@en ;
+    void:linkPredicate dcterms:license ;
+    void:objectsTarget <https://creativecommons.org/licenses/by/4.0/> ;
+    void:subjectsTarget <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
+    void:triples 71 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_en.wikipedia.org_wiki_> a void:Linkset ;
+    rdfs:label "Linkset: CI_FSL - wiki"@en ;
+    void:linkPredicate <http://fuzzy-sl.squirrel.link/ontology/dubiousMatch> ;
+    void:objectsTarget <https://en.wikipedia.org/wiki/> ;
+    void:subjectsTarget <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
+    void:triples 1 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_fuzzy-sl.squirrel.link_ontology_> a void:Linkset ;
+    rdfs:label "Linkset: CI_FSL - fsl:"@en ;
+    void:linkPredicate <http://fuzzy-sl.squirrel.link/ontology/certaintyLevel>,
+        <http://fuzzy-sl.squirrel.link/ontology/hasSource>,
+        <http://fuzzy-sl.squirrel.link/ontology/hasSourceType>,
+        <http://fuzzy-sl.squirrel.link/ontology/partOf>,
+        <http://fuzzy-sl.squirrel.link/ontology/siteType>,
+        <http://fuzzy-sl.squirrel.link/ontology/spatialType>,
+        rdf:type ;
+    void:objectsTarget <http://fuzzy-sl.squirrel.link/ontology/> ;
+    void:subjectsTarget <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
+    void:triples 71,
+        77,
+        142,
+        213 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_github.com_Research-Squirrel-Engineers_> a void:Linkset ;
+    rdfs:label "Linkset: CI_FSL - Research-Squirrel-Engineers"@en ;
+    void:linkPredicate prov:wasDerivedFrom ;
+    void:objectsTarget <https://github.com/Research-Squirrel-Engineers/> ;
+    void:subjectsTarget <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
+    void:triples 71 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_github.com_Research-Squirrel-Engineers_campanian-ignimbrite-geo_blob_main_py_> a void:Linkset ;
+    rdfs:label "Linkset: CI_FSL - py"@en ;
+    void:linkPredicate prov:wasAssociatedWith,
+        prov:wasAttributedTo ;
+    void:objectsTarget <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/> ;
+    void:subjectsTarget <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
+    void:triples 71 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_openstreetmap.org_node_> a void:Linkset ;
+    rdfs:label "Linkset: CI_FSL - node"@en ;
+    void:linkPredicate <http://fuzzy-sl.squirrel.link/ontology/dubiousMatch>,
+        <http://fuzzy-sl.squirrel.link/ontology/spatialCloseMatch>,
+        skos:closeMatch ;
+    void:objectsTarget <http://openstreetmap.org/node/> ;
+    void:subjectsTarget <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
+    void:triples 1,
+        14 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_openstreetmap.org_relation_> a void:Linkset ;
+    rdfs:label "Linkset: CI_FSL - relation"@en ;
+    void:linkPredicate <http://fuzzy-sl.squirrel.link/ontology/partlyMatch>,
+        skos:closeMatch ;
+    void:objectsTarget <http://openstreetmap.org/relation/> ;
+    void:subjectsTarget <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
+    void:triples 2,
+        3 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_openstreetmap.org_way_> a void:Linkset ;
+    rdfs:label "Linkset: CI_FSL - way"@en ;
+    void:linkPredicate skos:closeMatch ;
+    void:objectsTarget <http://openstreetmap.org/way/> ;
+    void:subjectsTarget <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
+    void:triples 1 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_orcid.org_> a void:Linkset ;
+    rdfs:label "Linkset: CI_FSL - orcid.org"@en,
+        "Linkset: CI_FSL - orcid:"@en ;
+    void:linkPredicate dcterms:creator,
+        dcterms:rightsHolder,
+        skos:exactMatch,
+        prov:wasAssociatedWith,
+        prov:wasAttributedTo ;
+    void:objectsTarget <http://orcid.org/>,
+        <https://orcid.org/> ;
+    void:subjectsTarget <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
+    void:triples 2,
+        71,
+        142 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_pleiades.stoa.org_places_vocab_> a void:Linkset ;
+    rdfs:label "Linkset: CI_FSL - pleiades:"@en ;
+    void:linkPredicate rdf:type ;
+    void:objectsTarget <https://pleiades.stoa.org/places/vocab#> ;
+    void:subjectsTarget <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
+    void:triples 71 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_sws.geonames.org_> a void:Linkset ;
+    rdfs:label "Linkset: CI_FSL - gns:"@en,
+        "Linkset: CI_FSL - sws.geonames.org"@en ;
+    void:linkPredicate <http://fuzzy-sl.squirrel.link/ontology/dubiousMatch>,
+        <http://fuzzy-sl.squirrel.link/ontology/partlyMatch>,
+        <http://fuzzy-sl.squirrel.link/ontology/spatialCloseMatch>,
+        skos:closeMatch ;
+    void:objectsTarget <http://sws.geonames.org/>,
+        <https://sws.geonames.org/> ;
+    void:subjectsTarget <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
+    void:triples 1,
+        2,
+        4,
+        5,
+        10 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_wikidata.org_entity_> a void:Linkset ;
+    rdfs:label "Linkset: CI_FSL - wikidata:"@en ;
+    void:linkPredicate <http://fuzzy-sl.squirrel.link/ontology/dubiousMatch>,
+        <http://fuzzy-sl.squirrel.link/ontology/partlyMatch>,
+        <http://fuzzy-sl.squirrel.link/ontology/spatialCloseMatch>,
+        skos:closeMatch ;
+    void:objectsTarget <http://wikidata.org/entity/> ;
+    void:subjectsTarget <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
+    void:triples 1,
+        2,
+        3,
+        34 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_www.opengis.net_ont_geosparql_> a void:Linkset ;
+    rdfs:label "Linkset: CI_FSL - The GeoSPARQL Ontology (gsp:)"@en ;
+    void:linkPredicate rdf:type ;
+    void:objectsTarget geo: ;
+    void:subjectsTarget <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
+    void:triples 4 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_www.opengis.net_ont_sf_> a void:Linkset ;
+    rdfs:label "Linkset: CI_FSL - Simple Features Vocabulary (sf:)"@en ;
+    void:linkPredicate rdf:type ;
+    void:objectsTarget <http://www.opengis.net/ont/sf#> ;
+    void:subjectsTarget <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
+    void:triples 71 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_www.openstreetmap.org_node_> a void:Linkset ;
+    rdfs:label "Linkset: CI_FSL - node"@en ;
+    void:linkPredicate <http://fuzzy-sl.squirrel.link/ontology/spatialCloseMatch>,
+        skos:closeMatch ;
+    void:objectsTarget <https://www.openstreetmap.org/node/> ;
+    void:subjectsTarget <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
+    void:triples 1,
+        5 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_www.openstreetmap.org_relation_> a void:Linkset ;
+    rdfs:label "Linkset: CI_FSL - relation"@en ;
+    void:linkPredicate <http://fuzzy-sl.squirrel.link/ontology/spatialCloseMatch>,
+        skos:closeMatch ;
+    void:objectsTarget <https://www.openstreetmap.org/relation/> ;
+    void:subjectsTarget <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
+    void:triples 1,
+        2 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_www.w3.org_2004_02_skos_core_> a void:Linkset ;
+    rdfs:label "Linkset: CI_FSL - skos:"@en ;
+    void:linkPredicate rdf:type ;
+    void:objectsTarget skos: ;
+    void:subjectsTarget <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
+    void:triples 3 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_www.w3.org_2006_vcard_ns_> a void:Linkset ;
+    rdfs:label "Linkset: CI_FSL - Vcard Vocabulary (vcard2006:)"@en ;
+    void:linkPredicate rdf:type ;
+    void:objectsTarget <http://www.w3.org/2006/vcard/ns#> ;
+    void:subjectsTarget <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
+    void:triples 1 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_www.w3.org_ns_prov_> a void:Linkset ;
+    rdfs:label "Linkset: CI_FSL - W3C Provenance Ontology (prov:)"@en ;
+    void:linkPredicate rdf:type ;
+    void:objectsTarget prov: ;
+    void:subjectsTarget <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
+    void:triples 215 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_xmlns.com_foaf_0.1_> a void:Linkset ;
+    rdfs:label "Linkset: CI_FSL - Friend Of A Friend Ontology (foaf:)"@en ;
+    void:linkPredicate rdf:type ;
+    void:objectsTarget foaf: ;
+    void:subjectsTarget <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
+    void:triples 2 .
+
+<http://fuzzy-sl.squirrel.link/data/adms_CI_FSL_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/adms# in CI_FSL" ;
+    voaf:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> .
+
+<http://fuzzy-sl.squirrel.link/data/brick_CI_FSL_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary https://brickschema.org/schema/Brick# in CI_FSL" ;
+    voaf:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> .
+
+<http://fuzzy-sl.squirrel.link/data/csvw_CI_FSL_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/csvw# in CI_FSL" ;
+    voaf:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> .
+
+<http://fuzzy-sl.squirrel.link/data/dc_CI_FSL_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://purl.org/dc/elements/1.1/ in CI_FSL" ;
+    voaf:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> .
+
+<http://fuzzy-sl.squirrel.link/data/dcam_CI_FSL_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://purl.org/dc/dcam/ in CI_FSL" ;
+    voaf:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> .
+
+<http://fuzzy-sl.squirrel.link/data/dcat_CI_FSL_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/dcat# in CI_FSL" ;
+    voaf:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> .
+
+<http://fuzzy-sl.squirrel.link/data/dcmitype_CI_FSL_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://purl.org/dc/dcmitype/ in CI_FSL" ;
+    voaf:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> .
+
+<http://fuzzy-sl.squirrel.link/data/dcterms_CI_FSL_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://purl.org/dc/terms/ in CI_FSL" ;
+    voaf:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> .
+
+<http://fuzzy-sl.squirrel.link/data/doap_CI_FSL_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://usefulinc.com/ns/doap# in CI_FSL" ;
+    voaf:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> .
+
+<http://fuzzy-sl.squirrel.link/data/foaf_CI_FSL_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://xmlns.com/foaf/0.1/ in CI_FSL" ;
+    voaf:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
+    voaf:occurrences 4 .
+
+<http://fuzzy-sl.squirrel.link/data/geo_CI_FSL_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.opengis.net/ont/geosparql# in CI_FSL" ;
+    voaf:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
+    voaf:occurrences 8 .
+
+<http://fuzzy-sl.squirrel.link/data/odrl_CI_FSL_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/odrl/2/ in CI_FSL" ;
+    voaf:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> .
+
+<http://fuzzy-sl.squirrel.link/data/org_CI_FSL_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/org# in CI_FSL" ;
+    voaf:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> .
+
+<http://fuzzy-sl.squirrel.link/data/owl_CI_FSL_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/2002/07/owl# in CI_FSL" ;
+    voaf:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> .
+
+<http://fuzzy-sl.squirrel.link/data/prof_CI_FSL_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/dx/prof/ in CI_FSL" ;
+    voaf:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> .
+
+<http://fuzzy-sl.squirrel.link/data/prov_CI_FSL_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/prov# in CI_FSL" ;
+    voaf:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
+    voaf:occurrences 430 .
+
+<http://fuzzy-sl.squirrel.link/data/qb_CI_FSL_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://purl.org/linked-data/cube# in CI_FSL" ;
+    voaf:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> .
+
+<http://fuzzy-sl.squirrel.link/data/rdf_CI_FSL_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/1999/02/22-rdf-syntax-ns# in CI_FSL" ;
+    voaf:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> .
+
+<http://fuzzy-sl.squirrel.link/data/rdfs_CI_FSL_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/2000/01/rdf-schema# in CI_FSL" ;
+    voaf:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> .
+
+<http://fuzzy-sl.squirrel.link/data/schema_CI_FSL_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary https://schema.org/ in CI_FSL" ;
+    voaf:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> .
+
+<http://fuzzy-sl.squirrel.link/data/sh_CI_FSL_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/shacl# in CI_FSL" ;
+    voaf:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> .
+
+<http://fuzzy-sl.squirrel.link/data/skos_CI_FSL_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/2004/02/skos/core# in CI_FSL" ;
+    voaf:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
+    voaf:occurrences 6 .
+
+<http://fuzzy-sl.squirrel.link/data/sosa_CI_FSL_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/sosa/ in CI_FSL" ;
+    voaf:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> .
+
+<http://fuzzy-sl.squirrel.link/data/ssn_CI_FSL_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/ssn/ in CI_FSL" ;
+    voaf:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> .
+
+<http://fuzzy-sl.squirrel.link/data/time_CI_FSL_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/2006/time# in CI_FSL" ;
+    voaf:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> .
+
+<http://fuzzy-sl.squirrel.link/data/vann_CI_FSL_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://purl.org/vocab/vann/ in CI_FSL" ;
+    voaf:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> .
+
+<http://fuzzy-sl.squirrel.link/data/vext_CI_FSL_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://ldf.fi/void-ext# in CI_FSL" ;
+    voaf:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> .
+
+<http://fuzzy-sl.squirrel.link/data/voaf_CI_FSL_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://purl.org/vocommons/voaf# in CI_FSL" ;
+    voaf:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> .
+
+<http://fuzzy-sl.squirrel.link/data/void_CI_FSL_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://rdfs.org/ns/void# in CI_FSL" ;
+    voaf:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> .
+
+<http://fuzzy-sl.squirrel.link/data/wgs_CI_FSL_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary https://www.w3.org/2003/01/geo/wgs84_pos# in CI_FSL" ;
+    voaf:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> .
+
+<http://fuzzy-sl.squirrel.link/data/xml_CI_FSL_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/XML/1998/namespace in CI_FSL" ;
+    voaf:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> .
+
+<http://fuzzy-sl.squirrel.link/data/xsd_CI_FSL_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/2001/XMLSchema# in CI_FSL" ;
+    voaf:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> .
+
+<https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo> a adms:AssetRepository ;
+    rdfs:label "Repository for CI_FSL"@en ;
+    dcat:accessURL "https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo"^^xsd:anyURI ;
+    dcat:dataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> .
+
+<http://dbpedia.org/resource/Location> rdfs:label "Location"@en .
+
+<http://dbpedia.org/resource/OGC_GeoSPARQL> rdfs:label "OGC GeoSPARQL"@en .
+
+<http://dbpedia.org/resource/Time> rdfs:label "Time Data"@en .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_Activity> a void:Dataset ;
+    rdfs:label "Class Partition: Activity"@en ;
+    void:class prov:Activity ;
+    void:entities 142 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_Agent> a void:Dataset ;
+    rdfs:label "Class Partition: Agent"@en ;
+    void:class prov:Agent ;
+    void:entities 2 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_Collection> a void:Dataset ;
+    rdfs:label "Class Partition: Collection"@en ;
+    void:class skos:Collection ;
+    void:entities 3 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_Entity> a void:Dataset ;
+    rdfs:label "Class Partition: Entity"@en ;
+    void:class prov:Entity ;
+    void:entities 71 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_FeatureCollection> a void:Dataset ;
+    rdfs:label "Class Partition: FeatureCollection"@en ;
+    void:class geo:FeatureCollection ;
+    void:entities 3 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_GeometryCollection> a void:Dataset ;
+    rdfs:label "Class Partition: GeometryCollection"@en ;
+    void:class geo:GeometryCollection ;
+    void:entities 1 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_Georeferencing> a void:Dataset ;
+    rdfs:label "Class Partition: Georeferencing"@en ;
+    void:class <http://fuzzy-sl.squirrel.link/ontology/Georeferencing> ;
+    void:entities 71 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_Group> a void:Dataset ;
+    rdfs:label "Class Partition: Group"@en ;
+    void:class <http://www.w3.org/2006/vcard/ns#Group> ;
+    void:entities 1 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_Person> a void:Dataset ;
+    rdfs:label "Class Partition: Person"@en ;
+    void:class foaf:Person ;
+    void:entities 2 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_Place> a void:Dataset ;
+    rdfs:label "Class Partition: Place"@en ;
+    void:class <https://pleiades.stoa.org/places/vocab#Place> ;
+    void:entities 71 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_Point> a void:Dataset ;
+    rdfs:label "Class Partition: Point"@en ;
+    void:class <http://www.opengis.net/ont/sf#Point> ;
+    void:entities 71 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_Site> a void:Dataset ;
+    rdfs:label "Class Partition: Site"@en ;
+    void:class <http://fuzzy-sl.squirrel.link/ontology/Site> ;
+    void:entities 71 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_SpatialObjectCollection> a void:Dataset ;
+    rdfs:label "Class Partition: SpatialObjectCollection"@en ;
+    void:class geo:SpatialObjectCollection .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_activityDesc> a void:Dataset ;
+    rdfs:label "Property Partition: activityDesc"@en ;
+    void:property <http://fuzzy-sl.squirrel.link/ontology/activityDesc> ;
+    void:triples 71 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_asWKT> a void:Dataset ;
+    rdfs:label "Property Partition: asWKT"@en ;
+    void:property geo:asWKT ;
+    void:triples 71 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_certaintyDesc> a void:Dataset ;
+    rdfs:label "Property Partition: certaintyDesc"@en ;
+    void:property <http://fuzzy-sl.squirrel.link/ontology/certaintyDesc> ;
+    void:triples 213 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_certaintyLevel> a void:Dataset ;
+    rdfs:label "Property Partition: certaintyLevel"@en ;
+    void:property <http://fuzzy-sl.squirrel.link/ontology/certaintyLevel> ;
+    void:triples 213 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_closeMatch> a void:Dataset ;
+    rdfs:label "Property Partition: closeMatch"@en ;
+    void:property skos:closeMatch ;
+    void:triples 69 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_comment> a void:Dataset ;
+    rdfs:label "Property Partition: comment"@en ;
+    void:property rdfs:comment ;
+    void:triples 71 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_creator> a void:Dataset ;
+    rdfs:label "Property Partition: creator"@en ;
+    void:property dcterms:creator ;
+    void:triples 142 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_dist_ttl> a adms:AssetDistribution ;
+    rdfs:label "CI_FSL TTL Distribution"@en ;
+    dcat:downloadURL "https://Research-Squirrel-Engineers.github.io/campanian-ignimbrite-geo//index.ttl"^^xsd:anyURI ;
+    dcat:mediaType <http://www.w3.org/ns/formats/Turtle> .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_dubiousMatch> a void:Dataset ;
+    rdfs:label "Property Partition: dubiousMatch"@en ;
+    void:property <http://fuzzy-sl.squirrel.link/ontology/dubiousMatch> ;
+    void:triples 4 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_endedAtTime> a void:Dataset ;
+    rdfs:label "Property Partition: endedAtTime"@en ;
+    void:property prov:endedAtTime ;
+    void:triples 142 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_exactMatch> a void:Dataset ;
+    rdfs:label "Property Partition: exactMatch"@en ;
+    void:property skos:exactMatch ;
+    void:triples 2 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_hasGeometry> a void:Dataset ;
+    rdfs:label "Property Partition: hasGeometry"@en ;
+    void:property geo:hasGeometry ;
+    void:triples 71 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_hasReference> a void:Dataset ;
+    rdfs:label "Property Partition: hasReference"@en ;
+    void:property <http://fuzzy-sl.squirrel.link/ontology/hasReference> ;
+    void:triples 194 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_hasSource> a void:Dataset ;
+    rdfs:label "Property Partition: hasSource"@en ;
+    void:property <http://fuzzy-sl.squirrel.link/ontology/hasSource> ;
+    void:triples 71 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_hasSourceType> a void:Dataset ;
+    rdfs:label "Property Partition: hasSourceType"@en ;
+    void:property <http://fuzzy-sl.squirrel.link/ontology/hasSourceType> ;
+    void:triples 71 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_label> a void:Dataset ;
+    rdfs:label "Property Partition: label"@en ;
+    void:property rdfs:label ;
+    void:triples 71 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_license> a void:Dataset ;
+    rdfs:label "Property Partition: license"@en ;
+    void:property dcterms:license ;
+    void:triples 71 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_partOf> a void:Dataset ;
+    rdfs:label "Property Partition: partOf"@en ;
+    void:property <http://fuzzy-sl.squirrel.link/ontology/partOf> ;
+    void:triples 71 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_partlyMatch> a void:Dataset ;
+    rdfs:label "Property Partition: partlyMatch"@en ;
+    void:property <http://fuzzy-sl.squirrel.link/ontology/partlyMatch> ;
+    void:triples 8 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_prefLabel> a void:Dataset ;
+    rdfs:label "Property Partition: prefLabel"@en ;
+    void:property skos:prefLabel ;
+    void:triples 71 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_rightsHolder> a void:Dataset ;
+    rdfs:label "Property Partition: rightsHolder"@en ;
+    void:property dcterms:rightsHolder ;
+    void:triples 142 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_scopeNote> a void:Dataset ;
+    rdfs:label "Property Partition: scopeNote"@en ;
+    void:property skos:scopeNote ;
+    void:triples 71 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_siteType> a void:Dataset ;
+    rdfs:label "Property Partition: siteType"@en ;
+    void:property <http://fuzzy-sl.squirrel.link/ontology/siteType> ;
+    void:triples 71 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_spatialCloseMatch> a void:Dataset ;
+    rdfs:label "Property Partition: spatialCloseMatch"@en ;
+    void:property <http://fuzzy-sl.squirrel.link/ontology/spatialCloseMatch> ;
+    void:triples 14 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_spatialType> a void:Dataset ;
+    rdfs:label "Property Partition: spatialType"@en ;
+    void:property <http://fuzzy-sl.squirrel.link/ontology/spatialType> ;
+    void:triples 77 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_startedAtTime> a void:Dataset ;
+    rdfs:label "Property Partition: startedAtTime"@en ;
+    void:property prov:startedAtTime ;
+    void:triples 142 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_type> a void:Dataset ;
+    rdfs:label "Property Partition: type"@en ;
+    void:property rdf:type ;
+    void:triples 501 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_used> a void:Dataset ;
+    rdfs:label "Property Partition: used"@en ;
+    void:property prov:used ;
+    void:triples 71 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_wasAssociatedWith> a void:Dataset ;
+    rdfs:label "Property Partition: wasAssociatedWith"@en ;
+    void:property prov:wasAssociatedWith ;
+    void:triples 142 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_wasAttributedTo> a void:Dataset ;
+    rdfs:label "Property Partition: wasAttributedTo"@en ;
+    void:property prov:wasAttributedTo ;
+    void:triples 142 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_wasDerivedFrom> a void:Dataset ;
+    rdfs:label "Property Partition: wasDerivedFrom"@en ;
+    void:property prov:wasDerivedFrom ;
+    void:triples 71 .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_wasGeneratedBy> a void:Dataset ;
+    rdfs:label "Property Partition: wasGeneratedBy"@en ;
+    void:property prov:wasGeneratedBy ;
+    void:triples 142 .
+
+vext: a voaf:Vocabulary ;
+    rdfs:label "vext Vocabulary"@en ;
+    vann:preferredNamespacePrefix "vext"^^xsd:string ;
+    vann:preferredNamespaceUri "http://ldf.fi/void-ext#"^^xsd:anyURI ;
+    voaf:usageInDataset vext:_CI_FSL_occ .
+
+dcam: a voaf:Vocabulary ;
+    rdfs:label "dcam Vocabulary"@en ;
+    vann:preferredNamespacePrefix "dcam"^^xsd:string ;
+    vann:preferredNamespaceUri "http://purl.org/dc/dcam/"^^xsd:anyURI ;
+    voaf:usageInDataset dcam:_CI_FSL_occ .
+
+dcmitype: a voaf:Vocabulary ;
+    rdfs:label "dcmitype Vocabulary"@en ;
+    vann:preferredNamespacePrefix "dcmitype"^^xsd:string ;
+    vann:preferredNamespaceUri "http://purl.org/dc/dcmitype/"^^xsd:anyURI ;
+    voaf:usageInDataset dcmitype:_CI_FSL_occ .
+
+dc: a voaf:Vocabulary ;
+    rdfs:label "dc Vocabulary"@en ;
+    vann:preferredNamespacePrefix "dc"^^xsd:string ;
+    vann:preferredNamespaceUri "http://purl.org/dc/elements/1.1/"^^xsd:anyURI ;
+    voaf:usageInDataset dc:_CI_FSL_occ .
+
+dcterms: a voaf:Vocabulary ;
+    rdfs:label "dcterms Vocabulary"@en ;
+    vann:preferredNamespacePrefix "dcterms"^^xsd:string ;
+    vann:preferredNamespaceUri "http://purl.org/dc/terms/"^^xsd:anyURI ;
+    voaf:usageInDataset dcterms:_CI_FSL_occ .
+
+qb: a voaf:Vocabulary ;
+    rdfs:label "qb Vocabulary"@en ;
+    vann:preferredNamespacePrefix "qb"^^xsd:string ;
+    vann:preferredNamespaceUri "http://purl.org/linked-data/cube#"^^xsd:anyURI ;
+    voaf:usageInDataset qb:_CI_FSL_occ .
+
+vann: a voaf:Vocabulary ;
+    rdfs:label "vann Vocabulary"@en ;
+    vann:preferredNamespacePrefix "vann"^^xsd:string ;
+    vann:preferredNamespaceUri "http://purl.org/vocab/vann/"^^xsd:anyURI ;
+    voaf:usageInDataset vann:_CI_FSL_occ .
+
+voaf: a voaf:Vocabulary ;
+    rdfs:label "voaf Vocabulary"@en ;
+    vann:preferredNamespacePrefix "voaf"^^xsd:string ;
+    vann:preferredNamespaceUri "http://purl.org/vocommons/voaf#"^^xsd:anyURI ;
+    voaf:usageInDataset voaf:_CI_FSL_occ .
+
+void: a voaf:Vocabulary ;
+    rdfs:label "Vocabulary of Interlinked Datasets (VoID)"@en ;
+    vann:preferredNamespacePrefix "void"^^xsd:string ;
+    vann:preferredNamespaceUri "http://rdfs.org/ns/void#"^^xsd:anyURI ;
+    voaf:usageInDataset void:_CI_FSL_occ .
+
+doap: a voaf:Vocabulary ;
+    rdfs:label "doap Vocabulary"@en ;
+    vann:preferredNamespacePrefix "doap"^^xsd:string ;
+    vann:preferredNamespaceUri "http://usefulinc.com/ns/doap#"^^xsd:anyURI ;
+    voaf:usageInDataset doap:_CI_FSL_occ .
+
+rdf: a voaf:Vocabulary ;
+    rdfs:label "The RDF Concepts Vocabulary (RDF)"@en ;
+    vann:preferredNamespacePrefix "rdf"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/1999/02/22-rdf-syntax-ns#"^^xsd:anyURI ;
+    voaf:usageInDataset rdf:_CI_FSL_occ .
+
+rdfs: a voaf:Vocabulary ;
+    rdfs:label "The RDF Schema vocabulary (RDFS)"@en ;
+    vann:preferredNamespacePrefix "rdfs"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/2000/01/rdf-schema#"^^xsd:anyURI ;
+    voaf:usageInDataset rdfs:_CI_FSL_occ .
+
+xsd: a voaf:Vocabulary ;
+    rdfs:label "XML Schema"@en ;
+    vann:preferredNamespacePrefix "xsd"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/2001/XMLSchema#"^^xsd:anyURI ;
+    voaf:usageInDataset xsd:_CI_FSL_occ .
+
+owl: a voaf:Vocabulary ;
+    rdfs:label "Web Ontology Language 2 Vocabulary"@en ;
+    vann:preferredNamespacePrefix "owl"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/2002/07/owl#"^^xsd:anyURI ;
+    voaf:usageInDataset owl:_CI_FSL_occ .
+
+time: a voaf:Vocabulary ;
+    rdfs:label "time Vocabulary"@en ;
+    vann:preferredNamespacePrefix "time"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/2006/time#"^^xsd:anyURI ;
+    voaf:usageInDataset time:_CI_FSL_occ .
+
+xml: a voaf:Vocabulary ;
+    rdfs:label "xml Vocabulary"@en ;
+    vann:preferredNamespacePrefix "xml"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/XML/1998/namespace"^^xsd:anyURI ;
+    voaf:usageInDataset xml:_CI_FSL_occ .
+
+adms: a voaf:Vocabulary ;
+    rdfs:label "adms Vocabulary"@en ;
+    vann:preferredNamespacePrefix "adms"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/adms#"^^xsd:anyURI ;
+    voaf:usageInDataset adms:_CI_FSL_occ .
+
+csvw: a voaf:Vocabulary ;
+    rdfs:label "csvw Vocabulary"@en ;
+    vann:preferredNamespacePrefix "csvw"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/csvw#"^^xsd:anyURI ;
+    voaf:usageInDataset csvw:_CI_FSL_occ .
+
+dcat: a voaf:Vocabulary ;
+    rdfs:label "DCAT Vocabulary"@en ;
+    vann:preferredNamespacePrefix "dcat"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/dcat#"^^xsd:anyURI ;
+    voaf:usageInDataset dcat:_CI_FSL_occ .
+
+prof: a voaf:Vocabulary ;
+    rdfs:label "prof Vocabulary"@en ;
+    vann:preferredNamespacePrefix "prof"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/dx/prof/"^^xsd:anyURI ;
+    voaf:usageInDataset prof:_CI_FSL_occ .
+
+odrl: a voaf:Vocabulary ;
+    rdfs:label "odrl Vocabulary"@en ;
+    vann:preferredNamespacePrefix "odrl"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/odrl/2/"^^xsd:anyURI ;
+    voaf:usageInDataset odrl:_CI_FSL_occ .
+
+org: a voaf:Vocabulary ;
+    rdfs:label "org Vocabulary"@en ;
+    vann:preferredNamespacePrefix "org"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/org#"^^xsd:anyURI ;
+    voaf:usageInDataset org:_CI_FSL_occ .
+
+sh: a voaf:Vocabulary ;
+    rdfs:label "Shapes Constraint Language (SHACL)"@en ;
+    vann:preferredNamespacePrefix "sh"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/shacl#"^^xsd:anyURI ;
+    voaf:usageInDataset sh:_CI_FSL_occ .
+
+sosa: a voaf:Vocabulary ;
+    rdfs:label "Sensor, Observation, Sample, and Actuator (SOSA) Ontology"@en ;
+    vann:preferredNamespacePrefix "sosa"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/sosa/"^^xsd:anyURI ;
+    voaf:usageInDataset sosa:_CI_FSL_occ .
+
+ssn: a voaf:Vocabulary ;
+    rdfs:label "ssn Vocabulary"@en ;
+    vann:preferredNamespacePrefix "ssn"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/ssn/"^^xsd:anyURI ;
+    voaf:usageInDataset ssn:_CI_FSL_occ .
+
+<http://www.wikidata.org/entity/Q121810372> rdfs:label "geospatial data"@en .
+
+brick: a voaf:Vocabulary ;
+    rdfs:label "brick Vocabulary"@en ;
+    vann:preferredNamespacePrefix "brick"^^xsd:string ;
+    vann:preferredNamespaceUri "https://brickschema.org/schema/Brick#"^^xsd:anyURI ;
+    voaf:usageInDataset brick:_CI_FSL_occ .
+
+schema: a voaf:Vocabulary ;
+    rdfs:label "schema Vocabulary"@en ;
+    vann:preferredNamespacePrefix "schema"^^xsd:string ;
+    vann:preferredNamespaceUri "https://schema.org/"^^xsd:anyURI ;
+    voaf:usageInDataset schema:_CI_FSL_occ .
+
+wgs: a voaf:Vocabulary ;
+    rdfs:label "wgs Vocabulary"@en ;
+    vann:preferredNamespacePrefix "wgs"^^xsd:string ;
+    vann:preferredNamespaceUri "https://www.w3.org/2003/01/geo/wgs84_pos#"^^xsd:anyURI ;
+    voaf:usageInDataset wgs:_CI_FSL_occ .
+
+geo: a voaf:Vocabulary ;
+    rdfs:label "The GeoSPARQL Ontology"@en ;
+    vann:preferredNamespacePrefix "geo"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.opengis.net/ont/geosparql#"^^xsd:anyURI ;
+    voaf:usageInDataset geo:_CI_FSL_occ .
+
+skos: a voaf:Vocabulary ;
+    rdfs:label "skos Vocabulary"@en ;
+    vann:preferredNamespacePrefix "skos"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/2004/02/skos/core#"^^xsd:anyURI ;
+    voaf:usageInDataset skos:_CI_FSL_occ .
+
+prov: a voaf:Vocabulary ;
+    rdfs:label "W3C Provenance Ontology"@en ;
+    vann:preferredNamespacePrefix "prov"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/prov#"^^xsd:anyURI ;
+    voaf:usageInDataset prov:_CI_FSL_occ .
+
+foaf: a voaf:Vocabulary ;
+    rdfs:label "Friend Of A Friend Ontology"@en ;
+    vann:preferredNamespacePrefix "foaf"^^xsd:string ;
+    vann:preferredNamespaceUri "http://xmlns.com/foaf/0.1/"^^xsd:anyURI ;
+    voaf:usageInDataset foaf:_CI_FSL_occ .
+
+foaf:Person rdfs:label "Person"@en .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL> a void:Dataset,
+        adms:Asset ;
+    rdfs:label "CI_FSL"@en ;
+    vext:averageLiteralLength 36 ;
+    vext:averageObjectIRILength 46 ;
+    vext:averagePropertyIRILength 44 ;
+    vext:averageSubjectIRILength 49 ;
+    vext:datatypes 2 ;
+    vext:distinctBlankNodes 0 ;
+    vext:distinctIRIReferences 968 ;
+    vext:distinctLiterals 241 ;
+    vext:distinctRDFNodes 1209 ;
+    vext:languages 1 ;
+    vext:propertyClasses 0 ;
+    dc:language <http://www.lexvo.org/page/iso639-1/en> ;
+    dcterms:modified "2024-05-01T19:41:33"^^xsd:dateTime ;
+    dcterms:subject <http://dbpedia.org/resource/Location>,
+        <http://dbpedia.org/resource/OGC_GeoSPARQL>,
+        <http://dbpedia.org/resource/Time>,
+        <http://www.wikidata.org/entity/Q121810372>,
+        foaf:Person ;
+    dcterms:title "CI_FSL"@en ;
+    vann:preferredNamespacePrefix "fsld"^^xsd:string ;
+    vann:preferredNamespaceUri "http://fuzzy-sl.squirrel.link/data/"^^xsd:anyURI ;
+    void:classPartition <http://fuzzy-sl.squirrel.link/data/CI_FSL_Activity>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_Agent>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_Collection>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_Entity>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_FeatureCollection>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_GeometryCollection>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_Georeferencing>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_Group>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_Person>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_Place>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_Point>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_Site>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_SpatialObjectCollection> ;
+    void:classes 13 ;
+    void:dataDump <https://Research-Squirrel-Engineers.github.io/campanian-ignimbrite-geo//index.ttl> ;
+    void:distinctObjects 639 ;
+    void:distinctSubjects 298 ;
+    void:entities 295 ;
+    void:feature <http://www.w3.org/ns/formats/RDFa>,
+        <http://www.w3.org/ns/formats/Turtle> ;
+    void:properties 31 ;
+    void:propertyPartition <http://fuzzy-sl.squirrel.link/data/CI_FSL_activityDesc>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_asWKT>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_certaintyDesc>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_certaintyLevel>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_closeMatch>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_comment>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_creator>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_dubiousMatch>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_endedAtTime>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_exactMatch>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_hasGeometry>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_hasReference>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_hasSource>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_hasSourceType>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_label>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_license>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_partOf>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_partlyMatch>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_prefLabel>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_rightsHolder>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_scopeNote>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_siteType>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_spatialCloseMatch>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_spatialType>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_startedAtTime>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_type>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_used>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_wasAssociatedWith>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_wasAttributedTo>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_wasDerivedFrom>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_wasGeneratedBy> ;
+    void:triples 4098 ;
+    void:uriSpace "http://fuzzy-sl.squirrel.link/data/"^^xsd:string ;
+    void:vocabulary vext:,
+        dcam:,
+        dcmitype:,
+        dc:,
+        dcterms:,
+        qb:,
+        vann:,
+        voaf:,
+        void:,
+        doap:,
+        geo:,
+        rdf:,
+        rdfs:,
+        xsd:,
+        owl:,
+        skos:,
+        time:,
+        xml:,
+        adms:,
+        csvw:,
+        dcat:,
+        prof:,
+        odrl:,
+        org:,
+        prov:,
+        sh:,
+        sosa:,
+        ssn:,
+        foaf:,
+        brick:,
+        schema:,
+        wgs: ;
+    dcat:distribution <http://fuzzy-sl.squirrel.link/data/CI_FSL_dist_ttl> ;
+    dcat:keyword "Location"@en,
+        "OGC GeoSPARQL"@en,
+        "Person"@en,
+        "Q121810372"@en,
+        "Time"@en ;
+    dcat:landingPage <https://Research-Squirrel-Engineers.github.io/campanian-ignimbrite-geo/> ;
+    foaf:homepage <https://Research-Squirrel-Engineers.github.io/campanian-ignimbrite-geo/> ;
+    foaf:page <https://Research-Squirrel-Engineers.github.io/campanian-ignimbrite-geo//index.html> .
+

@@ -1,8 +1,12 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix void: <http://rdfs.org/ns/void#> .
 
-<http://fuzzy-sl.squirrel.link/data/Georeferencing_collection> a skos:Collection ;
-    rdfs:label "Georeferencing Instances Collection" ;
+<http://fuzzy-sl.squirrel.link/data/Georeferencing_collection> a skos:Collection,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Georeferencing Instances Collection"@en ;
+    void:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
     rdfs:member <http://fuzzy-sl.squirrel.link/data/cisite_101_activity>,
         <http://fuzzy-sl.squirrel.link/data/cisite_102_activity>,
         <http://fuzzy-sl.squirrel.link/data/cisite_103_activity>,

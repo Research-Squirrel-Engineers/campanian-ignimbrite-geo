@@ -1,8 +1,12 @@
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
 
-<http://fuzzy-sl.squirrel.link/data/Entity_collection> a geo:FeatureCollection ;
-    rdfs:label "Entity Instances Collection" ;
+<http://fuzzy-sl.squirrel.link/data/Entity_collection> a geo:FeatureCollection,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Entity Instances Collection"@en ;
+    void:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
     rdfs:member <http://fuzzy-sl.squirrel.link/data/cisite_1>,
         <http://fuzzy-sl.squirrel.link/data/cisite_10>,
         <http://fuzzy-sl.squirrel.link/data/cisite_101>,

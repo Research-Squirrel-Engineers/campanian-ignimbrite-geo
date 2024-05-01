@@ -1,7 +1,11 @@
 @prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://fuzzy-sl.squirrel.link/data/cisite_2_pyscript> a prov:Activity ;
+<http://fuzzy-sl.squirrel.link/data/cisite_2_pyscript> a <http://www.w3.org/ns/ldp#Resource>,
+        prov:Activity,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    void:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
     prov:endedAtTime "2023-12-12T12:13:37.942633+00:00"^^xsd:dateTime ;
     prov:startedAtTime "2023-12-12T12:13:37.926589+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py> .

@@ -1,8 +1,12 @@
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
 
-<http://fuzzy-sl.squirrel.link/data/Point_collection> a geo:GeometryCollection ;
-    rdfs:label "Point Instances Collection" ;
+<http://fuzzy-sl.squirrel.link/data/Point_collection> a geo:GeometryCollection,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Point Instances Collection"@en ;
+    void:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
     rdfs:member <http://fuzzy-sl.squirrel.link/data/cisite_101_geom>,
         <http://fuzzy-sl.squirrel.link/data/cisite_102_geom>,
         <http://fuzzy-sl.squirrel.link/data/cisite_103_geom>,

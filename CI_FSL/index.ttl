@@ -1,0 +1,153 @@
+@prefix brick: <https://brickschema.org/schema/Brick#> .
+@prefix csvw: <http://www.w3.org/ns/csvw#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcam: <http://purl.org/dc/dcam/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix doap: <http://usefulinc.com/ns/doap#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://ldf.fi/void-ext#> .
+@prefix odrl: <http://www.w3.org/ns/odrl/2/> .
+@prefix org: <http://www.w3.org/ns/org#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prof: <http://www.w3.org/ns/dx/prof/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix qb: <http://purl.org/linked-data/cube#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix ssn: <http://www.w3.org/ns/ssn/> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix wgs: <https://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL> a void:Dataset,
+        <http://www.w3.org/ns/adms#Asset>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "CI_FSL"@en ;
+    ns1:averageLiteralLength 36 ;
+    ns1:averageObjectIRILength 46 ;
+    ns1:averagePropertyIRILength 44 ;
+    ns1:averageSubjectIRILength 49 ;
+    ns1:datatypes 2 ;
+    ns1:distinctBlankNodes 0 ;
+    ns1:distinctIRIReferences 968 ;
+    ns1:distinctLiterals 241 ;
+    ns1:distinctRDFNodes 1209 ;
+    ns1:languages 1 ;
+    ns1:propertyClasses 0 ;
+    dc:language <http://www.lexvo.org/page/iso639-1/en> ;
+    dcterms:modified "2024-05-01T19:41:33"^^xsd:dateTime ;
+    dcterms:subject <http://dbpedia.org/resource/Location>,
+        <http://dbpedia.org/resource/OGC_GeoSPARQL>,
+        <http://dbpedia.org/resource/Time>,
+        <http://www.wikidata.org/entity/Q121810372>,
+        foaf:Person ;
+    dcterms:title "CI_FSL"@en ;
+    vann:preferredNamespacePrefix "fsld"^^xsd:string ;
+    vann:preferredNamespaceUri "http://fuzzy-sl.squirrel.link/data/"^^xsd:anyURI ;
+    void:classPartition <http://fuzzy-sl.squirrel.link/data/CI_FSL_Activity>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_Agent>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_Collection>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_Entity>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_FeatureCollection>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_GeometryCollection>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_Georeferencing>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_Group>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_Person>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_Place>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_Point>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_Site>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_SpatialObjectCollection> ;
+    void:classes 13 ;
+    void:dataDump <https://Research-Squirrel-Engineers.github.io/campanian-ignimbrite-geo//index.ttl> ;
+    void:distinctObjects 639 ;
+    void:distinctSubjects 298 ;
+    void:entities 295 ;
+    void:feature <http://www.w3.org/ns/formats/RDFa>,
+        <http://www.w3.org/ns/formats/Turtle> ;
+    void:properties 31 ;
+    void:propertyPartition <http://fuzzy-sl.squirrel.link/data/CI_FSL_activityDesc>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_asWKT>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_certaintyDesc>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_certaintyLevel>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_closeMatch>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_comment>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_creator>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_dubiousMatch>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_endedAtTime>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_exactMatch>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_hasGeometry>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_hasReference>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_hasSource>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_hasSourceType>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_label>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_license>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_partOf>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_partlyMatch>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_prefLabel>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_rightsHolder>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_scopeNote>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_siteType>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_spatialCloseMatch>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_spatialType>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_startedAtTime>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_type>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_used>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_wasAssociatedWith>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_wasAttributedTo>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_wasDerivedFrom>,
+        <http://fuzzy-sl.squirrel.link/data/CI_FSL_wasGeneratedBy> ;
+    void:triples 4098 ;
+    void:uriSpace "http://fuzzy-sl.squirrel.link/data/"^^xsd:string ;
+    void:vocabulary ns1:,
+        dcam:,
+        dcmitype:,
+        dc:,
+        dcterms:,
+        qb:,
+        vann:,
+        <http://purl.org/vocommons/voaf#>,
+        void:,
+        doap:,
+        geo:,
+        rdf:,
+        rdfs:,
+        xsd:,
+        owl:,
+        skos:,
+        time:,
+        xml:,
+        <http://www.w3.org/ns/adms#>,
+        csvw:,
+        dcat:,
+        prof:,
+        odrl:,
+        org:,
+        prov:,
+        sh:,
+        sosa:,
+        ssn:,
+        foaf:,
+        brick:,
+        schema:,
+        wgs: ;
+    dcat:distribution <http://fuzzy-sl.squirrel.link/data/CI_FSL_dist_ttl> ;
+    dcat:keyword "Location"@en,
+        "OGC GeoSPARQL"@en,
+        "Person"@en,
+        "Q121810372"@en,
+        "Time"@en ;
+    dcat:landingPage <https://Research-Squirrel-Engineers.github.io/campanian-ignimbrite-geo/> ;
+    foaf:homepage <https://Research-Squirrel-Engineers.github.io/campanian-ignimbrite-geo/> ;
+    foaf:page <https://Research-Squirrel-Engineers.github.io/campanian-ignimbrite-geo//index.html> .
+

@@ -43,6 +43,7 @@ var search={
   "Paglicci Cave": "http://fuzzy-sl.squirrel.link/data/cisite_19",
   "Pellezzano": "http://fuzzy-sl.squirrel.link/data/cisite_20",
   "Penta": "http://fuzzy-sl.squirrel.link/data/cisite_21",
+  "Person": "http://fuzzy-sl.squirrel.link/data/nonns_Person.html",
   "Person Instances Collection": "http://fuzzy-sl.squirrel.link/data/Person_collection",
   "Phlegraean Fields": "http://fuzzy-sl.squirrel.link/data/cisite_22",
   "Place Instances Collection": "http://fuzzy-sl.squirrel.link/data/Place_collection",

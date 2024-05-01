@@ -1,15 +1,19 @@
 @prefix ns1: <http://fuzzy-sl.squirrel.link/ontology/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://fuzzy-sl.squirrel.link/data/cisite_25_activity> a ns1:Georeferencing,
-        prov:Activity ;
+        <http://www.w3.org/ns/ldp#Resource>,
+        prov:Activity,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     ns1:activityDesc "set a representative point based on scientific papers using Google Maps"@en ;
     ns1:certaintyDesc "findspot mentioned in a scientific paper"@en ;
     ns1:certaintyLevel ns1:medium ;
     ns1:hasReference "Civetta et al., 1997" ;
     ns1:hasSource ns1:PaperDesc ;
     ns1:hasSourceType ns1:Paper ;
+    void:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
     prov:endedAtTime "2023-12-12T12:13:37.953181+00:00"^^xsd:dateTime ;
     prov:startedAtTime "2023-12-12T12:13:37.926589+00:00"^^xsd:dateTime ;
     prov:used <http://fuzzy-sl.squirrel.link/data/cisite_25> ;

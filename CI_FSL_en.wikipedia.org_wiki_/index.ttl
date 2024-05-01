@@ -1,0 +1,13 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://fuzzy-sl.squirrel.link/data/CI_FSL_en.wikipedia.org_wiki_> a void:Linkset,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Linkset: CI_FSL - wiki"@en ;
+    void:linkPredicate <http://fuzzy-sl.squirrel.link/ontology/dubiousMatch> ;
+    void:objectsTarget <https://en.wikipedia.org/wiki/> ;
+    void:subjectsTarget <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
+    void:triples 1 .
+

@@ -1,9 +1,12 @@
 @prefix ns1: <http://fuzzy-sl.squirrel.link/ontology/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://fuzzy-sl.squirrel.link/data/cisite_52_activity> a ns1:Georeferencing,
-        prov:Activity ;
+        <http://www.w3.org/ns/ldp#Resource>,
+        prov:Activity,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     ns1:activityDesc "set a representative point based on scientific papers using Google Maps"@en ;
     ns1:certaintyDesc "Fitzsimmons et al. (2014), p.76: “In this paper we investigate [...] the site of Urluia Quarry on the Dobrogea loess plateau [...], some 15 km south of the Danube River. The site immediately overlies the Quaternary-uplifted Cretaceous-Tertiary-age limestone basement rocks (Munteanu et al., 2008), which were the target of earlier quarrying activities.”; Pötter et al. (2021), p.5: “The Urluia (URL) LPS is located in an abandoned limestone quarry on the limestone plateau of the Dobrogea (Fitzsimmons et al., 2013; Fitzsimmons and Hambach, 2014; Obreht et al., 2017).”"@en ;
     ns1:certaintyLevel ns1:medium ;
@@ -13,6 +16,7 @@
         "Pötter et al., 2021" ;
     ns1:hasSource ns1:PaperDesc ;
     ns1:hasSourceType ns1:Paper ;
+    void:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
     prov:endedAtTime "2023-12-12T12:13:37.968710+00:00"^^xsd:dateTime ;
     prov:startedAtTime "2023-12-12T12:13:37.926589+00:00"^^xsd:dateTime ;
     prov:used <http://fuzzy-sl.squirrel.link/data/cisite_52> ;

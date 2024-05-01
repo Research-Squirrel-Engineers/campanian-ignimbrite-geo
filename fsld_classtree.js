@@ -57,10 +57,10 @@ var tree={
         "data": {}
       },
       {
-        "id": "http://xmlns.com/foaf/0.1/Person",
+        "id": "http://fuzzy-sl.squirrel.link/data/nonns_Person.html",
         "parent": "#",
         "type": "class",
-        "text": "Person (foaf:Person) [2]",
+        "text": "Person (foaf:Person)",
         "data": {}
       },
       {
@@ -84,6 +84,11 @@ var tree={
         "text": "Agent (prov:Agent) [2]",
         "data": {
           "to": {
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
+              "http://www.w3.org/ns/adms#Asset": 1
+            },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
               "instancecount": 2
             },
@@ -94,11 +99,15 @@ var tree={
           "from": {
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
-              "http://www.w3.org/2004/02/skos/core#Collection": 2
+              "http://www.w3.org/2004/02/skos/core#Collection": 1
+            },
+            "http://www.w3.org/2006/vcard/ns#hasMember": {
+              "instancecount": 0,
+              "http://www.w3.org/2006/vcard/ns#Group": 1
             }
           }
         },
-        "instancecount": 3
+        "instancecount": 4
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_1_suniv0_",
@@ -1627,11 +1636,8 @@ var tree={
             "http://fuzzy-sl.squirrel.link/ontology/siteType": {
               "instancecount": 1
             },
-            "http://fuzzy-sl.squirrel.link/ontology/spatialCloseMatch": {
-              "instancecount": 1
-            },
             "http://fuzzy-sl.squirrel.link/ontology/spatialType": {
-              "instancecount": 1
+              "instancecount": 2
             },
             "http://purl.org/dc/terms/creator": {
               "instancecount": 2
@@ -1641,6 +1647,11 @@ var tree={
             },
             "http://purl.org/dc/terms/rightsHolder": {
               "instancecount": 2
+            },
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
+              "http://www.w3.org/ns/adms#Asset": 1
             },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
               "instancecount": 1,
@@ -1655,6 +1666,9 @@ var tree={
             "http://www.w3.org/2000/01/rdf-schema#label": {
               "instancecount": 1
             },
+            "http://www.w3.org/2004/02/skos/core#closeMatch": {
+              "instancecount": 2
+            },
             "http://www.w3.org/2004/02/skos/core#prefLabel": {
               "instancecount": 1
             },
@@ -1665,7 +1679,8 @@ var tree={
               "instancecount": 2
             },
             "http://www.w3.org/ns/prov#wasDerivedFrom": {
-              "instancecount": 1
+              "instancecount": 1,
+              "http://www.w3.org/ns/adms#AssetRepository": 1
             },
             "http://www.w3.org/ns/prov#wasGeneratedBy": {
               "instancecount": 2,
@@ -1685,7 +1700,7 @@ var tree={
             }
           }
         },
-        "instancecount": 25
+        "instancecount": 28
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_1_geom",
@@ -2197,6 +2212,11 @@ var tree={
             "http://fuzzy-sl.squirrel.link/ontology/certaintyLevel": {
               "instancecount": 1
             },
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
+              "http://www.w3.org/ns/adms#Asset": 1
+            },
             "http://www.opengis.net/ont/geosparql#asWKT": {
               "instancecount": 1
             },
@@ -2217,7 +2237,7 @@ var tree={
             }
           }
         },
-        "instancecount": 4
+        "instancecount": 5
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_1_activity_suniv0_",
@@ -3220,6 +3240,11 @@ var tree={
         "text": "Activity (prov:Activity) [142]",
         "data": {
           "to": {
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
+              "http://www.w3.org/ns/adms#Asset": 1
+            },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
               "instancecount": 1
             },
@@ -3246,7 +3271,7 @@ var tree={
             }
           }
         },
-        "instancecount": 4
+        "instancecount": 5
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_1_activity_suniv1_",
@@ -3770,6 +3795,11 @@ var tree={
             "http://fuzzy-sl.squirrel.link/ontology/hasSourceType": {
               "instancecount": 1
             },
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
+              "http://www.w3.org/ns/adms#Asset": 1
+            },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
               "instancecount": 2
             },
@@ -3802,14 +3832,70 @@ var tree={
             }
           }
         },
-        "instancecount": 12
+        "instancecount": 13
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/Person_collection",
-        "parent": "http://www.w3.org/2004/02/skos/core#Collection",
+        "parent": "http://www.w3.org/2006/vcard/ns#Group",
         "type": "instance",
         "text": "Person Instances Collection (fsld:Person_collection)",
         "data": {}
+      },
+      {
+        "id": "http://www.w3.org/2006/vcard/ns#Group",
+        "parent": "http://www.w3.org/2004/02/skos/core#Collection",
+        "type": "collectionclass",
+        "text": "Group (vcard2006:Group) [1]",
+        "data": {
+          "to": {
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
+              "http://www.w3.org/ns/adms#Asset": 1
+            },
+            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/2000/01/rdf-schema#label": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/2006/vcard/ns#hasMember": {
+              "instancecount": 2,
+              "http://xmlns.com/foaf/0.1/Person": 2,
+              "http://www.w3.org/ns/prov#Agent": 2
+            }
+          },
+          "from": {}
+        },
+        "instancecount": 6
+      },
+      {
+        "id": "http://www.w3.org/2004/02/skos/core#Collection",
+        "parent": "#",
+        "type": "collectionclass",
+        "text": "Collection (skos:Collection) [3]",
+        "data": {
+          "to": {
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
+              "http://www.w3.org/ns/adms#Asset": 1
+            },
+            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/2000/01/rdf-schema#label": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/2000/01/rdf-schema#member": {
+              "instancecount": 71,
+              "http://www.w3.org/ns/prov#Activity": 71,
+              "http://fuzzy-sl.squirrel.link/ontology/Georeferencing": 71
+            }
+          },
+          "from": {}
+        },
+        "instancecount": 75
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/Agent_collection",
@@ -3831,29 +3917,6 @@ var tree={
         "type": "instance",
         "text": "Georeferencing Instances Collection (fsld:Georeferencing_collection)",
         "data": {}
-      },
-      {
-        "id": "http://www.w3.org/2004/02/skos/core#Collection",
-        "parent": "#",
-        "type": "collectionclass",
-        "text": "Collection (skos:Collection) [4]",
-        "data": {
-          "to": {
-            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
-              "instancecount": 1
-            },
-            "http://www.w3.org/2000/01/rdf-schema#label": {
-              "instancecount": 1
-            },
-            "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 142,
-              "http://www.w3.org/ns/prov#Activity": 142,
-              "http://fuzzy-sl.squirrel.link/ontology/Georeferencing": 71
-            }
-          },
-          "from": {}
-        },
-        "instancecount": 144
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/Site_collection",
@@ -3883,6 +3946,11 @@ var tree={
         "text": "FeatureCollection (gsp:FeatureCollection) [3]",
         "data": {
           "to": {
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
+              "http://www.w3.org/ns/adms#Asset": 1
+            },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
               "instancecount": 1
             },
@@ -3898,7 +3966,7 @@ var tree={
           },
           "from": {}
         },
-        "instancecount": 74
+        "instancecount": 75
       },
       {
         "id": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
@@ -3921,6 +3989,11 @@ var tree={
         "text": "GeometryCollection (gsp:GeometryCollection) [1]",
         "data": {
           "to": {
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://rdfs.org/ns/void#Dataset": 1,
+              "http://www.w3.org/ns/adms#Asset": 1
+            },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
               "instancecount": 1
             },
@@ -3934,8 +4007,47 @@ var tree={
           },
           "from": {}
         },
-        "instancecount": 74
+        "instancecount": 75
       }
     ]
+  },
+  "@context": {
+    "@version": 1.1,
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "ct": "http://purl.org/vocab/classtree#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "icon": "foaf:image",
+    "id": "@id",
+    "parent": "rdfs:subClassOf",
+    "halfgeoclass": "ct:HalfGeoClass",
+    "geoclass": {
+      "@type": "ct:icontype",
+      "@id": "ct:GeoClass"
+    },
+    "collectionclass": {
+      "@type": "ct:icontype",
+      "@id": "ct:CollectionClass"
+    },
+    "featurecollectionclass": {
+      "@type": "ct:icontype",
+      "@id": "ct:FeatureCollectionClass"
+    },
+    "class": "owl:Class",
+    "instance": "owl:NamedIndividual",
+    "geoinstance": {
+      "@type": "ct:Icontype",
+      "@id": "ct:GeoNamedIndividual"
+    },
+    "text": "rdfs:label",
+    "type": "ct:icontype",
+    "types": "ct:icontypes",
+    "core": {
+      "@type": "ct:TreeConfig",
+      "@id": "@nest"
+    },
+    "data": {
+      "@id": "ct:treeitem",
+      "@type": "ct:TreeItem"
+    }
   }
 }
