@@ -18,17 +18,19 @@ jobs:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     uses: sparqlunicorn/sparqlunicornGoesGIS-ontdoc/.github/workflows/udoc.yml@main
     with:
-      version: v016
+      version: v017
       rdffilepath: rdf/ci_full.ttl
       docpath: docs
       prefixns: http://fuzzy-sl.squirrel.link/data/
       prefixnsshort: fsld
       indexpages: true
       createcollections: true
+      createVOWL: true
       preferredlang: en
       ghpages: true
       metadatatable: true
       createnonNSPages: true
       logourl: https://raw.githubusercontent.com/Research-Squirrel-Engineers/croton-geo/main/img/fsl-logo.png
-      ogcapifeatures: true
-      datasettitle: Campanian Ignimbrite Fuzzy Spatial Locations
+      templatedir: https://github.com/Research-Squirrel-Engineers/unicorn-ontdoc-template-squirrels/archive/refs/tags/scrat.1.zip
+      ogcapifeatures: false
+      datasettitle: CI FSL
