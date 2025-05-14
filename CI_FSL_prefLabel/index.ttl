@@ -8,5 +8,5 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: prefLabel"@en ;
     void:property skos:prefLabel ;
-    void:triples 71 .
+    void:triples 74 .
 

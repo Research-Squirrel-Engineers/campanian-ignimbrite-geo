@@ -7,5 +7,5 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: certaintyLevel"@en ;
     void:property <http://fuzzy-sl.squirrel.link/ontology/certaintyLevel> ;
-    void:triples 213 .
+    void:triples 222 .
 

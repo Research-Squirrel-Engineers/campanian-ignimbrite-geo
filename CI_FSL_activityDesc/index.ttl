@@ -7,5 +7,5 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: activityDesc"@en ;
     void:property <http://fuzzy-sl.squirrel.link/ontology/activityDesc> ;
-    void:triples 71 .
+    void:triples 74 .
 

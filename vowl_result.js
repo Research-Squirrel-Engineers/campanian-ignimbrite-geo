@@ -955,39 +955,39 @@ var vowlresult={
   },
   {
    "id": 217,
-   "type": "http://www.opengis.net/ont/sf#Point"
+   "type": "http://fuzzy-sl.squirrel.link/ontology/Site"
   },
   {
    "id": 218,
-   "type": "http://www.opengis.net/ont/sf#Point"
+   "type": "http://fuzzy-sl.squirrel.link/ontology/Site"
   },
   {
    "id": 219,
-   "type": "http://www.opengis.net/ont/sf#Point"
+   "type": "http://fuzzy-sl.squirrel.link/ontology/Site"
   },
   {
    "id": 220,
-   "type": "http://www.opengis.net/ont/sf#Point"
+   "type": "http://fuzzy-sl.squirrel.link/ontology/Site"
   },
   {
    "id": 221,
-   "type": "http://www.opengis.net/ont/sf#Point"
+   "type": "http://fuzzy-sl.squirrel.link/ontology/Site"
   },
   {
    "id": 222,
-   "type": "http://www.opengis.net/ont/sf#Point"
+   "type": "http://fuzzy-sl.squirrel.link/ontology/Site"
   },
   {
    "id": 223,
-   "type": "http://www.opengis.net/ont/sf#Point"
+   "type": "http://fuzzy-sl.squirrel.link/ontology/Site"
   },
   {
    "id": 224,
-   "type": "http://www.opengis.net/ont/sf#Point"
+   "type": "http://fuzzy-sl.squirrel.link/ontology/Site"
   },
   {
    "id": 225,
-   "type": "http://www.opengis.net/ont/sf#Point"
+   "type": "http://fuzzy-sl.squirrel.link/ontology/Site"
   },
   {
    "id": 226,
@@ -1239,51 +1239,51 @@ var vowlresult={
   },
   {
    "id": 288,
-   "type": "http://www.w3.org/ns/prov#Activity"
+   "type": "http://www.opengis.net/ont/sf#Point"
   },
   {
    "id": 289,
-   "type": "http://www.w3.org/ns/prov#Activity"
+   "type": "http://www.opengis.net/ont/sf#Point"
   },
   {
    "id": 290,
-   "type": "http://www.w3.org/ns/prov#Activity"
+   "type": "http://www.opengis.net/ont/sf#Point"
   },
   {
    "id": 291,
-   "type": "http://www.w3.org/ns/prov#Activity"
+   "type": "http://www.opengis.net/ont/sf#Point"
   },
   {
    "id": 292,
-   "type": "http://www.w3.org/ns/prov#Activity"
+   "type": "http://www.opengis.net/ont/sf#Point"
   },
   {
    "id": 293,
-   "type": "http://www.w3.org/ns/prov#Activity"
+   "type": "http://www.opengis.net/ont/sf#Point"
   },
   {
    "id": 294,
-   "type": "http://www.w3.org/ns/prov#Activity"
+   "type": "http://www.opengis.net/ont/sf#Point"
   },
   {
    "id": 295,
-   "type": "http://www.w3.org/ns/prov#Activity"
+   "type": "http://www.opengis.net/ont/sf#Point"
   },
   {
    "id": 296,
-   "type": "http://www.w3.org/ns/prov#Activity"
+   "type": "http://www.opengis.net/ont/sf#Point"
   },
   {
    "id": 297,
-   "type": "http://www.w3.org/ns/prov#Activity"
+   "type": "http://www.opengis.net/ont/sf#Point"
   },
   {
    "id": 298,
-   "type": "http://www.w3.org/ns/prov#Activity"
+   "type": "http://www.opengis.net/ont/sf#Point"
   },
   {
    "id": 299,
-   "type": "http://www.w3.org/ns/prov#Activity"
+   "type": "http://www.opengis.net/ont/sf#Point"
   },
   {
    "id": 300,
@@ -2087,6 +2087,90 @@ var vowlresult={
   },
   {
    "id": 500,
+   "type": "http://www.w3.org/ns/prov#Activity"
+  },
+  {
+   "id": 501,
+   "type": "http://www.w3.org/ns/prov#Activity"
+  },
+  {
+   "id": 502,
+   "type": "http://www.w3.org/ns/prov#Activity"
+  },
+  {
+   "id": 503,
+   "type": "http://www.w3.org/ns/prov#Activity"
+  },
+  {
+   "id": 504,
+   "type": "http://www.w3.org/ns/prov#Activity"
+  },
+  {
+   "id": 505,
+   "type": "http://www.w3.org/ns/prov#Activity"
+  },
+  {
+   "id": 506,
+   "type": "http://www.w3.org/ns/prov#Activity"
+  },
+  {
+   "id": 507,
+   "type": "http://www.w3.org/ns/prov#Activity"
+  },
+  {
+   "id": 508,
+   "type": "http://www.w3.org/ns/prov#Activity"
+  },
+  {
+   "id": 509,
+   "type": "http://www.w3.org/ns/prov#Activity"
+  },
+  {
+   "id": 510,
+   "type": "http://www.w3.org/ns/prov#Activity"
+  },
+  {
+   "id": 511,
+   "type": "http://www.w3.org/ns/prov#Activity"
+  },
+  {
+   "id": 512,
+   "type": "http://www.w3.org/ns/prov#Activity"
+  },
+  {
+   "id": 513,
+   "type": "http://www.w3.org/ns/prov#Activity"
+  },
+  {
+   "id": 514,
+   "type": "http://www.w3.org/ns/prov#Activity"
+  },
+  {
+   "id": 515,
+   "type": "http://www.w3.org/ns/prov#Activity"
+  },
+  {
+   "id": 516,
+   "type": "http://www.w3.org/ns/prov#Activity"
+  },
+  {
+   "id": 517,
+   "type": "http://www.w3.org/ns/prov#Activity"
+  },
+  {
+   "id": 518,
+   "type": "http://www.w3.org/ns/prov#Activity"
+  },
+  {
+   "id": 519,
+   "type": "http://www.w3.org/ns/prov#Activity"
+  },
+  {
+   "id": 520,
+   "type": "http://www.w3.org/ns/prov#Activity"
+  },
+  {
+   "id": 521,
    "type": "http://www.w3.org/ns/prov#Activity"
   }
  ],
@@ -3161,6 +3245,48 @@ var vowlresult={
   },
   {
    "id": 75,
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_201",
+   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
+   "instances": 0,
+   "label": {
+    "IRI-based": "cisite_201"
+   },
+   "annotations": {},
+   "range": [],
+   "domain": [],
+   "subProperties": [],
+   "superProperties": []
+  },
+  {
+   "id": 76,
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_202",
+   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
+   "instances": 0,
+   "label": {
+    "IRI-based": "cisite_202"
+   },
+   "annotations": {},
+   "range": [],
+   "domain": [],
+   "subProperties": [],
+   "superProperties": []
+  },
+  {
+   "id": 77,
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_203",
+   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
+   "instances": 0,
+   "label": {
+    "IRI-based": "cisite_203"
+   },
+   "annotations": {},
+   "range": [],
+   "domain": [],
+   "subProperties": [],
+   "superProperties": []
+  },
+  {
+   "id": 78,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_1",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3174,7 +3300,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 76,
+   "id": 79,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_2",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3188,7 +3314,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 77,
+   "id": 80,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_3",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3202,7 +3328,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 78,
+   "id": 81,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_4",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3216,7 +3342,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 79,
+   "id": 82,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_5",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3230,7 +3356,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 80,
+   "id": 83,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_6",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3244,7 +3370,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 81,
+   "id": 84,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_7",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3258,7 +3384,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 82,
+   "id": 85,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_8",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3272,7 +3398,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 83,
+   "id": 86,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_9",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3286,7 +3412,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 84,
+   "id": 87,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_10",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3300,7 +3426,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 85,
+   "id": 88,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_11",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3314,7 +3440,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 86,
+   "id": 89,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_12",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3328,7 +3454,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 87,
+   "id": 90,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_13",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3342,7 +3468,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 88,
+   "id": 91,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_14",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3356,7 +3482,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 89,
+   "id": 92,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_15",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3370,7 +3496,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 90,
+   "id": 93,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_16",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3384,7 +3510,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 91,
+   "id": 94,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_17",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3398,7 +3524,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 92,
+   "id": 95,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_18",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3412,7 +3538,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 93,
+   "id": 96,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_19",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3426,7 +3552,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 94,
+   "id": 97,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_20",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3440,7 +3566,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 95,
+   "id": 98,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_21",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3454,7 +3580,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 96,
+   "id": 99,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_22",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3468,7 +3594,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 97,
+   "id": 100,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_23",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3482,7 +3608,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 98,
+   "id": 101,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_24",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3496,7 +3622,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 99,
+   "id": 102,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_25",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3510,7 +3636,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 100,
+   "id": 103,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_26",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3524,7 +3650,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 101,
+   "id": 104,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_27",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3538,7 +3664,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 102,
+   "id": 105,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_28",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3552,7 +3678,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 103,
+   "id": 106,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_29",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3566,7 +3692,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 104,
+   "id": 107,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_30",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3580,7 +3706,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 105,
+   "id": 108,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_31",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3594,7 +3720,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 106,
+   "id": 109,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_32",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3608,7 +3734,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 107,
+   "id": 110,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_33",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3622,7 +3748,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 108,
+   "id": 111,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_34",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3636,7 +3762,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 109,
+   "id": 112,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_35",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3650,7 +3776,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 110,
+   "id": 113,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_36",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3664,7 +3790,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 111,
+   "id": 114,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_37",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3678,7 +3804,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 112,
+   "id": 115,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_38",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3692,7 +3818,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 113,
+   "id": 116,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_39",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3706,7 +3832,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 114,
+   "id": 117,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_40",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3720,7 +3846,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 115,
+   "id": 118,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_41",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3734,7 +3860,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 116,
+   "id": 119,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_42",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3748,7 +3874,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 117,
+   "id": 120,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_43",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3762,7 +3888,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 118,
+   "id": 121,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_44",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3776,7 +3902,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 119,
+   "id": 122,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_45",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3790,7 +3916,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 120,
+   "id": 123,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_46",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3804,7 +3930,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 121,
+   "id": 124,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_47",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3818,7 +3944,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 122,
+   "id": 125,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_48",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3832,7 +3958,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 123,
+   "id": 126,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_49",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3846,7 +3972,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 124,
+   "id": 127,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_50",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3860,7 +3986,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 125,
+   "id": 128,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_51",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3874,7 +4000,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 126,
+   "id": 129,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_52",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3888,7 +4014,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 127,
+   "id": 130,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_53",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3902,7 +4028,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 128,
+   "id": 131,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_54",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3916,7 +4042,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 129,
+   "id": 132,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_55",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3930,7 +4056,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 130,
+   "id": 133,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_56",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3944,7 +4070,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 131,
+   "id": 134,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_57",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3958,7 +4084,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 132,
+   "id": 135,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_58",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3972,7 +4098,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 133,
+   "id": 136,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_59",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -3986,7 +4112,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 134,
+   "id": 137,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_60",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -4000,7 +4126,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 135,
+   "id": 138,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_61",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -4014,7 +4140,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 136,
+   "id": 139,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_62",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -4028,7 +4154,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 137,
+   "id": 140,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_63",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -4042,7 +4168,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 138,
+   "id": 141,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_64",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -4056,7 +4182,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 139,
+   "id": 142,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_65",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -4070,7 +4196,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 140,
+   "id": 143,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_101",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -4084,7 +4210,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 141,
+   "id": 144,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_102",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -4098,7 +4224,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 142,
+   "id": 145,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_103",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -4112,7 +4238,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 143,
+   "id": 146,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_104",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -4126,7 +4252,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 144,
+   "id": 147,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_105",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -4140,8 +4266,50 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 145,
+   "id": 148,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_106",
+   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
+   "instances": 0,
+   "label": {
+    "IRI-based": "cisite_106"
+   },
+   "annotations": {},
+   "range": [],
+   "domain": [],
+   "subProperties": [],
+   "superProperties": []
+  },
+  {
+   "id": 149,
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_201",
+   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
+   "instances": 0,
+   "label": {
+    "IRI-based": "cisite_201"
+   },
+   "annotations": {},
+   "range": [],
+   "domain": [],
+   "subProperties": [],
+   "superProperties": []
+  },
+  {
+   "id": 150,
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_202",
+   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
+   "instances": 0,
+   "label": {
+    "IRI-based": "cisite_202"
+   },
+   "annotations": {},
+   "range": [],
+   "domain": [],
+   "subProperties": [],
+   "superProperties": []
+  },
+  {
+   "id": 151,
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_203",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": "Acerra Sink",
@@ -4289,7 +4457,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 146,
+   "id": 152,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_1",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -4438,7 +4606,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 147,
+   "id": 153,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_2",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -4587,7 +4755,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 148,
+   "id": 154,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_3",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -4736,7 +4904,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 149,
+   "id": 155,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_4",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -4885,7 +5053,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 150,
+   "id": 156,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_5",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -5034,7 +5202,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 151,
+   "id": 157,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_6",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -5183,7 +5351,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 152,
+   "id": 158,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_7",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -5332,7 +5500,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 153,
+   "id": 159,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_8",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -5481,7 +5649,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 154,
+   "id": 160,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_9",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -5630,7 +5798,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 155,
+   "id": 161,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_10",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -5779,7 +5947,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 156,
+   "id": 162,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_11",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -5928,7 +6096,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 157,
+   "id": 163,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_12",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -6077,7 +6245,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 158,
+   "id": 164,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_13",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -6226,7 +6394,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 159,
+   "id": 165,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_14",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -6375,7 +6543,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 160,
+   "id": 166,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_15",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -6524,7 +6692,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 161,
+   "id": 167,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_16",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -6673,7 +6841,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 162,
+   "id": 168,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_17",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -6822,7 +6990,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 163,
+   "id": 169,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_18",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -6971,7 +7139,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 164,
+   "id": 170,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_19",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -7120,7 +7288,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 165,
+   "id": 171,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_20",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -7269,7 +7437,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 166,
+   "id": 172,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_21",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -7418,7 +7586,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 167,
+   "id": 173,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_22",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -7567,7 +7735,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 168,
+   "id": 174,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_23",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -7716,7 +7884,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 169,
+   "id": 175,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_24",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -7865,7 +8033,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 170,
+   "id": 176,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_25",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -8014,7 +8182,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 171,
+   "id": 177,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_26",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -8163,7 +8331,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 172,
+   "id": 178,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_27",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -8312,7 +8480,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 173,
+   "id": 179,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_28",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -8461,7 +8629,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 174,
+   "id": 180,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_29",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -8610,7 +8778,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 175,
+   "id": 181,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_30",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -8759,7 +8927,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 176,
+   "id": 182,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_31",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -8908,7 +9076,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 177,
+   "id": 183,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_32",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -9057,7 +9225,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 178,
+   "id": 184,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_33",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -9206,7 +9374,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 179,
+   "id": 185,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_34",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -9355,7 +9523,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 180,
+   "id": 186,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_35",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -9504,7 +9672,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 181,
+   "id": 187,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_36",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -9653,7 +9821,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 182,
+   "id": 188,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_37",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -9802,7 +9970,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 183,
+   "id": 189,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_38",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -9951,7 +10119,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 184,
+   "id": 190,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_39",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -10100,7 +10268,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 185,
+   "id": 191,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_40",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -10249,7 +10417,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 186,
+   "id": 192,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_41",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -10398,7 +10566,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 187,
+   "id": 193,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_42",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -10547,7 +10715,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 188,
+   "id": 194,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_43",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -10696,7 +10864,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 189,
+   "id": 195,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_44",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -10845,7 +11013,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 190,
+   "id": 196,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_45",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -10994,7 +11162,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 191,
+   "id": 197,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_46",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -11143,7 +11311,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 192,
+   "id": 198,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_47",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -11292,7 +11460,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 193,
+   "id": 199,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_48",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -11441,7 +11609,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 194,
+   "id": 200,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_49",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -11590,7 +11758,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 195,
+   "id": 201,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_50",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -11739,7 +11907,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 196,
+   "id": 202,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_51",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -11888,7 +12056,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 197,
+   "id": 203,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_52",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -12037,7 +12205,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 198,
+   "id": 204,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_53",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -12186,7 +12354,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 199,
+   "id": 205,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_54",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -12335,7 +12503,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 200,
+   "id": 206,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_55",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -12484,7 +12652,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 201,
+   "id": 207,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_56",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -12633,7 +12801,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 202,
+   "id": 208,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_57",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -12782,7 +12950,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 203,
+   "id": 209,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_58",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -12931,7 +13099,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 204,
+   "id": 210,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_59",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -13080,7 +13248,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 205,
+   "id": 211,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_60",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -13229,7 +13397,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 206,
+   "id": 212,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_61",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -13378,7 +13546,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 207,
+   "id": 213,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_62",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -13527,7 +13695,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 208,
+   "id": 214,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_63",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -13676,7 +13844,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 209,
+   "id": 215,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_64",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -13825,7 +13993,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 210,
+   "id": 216,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_65",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -13974,7 +14142,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 211,
+   "id": 217,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_101",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -14123,7 +14291,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 212,
+   "id": 218,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_102",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -14272,7 +14440,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 213,
+   "id": 219,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_103",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -14421,7 +14589,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 214,
+   "id": 220,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_104",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -14570,7 +14738,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 215,
+   "id": 221,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_105",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -14719,12 +14887,459 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 216,
+   "id": 222,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_106",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
+   "label": "Auel Maar AU3",
+   "annotations": {
+    "http://fuzzy-sl.squirrel.link/ontology/partOf": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/partOf",
+      "language": "undefined",
+      "value": "http://fuzzy-sl.squirrel.link/ontology/CampanianIgnimbriteProject",
+      "type": "iri"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/siteType": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/siteType",
+      "language": "undefined",
+      "value": "http://fuzzy-sl.squirrel.link/ontology/ArchaeologicalSite",
+      "type": "iri"
+     }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+     {
+      "identifier": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "language": "undefined",
+      "value": "Auel Maar AU3",
+      "type": "label"
+     }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+     {
+      "identifier": "http://www.w3.org/2004/02/skos/core#scopeNote",
+      "language": "undefined",
+      "value": "CI findspot related from literature",
+      "type": "label"
+     }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+     {
+      "identifier": "http://www.w3.org/2000/01/rdf-schema#comment",
+      "language": "undefined",
+      "value": "CI findspot related from literature",
+      "type": "label"
+     }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#wasDerivedFrom",
+      "language": "undefined",
+      "value": "https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo",
+      "type": "iri"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/certaintyLevel": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/certaintyLevel",
+      "language": "undefined",
+      "value": "http://fuzzy-sl.squirrel.link/ontology/high",
+      "type": "iri"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/certaintyDesc": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/certaintyDesc",
+      "language": "undefined",
+      "value": "findspot mentioned in a scientific paper",
+      "type": "label"
+     }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+     {
+      "identifier": "http://www.w3.org/2004/02/skos/core#closeMatch",
+      "language": "undefined",
+      "value": "http://wikidata.org/entity/Q134466471",
+      "type": "iri"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/spatialType": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/spatialType",
+      "language": "undefined",
+      "value": "http://fuzzy-sl.squirrel.link/ontology/Maar",
+      "type": "iri"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/hasReference": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/hasReference",
+      "language": "undefined",
+      "value": "Schenk et al. (2024)",
+      "type": "label"
+     }
+    ],
+    "http://www.opengis.net/ont/geosparql#hasGeometry": [
+     {
+      "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
+      "language": "undefined",
+      "value": "http://fuzzy-sl.squirrel.link/data/cisite_201_geom",
+      "type": "iri"
+     }
+    ],
+    "http://www.w3.org/ns/prov#wasGeneratedBy": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#wasGeneratedBy",
+      "language": "undefined",
+      "value": "http://fuzzy-sl.squirrel.link/data/cisite_201_pyscript",
+      "type": "iri"
+     }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#wasAttributedTo",
+      "language": "undefined",
+      "value": "https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py",
+      "type": "iri"
+     }
+    ],
+    "http://purl.org/dc/terms/license": [
+     {
+      "identifier": "http://purl.org/dc/terms/license",
+      "language": "undefined",
+      "value": "https://creativecommons.org/licenses/by/4.0/",
+      "type": "iri"
+     }
+    ],
+    "http://purl.org/dc/terms/creator": [
+     {
+      "identifier": "http://purl.org/dc/terms/creator",
+      "language": "undefined",
+      "value": "https://orcid.org/0000-0003-1100-6494",
+      "type": "iri"
+     }
+    ],
+    "http://purl.org/dc/terms/rightsHolder": [
+     {
+      "identifier": "http://purl.org/dc/terms/rightsHolder",
+      "language": "undefined",
+      "value": "https://orcid.org/0000-0003-1100-6494",
+      "type": "iri"
+     }
+    ]
+   },
+   "range": [],
+   "domain": [],
+   "subProperties": [],
+   "superProperties": []
+  },
+  {
+   "id": 223,
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_201",
+   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
+   "instances": 0,
+   "label": "Auel Maar AU4",
+   "annotations": {
+    "http://fuzzy-sl.squirrel.link/ontology/partOf": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/partOf",
+      "language": "undefined",
+      "value": "http://fuzzy-sl.squirrel.link/ontology/CampanianIgnimbriteProject",
+      "type": "iri"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/siteType": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/siteType",
+      "language": "undefined",
+      "value": "http://fuzzy-sl.squirrel.link/ontology/ArchaeologicalSite",
+      "type": "iri"
+     }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+     {
+      "identifier": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "language": "undefined",
+      "value": "Auel Maar AU4",
+      "type": "label"
+     }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+     {
+      "identifier": "http://www.w3.org/2004/02/skos/core#scopeNote",
+      "language": "undefined",
+      "value": "CI findspot related from literature",
+      "type": "label"
+     }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+     {
+      "identifier": "http://www.w3.org/2000/01/rdf-schema#comment",
+      "language": "undefined",
+      "value": "CI findspot related from literature",
+      "type": "label"
+     }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#wasDerivedFrom",
+      "language": "undefined",
+      "value": "https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo",
+      "type": "iri"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/certaintyLevel": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/certaintyLevel",
+      "language": "undefined",
+      "value": "http://fuzzy-sl.squirrel.link/ontology/high",
+      "type": "iri"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/certaintyDesc": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/certaintyDesc",
+      "language": "undefined",
+      "value": "findspot mentioned in a scientific paper",
+      "type": "label"
+     }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+     {
+      "identifier": "http://www.w3.org/2004/02/skos/core#closeMatch",
+      "language": "undefined",
+      "value": "http://wikidata.org/entity/Q134466471",
+      "type": "iri"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/spatialType": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/spatialType",
+      "language": "undefined",
+      "value": "http://fuzzy-sl.squirrel.link/ontology/Maar",
+      "type": "iri"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/hasReference": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/hasReference",
+      "language": "undefined",
+      "value": "Schenk et al. (2024)",
+      "type": "label"
+     }
+    ],
+    "http://www.opengis.net/ont/geosparql#hasGeometry": [
+     {
+      "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
+      "language": "undefined",
+      "value": "http://fuzzy-sl.squirrel.link/data/cisite_202_geom",
+      "type": "iri"
+     }
+    ],
+    "http://www.w3.org/ns/prov#wasGeneratedBy": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#wasGeneratedBy",
+      "language": "undefined",
+      "value": "http://fuzzy-sl.squirrel.link/data/cisite_202_pyscript",
+      "type": "iri"
+     }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#wasAttributedTo",
+      "language": "undefined",
+      "value": "https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py",
+      "type": "iri"
+     }
+    ],
+    "http://purl.org/dc/terms/license": [
+     {
+      "identifier": "http://purl.org/dc/terms/license",
+      "language": "undefined",
+      "value": "https://creativecommons.org/licenses/by/4.0/",
+      "type": "iri"
+     }
+    ],
+    "http://purl.org/dc/terms/creator": [
+     {
+      "identifier": "http://purl.org/dc/terms/creator",
+      "language": "undefined",
+      "value": "https://orcid.org/0000-0003-1100-6494",
+      "type": "iri"
+     }
+    ],
+    "http://purl.org/dc/terms/rightsHolder": [
+     {
+      "identifier": "http://purl.org/dc/terms/rightsHolder",
+      "language": "undefined",
+      "value": "https://orcid.org/0000-0003-1100-6494",
+      "type": "iri"
+     }
+    ]
+   },
+   "range": [],
+   "domain": [],
+   "subProperties": [],
+   "superProperties": []
+  },
+  {
+   "id": 224,
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_202",
+   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
+   "instances": 0,
+   "label": "Dehner Maar DE3",
+   "annotations": {
+    "http://fuzzy-sl.squirrel.link/ontology/partOf": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/partOf",
+      "language": "undefined",
+      "value": "http://fuzzy-sl.squirrel.link/ontology/CampanianIgnimbriteProject",
+      "type": "iri"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/siteType": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/siteType",
+      "language": "undefined",
+      "value": "http://fuzzy-sl.squirrel.link/ontology/ArchaeologicalSite",
+      "type": "iri"
+     }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+     {
+      "identifier": "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "language": "undefined",
+      "value": "Dehner Maar DE3",
+      "type": "label"
+     }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+     {
+      "identifier": "http://www.w3.org/2004/02/skos/core#scopeNote",
+      "language": "undefined",
+      "value": "CI findspot related from literature",
+      "type": "label"
+     }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+     {
+      "identifier": "http://www.w3.org/2000/01/rdf-schema#comment",
+      "language": "undefined",
+      "value": "CI findspot related from literature",
+      "type": "label"
+     }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#wasDerivedFrom",
+      "language": "undefined",
+      "value": "https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo",
+      "type": "iri"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/certaintyLevel": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/certaintyLevel",
+      "language": "undefined",
+      "value": "http://fuzzy-sl.squirrel.link/ontology/high",
+      "type": "iri"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/certaintyDesc": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/certaintyDesc",
+      "language": "undefined",
+      "value": "findspot mentioned in a scientific paper",
+      "type": "label"
+     }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+     {
+      "identifier": "http://www.w3.org/2004/02/skos/core#closeMatch",
+      "language": "undefined",
+      "value": "http://wikidata.org/entity/Q134466523",
+      "type": "iri"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/spatialType": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/spatialType",
+      "language": "undefined",
+      "value": "http://fuzzy-sl.squirrel.link/ontology/Maar",
+      "type": "iri"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/hasReference": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/hasReference",
+      "language": "undefined",
+      "value": "Schenk et al. (2024)",
+      "type": "label"
+     }
+    ],
+    "http://www.opengis.net/ont/geosparql#hasGeometry": [
+     {
+      "identifier": "http://www.opengis.net/ont/geosparql#hasGeometry",
+      "language": "undefined",
+      "value": "http://fuzzy-sl.squirrel.link/data/cisite_203_geom",
+      "type": "iri"
+     }
+    ],
+    "http://www.w3.org/ns/prov#wasGeneratedBy": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#wasGeneratedBy",
+      "language": "undefined",
+      "value": "http://fuzzy-sl.squirrel.link/data/cisite_203_pyscript",
+      "type": "iri"
+     }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#wasAttributedTo",
+      "language": "undefined",
+      "value": "https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py",
+      "type": "iri"
+     }
+    ],
+    "http://purl.org/dc/terms/license": [
+     {
+      "identifier": "http://purl.org/dc/terms/license",
+      "language": "undefined",
+      "value": "https://creativecommons.org/licenses/by/4.0/",
+      "type": "iri"
+     }
+    ],
+    "http://purl.org/dc/terms/creator": [
+     {
+      "identifier": "http://purl.org/dc/terms/creator",
+      "language": "undefined",
+      "value": "https://orcid.org/0000-0003-1100-6494",
+      "type": "iri"
+     }
+    ],
+    "http://purl.org/dc/terms/rightsHolder": [
+     {
+      "identifier": "http://purl.org/dc/terms/rightsHolder",
+      "language": "undefined",
+      "value": "https://orcid.org/0000-0003-1100-6494",
+      "type": "iri"
+     }
+    ]
+   },
+   "range": [],
+   "domain": [],
+   "subProperties": [],
+   "superProperties": []
+  },
+  {
+   "id": 225,
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_203",
+   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
+   "instances": 0,
    "label": {
-    "IRI-based": "cisite_106"
+    "IRI-based": "cisite_203"
    },
    "annotations": {
     "http://www.opengis.net/ont/geosparql#asWKT": [
@@ -14758,7 +15373,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 217,
+   "id": 226,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_1_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -14797,7 +15412,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 218,
+   "id": 227,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_2_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -14836,7 +15451,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 219,
+   "id": 228,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_3_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -14875,7 +15490,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 220,
+   "id": 229,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_4_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -14914,7 +15529,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 221,
+   "id": 230,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_5_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -14953,7 +15568,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 222,
+   "id": 231,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_6_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -14992,7 +15607,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 223,
+   "id": 232,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_7_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -15031,7 +15646,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 224,
+   "id": 233,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_8_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -15070,7 +15685,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 225,
+   "id": 234,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_9_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -15109,7 +15724,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 226,
+   "id": 235,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_10_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -15148,7 +15763,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 227,
+   "id": 236,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_11_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -15187,7 +15802,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 228,
+   "id": 237,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_12_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -15226,7 +15841,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 229,
+   "id": 238,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_13_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -15265,7 +15880,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 230,
+   "id": 239,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_14_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -15304,7 +15919,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 231,
+   "id": 240,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_15_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -15343,7 +15958,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 232,
+   "id": 241,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_16_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -15382,7 +15997,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 233,
+   "id": 242,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_17_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -15421,7 +16036,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 234,
+   "id": 243,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_18_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -15460,7 +16075,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 235,
+   "id": 244,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_19_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -15499,7 +16114,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 236,
+   "id": 245,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_20_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -15538,7 +16153,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 237,
+   "id": 246,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_21_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -15577,7 +16192,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 238,
+   "id": 247,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_22_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -15616,7 +16231,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 239,
+   "id": 248,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_23_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -15655,7 +16270,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 240,
+   "id": 249,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_24_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -15694,7 +16309,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 241,
+   "id": 250,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_25_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -15733,7 +16348,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 242,
+   "id": 251,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_26_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -15772,7 +16387,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 243,
+   "id": 252,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_27_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -15811,7 +16426,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 244,
+   "id": 253,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_28_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -15850,7 +16465,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 245,
+   "id": 254,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_29_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -15889,7 +16504,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 246,
+   "id": 255,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_30_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -15928,7 +16543,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 247,
+   "id": 256,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_31_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -15967,7 +16582,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 248,
+   "id": 257,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_32_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -16006,7 +16621,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 249,
+   "id": 258,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_33_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -16045,7 +16660,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 250,
+   "id": 259,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_34_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -16084,7 +16699,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 251,
+   "id": 260,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_35_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -16123,7 +16738,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 252,
+   "id": 261,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_36_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -16162,7 +16777,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 253,
+   "id": 262,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_37_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -16201,7 +16816,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 254,
+   "id": 263,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_38_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -16240,7 +16855,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 255,
+   "id": 264,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_39_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -16279,7 +16894,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 256,
+   "id": 265,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_40_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -16318,7 +16933,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 257,
+   "id": 266,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_41_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -16357,7 +16972,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 258,
+   "id": 267,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_42_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -16396,7 +17011,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 259,
+   "id": 268,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_43_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -16435,7 +17050,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 260,
+   "id": 269,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_44_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -16474,7 +17089,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 261,
+   "id": 270,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_45_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -16513,7 +17128,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 262,
+   "id": 271,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_46_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -16552,7 +17167,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 263,
+   "id": 272,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_47_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -16591,7 +17206,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 264,
+   "id": 273,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_48_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -16630,7 +17245,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 265,
+   "id": 274,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_49_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -16669,7 +17284,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 266,
+   "id": 275,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_50_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -16708,7 +17323,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 267,
+   "id": 276,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_51_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -16747,7 +17362,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 268,
+   "id": 277,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_52_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -16786,7 +17401,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 269,
+   "id": 278,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_53_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -16825,7 +17440,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 270,
+   "id": 279,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_54_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -16864,7 +17479,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 271,
+   "id": 280,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_55_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -16903,7 +17518,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 272,
+   "id": 281,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_56_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -16942,7 +17557,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 273,
+   "id": 282,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_57_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -16981,7 +17596,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 274,
+   "id": 283,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_58_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -17020,7 +17635,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 275,
+   "id": 284,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_59_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -17059,7 +17674,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 276,
+   "id": 285,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_60_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -17098,7 +17713,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 277,
+   "id": 286,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_61_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -17137,7 +17752,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 278,
+   "id": 287,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_62_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -17176,7 +17791,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 279,
+   "id": 288,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_63_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -17215,7 +17830,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 280,
+   "id": 289,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_64_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -17254,7 +17869,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 281,
+   "id": 290,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_65_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -17293,7 +17908,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 282,
+   "id": 291,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_101_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -17332,7 +17947,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 283,
+   "id": 292,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_102_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -17371,7 +17986,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 284,
+   "id": 293,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_103_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -17410,7 +18025,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 285,
+   "id": 294,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_104_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -17449,7 +18064,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 286,
+   "id": 295,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_105_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -17488,12 +18103,129 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 287,
+   "id": 296,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_106_geom",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
     "IRI-based": "cisite_106_geom"
+   },
+   "annotations": {
+    "http://www.opengis.net/ont/geosparql#asWKT": [
+     {
+      "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
+      "language": "undefined",
+      "value": "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.5951 50.2825)",
+      "type": "label"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/certaintyLevel": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/certaintyLevel",
+      "language": "undefined",
+      "value": "http://fuzzy-sl.squirrel.link/ontology/high",
+      "type": "iri"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/certaintyDesc": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/certaintyDesc",
+      "language": "undefined",
+      "value": "findspot mentioned in a scientific paper",
+      "type": "label"
+     }
+    ]
+   },
+   "range": [],
+   "domain": [],
+   "subProperties": [],
+   "superProperties": []
+  },
+  {
+   "id": 297,
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_201_geom",
+   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
+   "instances": 0,
+   "label": {
+    "IRI-based": "cisite_201_geom"
+   },
+   "annotations": {
+    "http://www.opengis.net/ont/geosparql#asWKT": [
+     {
+      "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
+      "language": "undefined",
+      "value": "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.5949 50.2821)",
+      "type": "label"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/certaintyLevel": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/certaintyLevel",
+      "language": "undefined",
+      "value": "http://fuzzy-sl.squirrel.link/ontology/high",
+      "type": "iri"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/certaintyDesc": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/certaintyDesc",
+      "language": "undefined",
+      "value": "findspot mentioned in a scientific paper",
+      "type": "label"
+     }
+    ]
+   },
+   "range": [],
+   "domain": [],
+   "subProperties": [],
+   "superProperties": []
+  },
+  {
+   "id": 298,
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_202_geom",
+   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
+   "instances": 0,
+   "label": {
+    "IRI-based": "cisite_202_geom"
+   },
+   "annotations": {
+    "http://www.opengis.net/ont/geosparql#asWKT": [
+     {
+      "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
+      "language": "undefined",
+      "value": "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.5066 50.2928)",
+      "type": "label"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/certaintyLevel": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/certaintyLevel",
+      "language": "undefined",
+      "value": "http://fuzzy-sl.squirrel.link/ontology/high",
+      "type": "iri"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/certaintyDesc": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/certaintyDesc",
+      "language": "undefined",
+      "value": "findspot mentioned in a scientific paper",
+      "type": "label"
+     }
+    ]
+   },
+   "range": [],
+   "domain": [],
+   "subProperties": [],
+   "superProperties": []
+  },
+  {
+   "id": 299,
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_203_geom",
+   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
+   "instances": 0,
+   "label": {
+    "IRI-based": "cisite_203_geom"
    },
    "annotations": {},
    "range": [],
@@ -17502,7 +18234,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 288,
+   "id": 300,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_1_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -17514,7 +18246,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -17522,325 +18254,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.942633+00:00",
-      "type": "label"
-     }
-    ],
-    "http://www.w3.org/ns/prov#wasAssociatedWith": [
-     {
-      "identifier": "http://www.w3.org/ns/prov#wasAssociatedWith",
-      "language": "undefined",
-      "value": "https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py",
-      "type": "iri"
-     }
-    ]
-   },
-   "range": [],
-   "domain": [],
-   "subProperties": [],
-   "superProperties": []
-  },
-  {
-   "id": 289,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_1_pyscript",
-   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
-   "instances": 0,
-   "label": {
-    "IRI-based": "cisite_1_pyscript"
-   },
-   "annotations": {},
-   "range": [],
-   "domain": [],
-   "subProperties": [],
-   "superProperties": []
-  },
-  {
-   "id": 290,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_2_activity",
-   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
-   "instances": 0,
-   "label": {
-    "IRI-based": "cisite_2_activity"
-   },
-   "annotations": {
-    "http://www.w3.org/ns/prov#startedAtTime": [
-     {
-      "identifier": "http://www.w3.org/ns/prov#startedAtTime",
-      "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
-      "type": "label"
-     }
-    ],
-    "http://www.w3.org/ns/prov#endedAtTime": [
-     {
-      "identifier": "http://www.w3.org/ns/prov#endedAtTime",
-      "language": "undefined",
-      "value": "2023-12-12T12:13:37.942633+00:00",
-      "type": "label"
-     }
-    ],
-    "http://www.w3.org/ns/prov#wasAssociatedWith": [
-     {
-      "identifier": "http://www.w3.org/ns/prov#wasAssociatedWith",
-      "language": "undefined",
-      "value": "https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py",
-      "type": "iri"
-     }
-    ]
-   },
-   "range": [],
-   "domain": [],
-   "subProperties": [],
-   "superProperties": []
-  },
-  {
-   "id": 291,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_2_pyscript",
-   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
-   "instances": 0,
-   "label": {
-    "IRI-based": "cisite_2_pyscript"
-   },
-   "annotations": {},
-   "range": [],
-   "domain": [],
-   "subProperties": [],
-   "superProperties": []
-  },
-  {
-   "id": 292,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_3_activity",
-   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
-   "instances": 0,
-   "label": {
-    "IRI-based": "cisite_3_activity"
-   },
-   "annotations": {
-    "http://www.w3.org/ns/prov#startedAtTime": [
-     {
-      "identifier": "http://www.w3.org/ns/prov#startedAtTime",
-      "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
-      "type": "label"
-     }
-    ],
-    "http://www.w3.org/ns/prov#endedAtTime": [
-     {
-      "identifier": "http://www.w3.org/ns/prov#endedAtTime",
-      "language": "undefined",
-      "value": "2023-12-12T12:13:37.942633+00:00",
-      "type": "label"
-     }
-    ],
-    "http://www.w3.org/ns/prov#wasAssociatedWith": [
-     {
-      "identifier": "http://www.w3.org/ns/prov#wasAssociatedWith",
-      "language": "undefined",
-      "value": "https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py",
-      "type": "iri"
-     }
-    ]
-   },
-   "range": [],
-   "domain": [],
-   "subProperties": [],
-   "superProperties": []
-  },
-  {
-   "id": 293,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_3_pyscript",
-   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
-   "instances": 0,
-   "label": {
-    "IRI-based": "cisite_3_pyscript"
-   },
-   "annotations": {},
-   "range": [],
-   "domain": [],
-   "subProperties": [],
-   "superProperties": []
-  },
-  {
-   "id": 294,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_4_activity",
-   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
-   "instances": 0,
-   "label": {
-    "IRI-based": "cisite_4_activity"
-   },
-   "annotations": {
-    "http://www.w3.org/ns/prov#startedAtTime": [
-     {
-      "identifier": "http://www.w3.org/ns/prov#startedAtTime",
-      "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
-      "type": "label"
-     }
-    ],
-    "http://www.w3.org/ns/prov#endedAtTime": [
-     {
-      "identifier": "http://www.w3.org/ns/prov#endedAtTime",
-      "language": "undefined",
-      "value": "2023-12-12T12:13:37.943632+00:00",
-      "type": "label"
-     }
-    ],
-    "http://www.w3.org/ns/prov#wasAssociatedWith": [
-     {
-      "identifier": "http://www.w3.org/ns/prov#wasAssociatedWith",
-      "language": "undefined",
-      "value": "https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py",
-      "type": "iri"
-     }
-    ]
-   },
-   "range": [],
-   "domain": [],
-   "subProperties": [],
-   "superProperties": []
-  },
-  {
-   "id": 295,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_4_pyscript",
-   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
-   "instances": 0,
-   "label": {
-    "IRI-based": "cisite_4_pyscript"
-   },
-   "annotations": {},
-   "range": [],
-   "domain": [],
-   "subProperties": [],
-   "superProperties": []
-  },
-  {
-   "id": 296,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_5_activity",
-   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
-   "instances": 0,
-   "label": {
-    "IRI-based": "cisite_5_activity"
-   },
-   "annotations": {
-    "http://www.w3.org/ns/prov#startedAtTime": [
-     {
-      "identifier": "http://www.w3.org/ns/prov#startedAtTime",
-      "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
-      "type": "label"
-     }
-    ],
-    "http://www.w3.org/ns/prov#endedAtTime": [
-     {
-      "identifier": "http://www.w3.org/ns/prov#endedAtTime",
-      "language": "undefined",
-      "value": "2023-12-12T12:13:37.943632+00:00",
-      "type": "label"
-     }
-    ],
-    "http://www.w3.org/ns/prov#wasAssociatedWith": [
-     {
-      "identifier": "http://www.w3.org/ns/prov#wasAssociatedWith",
-      "language": "undefined",
-      "value": "https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py",
-      "type": "iri"
-     }
-    ]
-   },
-   "range": [],
-   "domain": [],
-   "subProperties": [],
-   "superProperties": []
-  },
-  {
-   "id": 297,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_5_pyscript",
-   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
-   "instances": 0,
-   "label": {
-    "IRI-based": "cisite_5_pyscript"
-   },
-   "annotations": {},
-   "range": [],
-   "domain": [],
-   "subProperties": [],
-   "superProperties": []
-  },
-  {
-   "id": 298,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_6_activity",
-   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
-   "instances": 0,
-   "label": {
-    "IRI-based": "cisite_6_activity"
-   },
-   "annotations": {
-    "http://www.w3.org/ns/prov#startedAtTime": [
-     {
-      "identifier": "http://www.w3.org/ns/prov#startedAtTime",
-      "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
-      "type": "label"
-     }
-    ],
-    "http://www.w3.org/ns/prov#endedAtTime": [
-     {
-      "identifier": "http://www.w3.org/ns/prov#endedAtTime",
-      "language": "undefined",
-      "value": "2023-12-12T12:13:37.944640+00:00",
-      "type": "label"
-     }
-    ],
-    "http://www.w3.org/ns/prov#wasAssociatedWith": [
-     {
-      "identifier": "http://www.w3.org/ns/prov#wasAssociatedWith",
-      "language": "undefined",
-      "value": "https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py",
-      "type": "iri"
-     }
-    ]
-   },
-   "range": [],
-   "domain": [],
-   "subProperties": [],
-   "superProperties": []
-  },
-  {
-   "id": 299,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_6_pyscript",
-   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
-   "instances": 0,
-   "label": {
-    "IRI-based": "cisite_6_pyscript"
-   },
-   "annotations": {},
-   "range": [],
-   "domain": [],
-   "subProperties": [],
-   "superProperties": []
-  },
-  {
-   "id": 300,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_7_activity",
-   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
-   "instances": 0,
-   "label": {
-    "IRI-based": "cisite_7_activity"
-   },
-   "annotations": {
-    "http://www.w3.org/ns/prov#startedAtTime": [
-     {
-      "identifier": "http://www.w3.org/ns/prov#startedAtTime",
-      "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
-      "type": "label"
-     }
-    ],
-    "http://www.w3.org/ns/prov#endedAtTime": [
-     {
-      "identifier": "http://www.w3.org/ns/prov#endedAtTime",
-      "language": "undefined",
-      "value": "2023-12-12T12:13:37.944640+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -17860,11 +18274,11 @@ var vowlresult={
   },
   {
    "id": 301,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_7_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_1_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_7_pyscript"
+    "IRI-based": "cisite_1_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -17874,18 +18288,18 @@ var vowlresult={
   },
   {
    "id": 302,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_8_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_2_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_8_activity"
+    "IRI-based": "cisite_2_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -17893,7 +18307,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.945631+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -17913,11 +18327,11 @@ var vowlresult={
   },
   {
    "id": 303,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_8_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_2_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_8_pyscript"
+    "IRI-based": "cisite_2_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -17927,18 +18341,18 @@ var vowlresult={
   },
   {
    "id": 304,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_9_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_3_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_9_activity"
+    "IRI-based": "cisite_3_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -17946,7 +18360,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.945631+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -17966,11 +18380,11 @@ var vowlresult={
   },
   {
    "id": 305,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_9_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_3_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_9_pyscript"
+    "IRI-based": "cisite_3_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -17980,18 +18394,18 @@ var vowlresult={
   },
   {
    "id": 306,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_10_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_4_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_10_activity"
+    "IRI-based": "cisite_4_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -17999,7 +18413,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.945631+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -18019,11 +18433,11 @@ var vowlresult={
   },
   {
    "id": 307,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_10_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_4_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_10_pyscript"
+    "IRI-based": "cisite_4_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -18033,18 +18447,18 @@ var vowlresult={
   },
   {
    "id": 308,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_11_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_5_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_11_activity"
+    "IRI-based": "cisite_5_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -18052,7 +18466,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.946631+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -18072,11 +18486,11 @@ var vowlresult={
   },
   {
    "id": 309,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_11_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_5_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_11_pyscript"
+    "IRI-based": "cisite_5_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -18086,18 +18500,18 @@ var vowlresult={
   },
   {
    "id": 310,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_12_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_6_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_12_activity"
+    "IRI-based": "cisite_6_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -18105,7 +18519,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.946631+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -18125,11 +18539,11 @@ var vowlresult={
   },
   {
    "id": 311,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_12_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_6_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_12_pyscript"
+    "IRI-based": "cisite_6_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -18139,18 +18553,18 @@ var vowlresult={
   },
   {
    "id": 312,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_13_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_7_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_13_activity"
+    "IRI-based": "cisite_7_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -18158,7 +18572,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.947631+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -18178,11 +18592,11 @@ var vowlresult={
   },
   {
    "id": 313,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_13_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_7_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_13_pyscript"
+    "IRI-based": "cisite_7_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -18192,18 +18606,18 @@ var vowlresult={
   },
   {
    "id": 314,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_14_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_8_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_14_activity"
+    "IRI-based": "cisite_8_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -18211,7 +18625,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.948638+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -18231,11 +18645,11 @@ var vowlresult={
   },
   {
    "id": 315,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_14_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_8_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_14_pyscript"
+    "IRI-based": "cisite_8_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -18245,18 +18659,18 @@ var vowlresult={
   },
   {
    "id": 316,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_15_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_9_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_15_activity"
+    "IRI-based": "cisite_9_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -18264,7 +18678,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.949162+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -18284,11 +18698,11 @@ var vowlresult={
   },
   {
    "id": 317,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_15_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_9_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_15_pyscript"
+    "IRI-based": "cisite_9_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -18298,18 +18712,18 @@ var vowlresult={
   },
   {
    "id": 318,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_16_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_10_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_16_activity"
+    "IRI-based": "cisite_10_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -18317,7 +18731,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.949162+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -18337,11 +18751,11 @@ var vowlresult={
   },
   {
    "id": 319,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_16_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_10_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_16_pyscript"
+    "IRI-based": "cisite_10_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -18351,18 +18765,18 @@ var vowlresult={
   },
   {
    "id": 320,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_17_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_11_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_17_activity"
+    "IRI-based": "cisite_11_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -18370,7 +18784,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.949162+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -18390,11 +18804,11 @@ var vowlresult={
   },
   {
    "id": 321,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_17_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_11_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_17_pyscript"
+    "IRI-based": "cisite_11_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -18404,18 +18818,18 @@ var vowlresult={
   },
   {
    "id": 322,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_18_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_12_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_18_activity"
+    "IRI-based": "cisite_12_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -18423,7 +18837,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.950175+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -18443,11 +18857,11 @@ var vowlresult={
   },
   {
    "id": 323,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_18_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_12_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_18_pyscript"
+    "IRI-based": "cisite_12_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -18457,18 +18871,18 @@ var vowlresult={
   },
   {
    "id": 324,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_19_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_13_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_19_activity"
+    "IRI-based": "cisite_13_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -18476,7 +18890,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.950175+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -18496,11 +18910,11 @@ var vowlresult={
   },
   {
    "id": 325,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_19_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_13_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_19_pyscript"
+    "IRI-based": "cisite_13_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -18510,18 +18924,18 @@ var vowlresult={
   },
   {
    "id": 326,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_20_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_14_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_20_activity"
+    "IRI-based": "cisite_14_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -18529,7 +18943,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.951170+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -18549,11 +18963,11 @@ var vowlresult={
   },
   {
    "id": 327,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_20_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_14_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_20_pyscript"
+    "IRI-based": "cisite_14_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -18563,18 +18977,18 @@ var vowlresult={
   },
   {
    "id": 328,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_21_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_15_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_21_activity"
+    "IRI-based": "cisite_15_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -18582,7 +18996,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.951170+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -18602,11 +19016,11 @@ var vowlresult={
   },
   {
    "id": 329,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_21_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_15_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_21_pyscript"
+    "IRI-based": "cisite_15_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -18616,18 +19030,18 @@ var vowlresult={
   },
   {
    "id": 330,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_22_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_16_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_22_activity"
+    "IRI-based": "cisite_16_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -18635,7 +19049,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.952176+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -18655,11 +19069,11 @@ var vowlresult={
   },
   {
    "id": 331,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_22_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_16_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_22_pyscript"
+    "IRI-based": "cisite_16_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -18669,18 +19083,18 @@ var vowlresult={
   },
   {
    "id": 332,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_23_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_17_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_23_activity"
+    "IRI-based": "cisite_17_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -18688,7 +19102,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.952176+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -18708,11 +19122,11 @@ var vowlresult={
   },
   {
    "id": 333,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_23_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_17_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_23_pyscript"
+    "IRI-based": "cisite_17_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -18722,18 +19136,18 @@ var vowlresult={
   },
   {
    "id": 334,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_24_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_18_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_24_activity"
+    "IRI-based": "cisite_18_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -18741,7 +19155,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.952176+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -18761,11 +19175,11 @@ var vowlresult={
   },
   {
    "id": 335,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_24_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_18_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_24_pyscript"
+    "IRI-based": "cisite_18_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -18775,18 +19189,18 @@ var vowlresult={
   },
   {
    "id": 336,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_25_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_19_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_25_activity"
+    "IRI-based": "cisite_19_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -18794,7 +19208,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.953181+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -18814,11 +19228,11 @@ var vowlresult={
   },
   {
    "id": 337,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_25_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_19_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_25_pyscript"
+    "IRI-based": "cisite_19_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -18828,18 +19242,18 @@ var vowlresult={
   },
   {
    "id": 338,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_26_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_20_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_26_activity"
+    "IRI-based": "cisite_20_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -18847,7 +19261,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.953181+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -18867,11 +19281,11 @@ var vowlresult={
   },
   {
    "id": 339,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_26_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_20_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_26_pyscript"
+    "IRI-based": "cisite_20_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -18881,18 +19295,18 @@ var vowlresult={
   },
   {
    "id": 340,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_27_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_21_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_27_activity"
+    "IRI-based": "cisite_21_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -18900,7 +19314,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.954177+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -18920,11 +19334,11 @@ var vowlresult={
   },
   {
    "id": 341,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_27_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_21_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_27_pyscript"
+    "IRI-based": "cisite_21_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -18934,18 +19348,18 @@ var vowlresult={
   },
   {
    "id": 342,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_28_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_22_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_28_activity"
+    "IRI-based": "cisite_22_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -18953,7 +19367,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.954177+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -18973,11 +19387,11 @@ var vowlresult={
   },
   {
    "id": 343,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_28_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_22_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_28_pyscript"
+    "IRI-based": "cisite_22_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -18987,18 +19401,18 @@ var vowlresult={
   },
   {
    "id": 344,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_29_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_23_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_29_activity"
+    "IRI-based": "cisite_23_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -19006,7 +19420,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.954177+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -19026,11 +19440,11 @@ var vowlresult={
   },
   {
    "id": 345,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_29_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_23_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_29_pyscript"
+    "IRI-based": "cisite_23_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -19040,18 +19454,18 @@ var vowlresult={
   },
   {
    "id": 346,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_30_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_24_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_30_activity"
+    "IRI-based": "cisite_24_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -19059,7 +19473,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.955177+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -19079,11 +19493,11 @@ var vowlresult={
   },
   {
    "id": 347,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_30_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_24_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_30_pyscript"
+    "IRI-based": "cisite_24_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -19093,18 +19507,18 @@ var vowlresult={
   },
   {
    "id": 348,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_31_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_25_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_31_activity"
+    "IRI-based": "cisite_25_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -19112,7 +19526,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.955177+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -19132,11 +19546,11 @@ var vowlresult={
   },
   {
    "id": 349,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_31_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_25_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_31_pyscript"
+    "IRI-based": "cisite_25_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -19146,18 +19560,18 @@ var vowlresult={
   },
   {
    "id": 350,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_32_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_26_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_32_activity"
+    "IRI-based": "cisite_26_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -19165,7 +19579,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.956176+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -19185,11 +19599,11 @@ var vowlresult={
   },
   {
    "id": 351,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_32_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_26_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_32_pyscript"
+    "IRI-based": "cisite_26_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -19199,18 +19613,18 @@ var vowlresult={
   },
   {
    "id": 352,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_33_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_27_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_33_activity"
+    "IRI-based": "cisite_27_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -19218,7 +19632,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.956176+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -19238,11 +19652,11 @@ var vowlresult={
   },
   {
    "id": 353,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_33_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_27_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_33_pyscript"
+    "IRI-based": "cisite_27_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -19252,18 +19666,18 @@ var vowlresult={
   },
   {
    "id": 354,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_34_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_28_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_34_activity"
+    "IRI-based": "cisite_28_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -19271,7 +19685,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.956176+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -19291,11 +19705,11 @@ var vowlresult={
   },
   {
    "id": 355,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_34_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_28_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_34_pyscript"
+    "IRI-based": "cisite_28_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -19305,18 +19719,18 @@ var vowlresult={
   },
   {
    "id": 356,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_35_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_29_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_35_activity"
+    "IRI-based": "cisite_29_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -19324,7 +19738,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.957177+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -19344,11 +19758,11 @@ var vowlresult={
   },
   {
    "id": 357,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_35_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_29_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_35_pyscript"
+    "IRI-based": "cisite_29_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -19358,18 +19772,18 @@ var vowlresult={
   },
   {
    "id": 358,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_36_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_30_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_36_activity"
+    "IRI-based": "cisite_30_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -19377,7 +19791,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.957177+00:00",
+      "value": "2025-05-14T23:38:03.683259+00:00",
       "type": "label"
      }
     ],
@@ -19397,11 +19811,11 @@ var vowlresult={
   },
   {
    "id": 359,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_36_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_30_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_36_pyscript"
+    "IRI-based": "cisite_30_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -19411,18 +19825,18 @@ var vowlresult={
   },
   {
    "id": 360,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_37_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_31_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_37_activity"
+    "IRI-based": "cisite_31_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -19430,7 +19844,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.957177+00:00",
+      "value": "2025-05-14T23:38:03.683770+00:00",
       "type": "label"
      }
     ],
@@ -19450,11 +19864,11 @@ var vowlresult={
   },
   {
    "id": 361,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_37_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_31_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_37_pyscript"
+    "IRI-based": "cisite_31_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -19464,18 +19878,18 @@ var vowlresult={
   },
   {
    "id": 362,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_38_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_32_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_38_activity"
+    "IRI-based": "cisite_32_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -19483,7 +19897,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.958694+00:00",
+      "value": "2025-05-14T23:38:03.683770+00:00",
       "type": "label"
      }
     ],
@@ -19503,11 +19917,11 @@ var vowlresult={
   },
   {
    "id": 363,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_38_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_32_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_38_pyscript"
+    "IRI-based": "cisite_32_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -19517,18 +19931,18 @@ var vowlresult={
   },
   {
    "id": 364,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_39_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_33_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_39_activity"
+    "IRI-based": "cisite_33_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -19536,7 +19950,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.958694+00:00",
+      "value": "2025-05-14T23:38:03.683770+00:00",
       "type": "label"
      }
     ],
@@ -19556,11 +19970,11 @@ var vowlresult={
   },
   {
    "id": 365,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_39_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_33_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_39_pyscript"
+    "IRI-based": "cisite_33_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -19570,18 +19984,18 @@ var vowlresult={
   },
   {
    "id": 366,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_40_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_34_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_40_activity"
+    "IRI-based": "cisite_34_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -19589,7 +20003,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.959714+00:00",
+      "value": "2025-05-14T23:38:03.685285+00:00",
       "type": "label"
      }
     ],
@@ -19609,11 +20023,11 @@ var vowlresult={
   },
   {
    "id": 367,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_40_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_34_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_40_pyscript"
+    "IRI-based": "cisite_34_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -19623,18 +20037,18 @@ var vowlresult={
   },
   {
    "id": 368,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_41_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_35_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_41_activity"
+    "IRI-based": "cisite_35_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -19642,7 +20056,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.959714+00:00",
+      "value": "2025-05-14T23:38:03.685285+00:00",
       "type": "label"
      }
     ],
@@ -19662,11 +20076,11 @@ var vowlresult={
   },
   {
    "id": 369,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_41_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_35_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_41_pyscript"
+    "IRI-based": "cisite_35_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -19676,18 +20090,18 @@ var vowlresult={
   },
   {
    "id": 370,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_42_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_36_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_42_activity"
+    "IRI-based": "cisite_36_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -19695,7 +20109,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.960709+00:00",
+      "value": "2025-05-14T23:38:03.685285+00:00",
       "type": "label"
      }
     ],
@@ -19715,11 +20129,11 @@ var vowlresult={
   },
   {
    "id": 371,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_42_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_36_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_42_pyscript"
+    "IRI-based": "cisite_36_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -19729,18 +20143,18 @@ var vowlresult={
   },
   {
    "id": 372,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_43_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_37_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_43_activity"
+    "IRI-based": "cisite_37_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -19748,7 +20162,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.961711+00:00",
+      "value": "2025-05-14T23:38:03.686297+00:00",
       "type": "label"
      }
     ],
@@ -19768,11 +20182,11 @@ var vowlresult={
   },
   {
    "id": 373,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_43_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_37_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_43_pyscript"
+    "IRI-based": "cisite_37_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -19782,18 +20196,18 @@ var vowlresult={
   },
   {
    "id": 374,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_44_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_38_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_44_activity"
+    "IRI-based": "cisite_38_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -19801,7 +20215,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.961711+00:00",
+      "value": "2025-05-14T23:38:03.686297+00:00",
       "type": "label"
      }
     ],
@@ -19821,11 +20235,11 @@ var vowlresult={
   },
   {
    "id": 375,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_44_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_38_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_44_pyscript"
+    "IRI-based": "cisite_38_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -19835,18 +20249,18 @@ var vowlresult={
   },
   {
    "id": 376,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_45_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_39_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_45_activity"
+    "IRI-based": "cisite_39_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -19854,7 +20268,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.963705+00:00",
+      "value": "2025-05-14T23:38:03.686297+00:00",
       "type": "label"
      }
     ],
@@ -19874,11 +20288,11 @@ var vowlresult={
   },
   {
    "id": 377,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_45_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_39_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_45_pyscript"
+    "IRI-based": "cisite_39_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -19888,18 +20302,18 @@ var vowlresult={
   },
   {
    "id": 378,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_46_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_40_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_46_activity"
+    "IRI-based": "cisite_40_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -19907,7 +20321,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.964708+00:00",
+      "value": "2025-05-14T23:38:03.686297+00:00",
       "type": "label"
      }
     ],
@@ -19927,11 +20341,11 @@ var vowlresult={
   },
   {
    "id": 379,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_46_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_40_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_46_pyscript"
+    "IRI-based": "cisite_40_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -19941,18 +20355,18 @@ var vowlresult={
   },
   {
    "id": 380,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_47_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_41_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_47_activity"
+    "IRI-based": "cisite_41_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -19960,7 +20374,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.965705+00:00",
+      "value": "2025-05-14T23:38:03.686297+00:00",
       "type": "label"
      }
     ],
@@ -19980,11 +20394,11 @@ var vowlresult={
   },
   {
    "id": 381,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_47_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_41_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_47_pyscript"
+    "IRI-based": "cisite_41_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -19994,18 +20408,18 @@ var vowlresult={
   },
   {
    "id": 382,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_48_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_42_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_48_activity"
+    "IRI-based": "cisite_42_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -20013,7 +20427,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.965705+00:00",
+      "value": "2025-05-14T23:38:03.687295+00:00",
       "type": "label"
      }
     ],
@@ -20033,11 +20447,11 @@ var vowlresult={
   },
   {
    "id": 383,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_48_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_42_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_48_pyscript"
+    "IRI-based": "cisite_42_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -20047,18 +20461,18 @@ var vowlresult={
   },
   {
    "id": 384,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_49_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_43_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_49_activity"
+    "IRI-based": "cisite_43_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -20066,7 +20480,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.966705+00:00",
+      "value": "2025-05-14T23:38:03.687295+00:00",
       "type": "label"
      }
     ],
@@ -20086,11 +20500,11 @@ var vowlresult={
   },
   {
    "id": 385,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_49_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_43_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_49_pyscript"
+    "IRI-based": "cisite_43_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -20100,18 +20514,18 @@ var vowlresult={
   },
   {
    "id": 386,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_50_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_44_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_50_activity"
+    "IRI-based": "cisite_44_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -20119,7 +20533,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.967706+00:00",
+      "value": "2025-05-14T23:38:03.687295+00:00",
       "type": "label"
      }
     ],
@@ -20139,11 +20553,11 @@ var vowlresult={
   },
   {
    "id": 387,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_50_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_44_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_50_pyscript"
+    "IRI-based": "cisite_44_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -20153,18 +20567,18 @@ var vowlresult={
   },
   {
    "id": 388,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_51_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_45_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_51_activity"
+    "IRI-based": "cisite_45_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -20172,7 +20586,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.968710+00:00",
+      "value": "2025-05-14T23:38:03.687295+00:00",
       "type": "label"
      }
     ],
@@ -20192,11 +20606,11 @@ var vowlresult={
   },
   {
    "id": 389,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_51_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_45_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_51_pyscript"
+    "IRI-based": "cisite_45_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -20206,18 +20620,18 @@ var vowlresult={
   },
   {
    "id": 390,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_52_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_46_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_52_activity"
+    "IRI-based": "cisite_46_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -20225,7 +20639,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.968710+00:00",
+      "value": "2025-05-14T23:38:03.688295+00:00",
       "type": "label"
      }
     ],
@@ -20245,11 +20659,11 @@ var vowlresult={
   },
   {
    "id": 391,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_52_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_46_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_52_pyscript"
+    "IRI-based": "cisite_46_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -20259,18 +20673,18 @@ var vowlresult={
   },
   {
    "id": 392,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_53_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_47_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_53_activity"
+    "IRI-based": "cisite_47_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -20278,7 +20692,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.969969+00:00",
+      "value": "2025-05-14T23:38:03.688295+00:00",
       "type": "label"
      }
     ],
@@ -20298,11 +20712,11 @@ var vowlresult={
   },
   {
    "id": 393,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_53_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_47_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_53_pyscript"
+    "IRI-based": "cisite_47_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -20312,18 +20726,18 @@ var vowlresult={
   },
   {
    "id": 394,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_54_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_48_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_54_activity"
+    "IRI-based": "cisite_48_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -20331,7 +20745,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.970972+00:00",
+      "value": "2025-05-14T23:38:03.688295+00:00",
       "type": "label"
      }
     ],
@@ -20351,11 +20765,11 @@ var vowlresult={
   },
   {
    "id": 395,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_54_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_48_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_54_pyscript"
+    "IRI-based": "cisite_48_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -20365,18 +20779,18 @@ var vowlresult={
   },
   {
    "id": 396,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_55_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_49_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_55_activity"
+    "IRI-based": "cisite_49_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -20384,7 +20798,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.970972+00:00",
+      "value": "2025-05-14T23:38:03.688295+00:00",
       "type": "label"
      }
     ],
@@ -20404,11 +20818,11 @@ var vowlresult={
   },
   {
    "id": 397,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_55_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_49_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_55_pyscript"
+    "IRI-based": "cisite_49_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -20418,18 +20832,18 @@ var vowlresult={
   },
   {
    "id": 398,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_56_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_50_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_56_activity"
+    "IRI-based": "cisite_50_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -20437,7 +20851,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.971968+00:00",
+      "value": "2025-05-14T23:38:03.688295+00:00",
       "type": "label"
      }
     ],
@@ -20457,11 +20871,11 @@ var vowlresult={
   },
   {
    "id": 399,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_56_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_50_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_56_pyscript"
+    "IRI-based": "cisite_50_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -20471,18 +20885,18 @@ var vowlresult={
   },
   {
    "id": 400,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_57_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_51_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_57_activity"
+    "IRI-based": "cisite_51_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -20490,7 +20904,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.971968+00:00",
+      "value": "2025-05-14T23:38:03.689294+00:00",
       "type": "label"
      }
     ],
@@ -20510,11 +20924,11 @@ var vowlresult={
   },
   {
    "id": 401,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_57_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_51_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_57_pyscript"
+    "IRI-based": "cisite_51_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -20524,18 +20938,18 @@ var vowlresult={
   },
   {
    "id": 402,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_58_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_52_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_58_activity"
+    "IRI-based": "cisite_52_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -20543,7 +20957,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.972972+00:00",
+      "value": "2025-05-14T23:38:03.689294+00:00",
       "type": "label"
      }
     ],
@@ -20563,11 +20977,11 @@ var vowlresult={
   },
   {
    "id": 403,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_58_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_52_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_58_pyscript"
+    "IRI-based": "cisite_52_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -20577,18 +20991,18 @@ var vowlresult={
   },
   {
    "id": 404,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_59_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_53_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_59_activity"
+    "IRI-based": "cisite_53_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -20596,7 +21010,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.972972+00:00",
+      "value": "2025-05-14T23:38:03.689294+00:00",
       "type": "label"
      }
     ],
@@ -20616,11 +21030,11 @@ var vowlresult={
   },
   {
    "id": 405,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_59_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_53_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_59_pyscript"
+    "IRI-based": "cisite_53_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -20630,18 +21044,18 @@ var vowlresult={
   },
   {
    "id": 406,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_60_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_54_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_60_activity"
+    "IRI-based": "cisite_54_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -20649,7 +21063,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.972972+00:00",
+      "value": "2025-05-14T23:38:03.689294+00:00",
       "type": "label"
      }
     ],
@@ -20669,11 +21083,11 @@ var vowlresult={
   },
   {
    "id": 407,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_60_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_54_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_60_pyscript"
+    "IRI-based": "cisite_54_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -20683,18 +21097,18 @@ var vowlresult={
   },
   {
    "id": 408,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_61_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_55_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_61_activity"
+    "IRI-based": "cisite_55_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -20702,7 +21116,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.974484+00:00",
+      "value": "2025-05-14T23:38:03.690295+00:00",
       "type": "label"
      }
     ],
@@ -20722,11 +21136,11 @@ var vowlresult={
   },
   {
    "id": 409,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_61_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_55_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_61_pyscript"
+    "IRI-based": "cisite_55_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -20736,18 +21150,18 @@ var vowlresult={
   },
   {
    "id": 410,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_62_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_56_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_62_activity"
+    "IRI-based": "cisite_56_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -20755,7 +21169,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.974484+00:00",
+      "value": "2025-05-14T23:38:03.690295+00:00",
       "type": "label"
      }
     ],
@@ -20775,11 +21189,11 @@ var vowlresult={
   },
   {
    "id": 411,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_62_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_56_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_62_pyscript"
+    "IRI-based": "cisite_56_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -20789,18 +21203,18 @@ var vowlresult={
   },
   {
    "id": 412,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_63_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_57_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_63_activity"
+    "IRI-based": "cisite_57_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -20808,7 +21222,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.975499+00:00",
+      "value": "2025-05-14T23:38:03.690295+00:00",
       "type": "label"
      }
     ],
@@ -20828,11 +21242,11 @@ var vowlresult={
   },
   {
    "id": 413,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_63_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_57_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_63_pyscript"
+    "IRI-based": "cisite_57_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -20842,18 +21256,18 @@ var vowlresult={
   },
   {
    "id": 414,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_64_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_58_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_64_activity"
+    "IRI-based": "cisite_58_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -20861,7 +21275,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.975499+00:00",
+      "value": "2025-05-14T23:38:03.690295+00:00",
       "type": "label"
      }
     ],
@@ -20881,11 +21295,11 @@ var vowlresult={
   },
   {
    "id": 415,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_64_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_58_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_64_pyscript"
+    "IRI-based": "cisite_58_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -20895,18 +21309,18 @@ var vowlresult={
   },
   {
    "id": 416,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_65_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_59_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_65_activity"
+    "IRI-based": "cisite_59_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -20914,7 +21328,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.976503+00:00",
+      "value": "2025-05-14T23:38:03.690295+00:00",
       "type": "label"
      }
     ],
@@ -20934,11 +21348,11 @@ var vowlresult={
   },
   {
    "id": 417,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_65_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_59_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_65_pyscript"
+    "IRI-based": "cisite_59_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -20948,18 +21362,18 @@ var vowlresult={
   },
   {
    "id": 418,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_101_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_60_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_101_activity"
+    "IRI-based": "cisite_60_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -20967,7 +21381,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.976503+00:00",
+      "value": "2025-05-14T23:38:03.690295+00:00",
       "type": "label"
      }
     ],
@@ -20987,11 +21401,11 @@ var vowlresult={
   },
   {
    "id": 419,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_101_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_60_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_101_pyscript"
+    "IRI-based": "cisite_60_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -21001,18 +21415,18 @@ var vowlresult={
   },
   {
    "id": 420,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_102_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_61_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_102_activity"
+    "IRI-based": "cisite_61_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -21020,7 +21434,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.977507+00:00",
+      "value": "2025-05-14T23:38:03.690295+00:00",
       "type": "label"
      }
     ],
@@ -21040,11 +21454,11 @@ var vowlresult={
   },
   {
    "id": 421,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_102_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_61_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_102_pyscript"
+    "IRI-based": "cisite_61_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -21054,18 +21468,18 @@ var vowlresult={
   },
   {
    "id": 422,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_103_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_62_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_103_activity"
+    "IRI-based": "cisite_62_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -21073,7 +21487,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.977507+00:00",
+      "value": "2025-05-14T23:38:03.690295+00:00",
       "type": "label"
      }
     ],
@@ -21093,11 +21507,11 @@ var vowlresult={
   },
   {
    "id": 423,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_103_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_62_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_103_pyscript"
+    "IRI-based": "cisite_62_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -21107,18 +21521,18 @@ var vowlresult={
   },
   {
    "id": 424,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_104_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_63_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_104_activity"
+    "IRI-based": "cisite_63_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -21126,7 +21540,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.978499+00:00",
+      "value": "2025-05-14T23:38:03.690295+00:00",
       "type": "label"
      }
     ],
@@ -21146,11 +21560,11 @@ var vowlresult={
   },
   {
    "id": 425,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_104_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_63_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_104_pyscript"
+    "IRI-based": "cisite_63_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -21160,18 +21574,18 @@ var vowlresult={
   },
   {
    "id": 426,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_105_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_64_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_105_activity"
+    "IRI-based": "cisite_64_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -21179,7 +21593,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.979008+00:00",
+      "value": "2025-05-14T23:38:03.690295+00:00",
       "type": "label"
      }
     ],
@@ -21199,11 +21613,11 @@ var vowlresult={
   },
   {
    "id": 427,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_105_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_64_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_105_pyscript"
+    "IRI-based": "cisite_64_pyscript"
    },
    "annotations": {},
    "range": [],
@@ -21213,18 +21627,18 @@ var vowlresult={
   },
   {
    "id": 428,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_106_activity",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_65_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_106_activity"
+    "IRI-based": "cisite_65_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -21232,7 +21646,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.979517+00:00",
+      "value": "2025-05-14T23:38:03.690295+00:00",
       "type": "label"
      }
     ],
@@ -21252,18 +21666,32 @@ var vowlresult={
   },
   {
    "id": 429,
-   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_106_pyscript",
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_65_pyscript",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
-    "IRI-based": "cisite_106_pyscript"
+    "IRI-based": "cisite_65_pyscript"
+   },
+   "annotations": {},
+   "range": [],
+   "domain": [],
+   "subProperties": [],
+   "superProperties": []
+  },
+  {
+   "id": 430,
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_101_activity",
+   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
+   "instances": 0,
+   "label": {
+    "IRI-based": "cisite_101_activity"
    },
    "annotations": {
     "http://www.w3.org/ns/prov#startedAtTime": [
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -21271,7 +21699,470 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.942633+00:00",
+      "value": "2025-05-14T23:38:03.690295+00:00",
+      "type": "label"
+     }
+    ],
+    "http://www.w3.org/ns/prov#wasAssociatedWith": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#wasAssociatedWith",
+      "language": "undefined",
+      "value": "https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py",
+      "type": "iri"
+     }
+    ]
+   },
+   "range": [],
+   "domain": [],
+   "subProperties": [],
+   "superProperties": []
+  },
+  {
+   "id": 431,
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_101_pyscript",
+   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
+   "instances": 0,
+   "label": {
+    "IRI-based": "cisite_101_pyscript"
+   },
+   "annotations": {},
+   "range": [],
+   "domain": [],
+   "subProperties": [],
+   "superProperties": []
+  },
+  {
+   "id": 432,
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_102_activity",
+   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
+   "instances": 0,
+   "label": {
+    "IRI-based": "cisite_102_activity"
+   },
+   "annotations": {
+    "http://www.w3.org/ns/prov#startedAtTime": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#startedAtTime",
+      "language": "undefined",
+      "value": "2025-05-14T23:38:03.638215+00:00",
+      "type": "label"
+     }
+    ],
+    "http://www.w3.org/ns/prov#endedAtTime": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#endedAtTime",
+      "language": "undefined",
+      "value": "2025-05-14T23:38:03.690295+00:00",
+      "type": "label"
+     }
+    ],
+    "http://www.w3.org/ns/prov#wasAssociatedWith": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#wasAssociatedWith",
+      "language": "undefined",
+      "value": "https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py",
+      "type": "iri"
+     }
+    ]
+   },
+   "range": [],
+   "domain": [],
+   "subProperties": [],
+   "superProperties": []
+  },
+  {
+   "id": 433,
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_102_pyscript",
+   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
+   "instances": 0,
+   "label": {
+    "IRI-based": "cisite_102_pyscript"
+   },
+   "annotations": {},
+   "range": [],
+   "domain": [],
+   "subProperties": [],
+   "superProperties": []
+  },
+  {
+   "id": 434,
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_103_activity",
+   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
+   "instances": 0,
+   "label": {
+    "IRI-based": "cisite_103_activity"
+   },
+   "annotations": {
+    "http://www.w3.org/ns/prov#startedAtTime": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#startedAtTime",
+      "language": "undefined",
+      "value": "2025-05-14T23:38:03.638215+00:00",
+      "type": "label"
+     }
+    ],
+    "http://www.w3.org/ns/prov#endedAtTime": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#endedAtTime",
+      "language": "undefined",
+      "value": "2025-05-14T23:38:03.690295+00:00",
+      "type": "label"
+     }
+    ],
+    "http://www.w3.org/ns/prov#wasAssociatedWith": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#wasAssociatedWith",
+      "language": "undefined",
+      "value": "https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py",
+      "type": "iri"
+     }
+    ]
+   },
+   "range": [],
+   "domain": [],
+   "subProperties": [],
+   "superProperties": []
+  },
+  {
+   "id": 435,
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_103_pyscript",
+   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
+   "instances": 0,
+   "label": {
+    "IRI-based": "cisite_103_pyscript"
+   },
+   "annotations": {},
+   "range": [],
+   "domain": [],
+   "subProperties": [],
+   "superProperties": []
+  },
+  {
+   "id": 436,
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_104_activity",
+   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
+   "instances": 0,
+   "label": {
+    "IRI-based": "cisite_104_activity"
+   },
+   "annotations": {
+    "http://www.w3.org/ns/prov#startedAtTime": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#startedAtTime",
+      "language": "undefined",
+      "value": "2025-05-14T23:38:03.638215+00:00",
+      "type": "label"
+     }
+    ],
+    "http://www.w3.org/ns/prov#endedAtTime": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#endedAtTime",
+      "language": "undefined",
+      "value": "2025-05-14T23:38:03.690295+00:00",
+      "type": "label"
+     }
+    ],
+    "http://www.w3.org/ns/prov#wasAssociatedWith": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#wasAssociatedWith",
+      "language": "undefined",
+      "value": "https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py",
+      "type": "iri"
+     }
+    ]
+   },
+   "range": [],
+   "domain": [],
+   "subProperties": [],
+   "superProperties": []
+  },
+  {
+   "id": 437,
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_104_pyscript",
+   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
+   "instances": 0,
+   "label": {
+    "IRI-based": "cisite_104_pyscript"
+   },
+   "annotations": {},
+   "range": [],
+   "domain": [],
+   "subProperties": [],
+   "superProperties": []
+  },
+  {
+   "id": 438,
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_105_activity",
+   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
+   "instances": 0,
+   "label": {
+    "IRI-based": "cisite_105_activity"
+   },
+   "annotations": {
+    "http://www.w3.org/ns/prov#startedAtTime": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#startedAtTime",
+      "language": "undefined",
+      "value": "2025-05-14T23:38:03.638215+00:00",
+      "type": "label"
+     }
+    ],
+    "http://www.w3.org/ns/prov#endedAtTime": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#endedAtTime",
+      "language": "undefined",
+      "value": "2025-05-14T23:38:03.690295+00:00",
+      "type": "label"
+     }
+    ],
+    "http://www.w3.org/ns/prov#wasAssociatedWith": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#wasAssociatedWith",
+      "language": "undefined",
+      "value": "https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py",
+      "type": "iri"
+     }
+    ]
+   },
+   "range": [],
+   "domain": [],
+   "subProperties": [],
+   "superProperties": []
+  },
+  {
+   "id": 439,
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_105_pyscript",
+   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
+   "instances": 0,
+   "label": {
+    "IRI-based": "cisite_105_pyscript"
+   },
+   "annotations": {},
+   "range": [],
+   "domain": [],
+   "subProperties": [],
+   "superProperties": []
+  },
+  {
+   "id": 440,
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_106_activity",
+   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
+   "instances": 0,
+   "label": {
+    "IRI-based": "cisite_106_activity"
+   },
+   "annotations": {
+    "http://www.w3.org/ns/prov#startedAtTime": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#startedAtTime",
+      "language": "undefined",
+      "value": "2025-05-14T23:38:03.638215+00:00",
+      "type": "label"
+     }
+    ],
+    "http://www.w3.org/ns/prov#endedAtTime": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#endedAtTime",
+      "language": "undefined",
+      "value": "2025-05-14T23:38:03.690295+00:00",
+      "type": "label"
+     }
+    ],
+    "http://www.w3.org/ns/prov#wasAssociatedWith": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#wasAssociatedWith",
+      "language": "undefined",
+      "value": "https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py",
+      "type": "iri"
+     }
+    ]
+   },
+   "range": [],
+   "domain": [],
+   "subProperties": [],
+   "superProperties": []
+  },
+  {
+   "id": 441,
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_106_pyscript",
+   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
+   "instances": 0,
+   "label": {
+    "IRI-based": "cisite_106_pyscript"
+   },
+   "annotations": {},
+   "range": [],
+   "domain": [],
+   "subProperties": [],
+   "superProperties": []
+  },
+  {
+   "id": 442,
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_201_activity",
+   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
+   "instances": 0,
+   "label": {
+    "IRI-based": "cisite_201_activity"
+   },
+   "annotations": {
+    "http://www.w3.org/ns/prov#startedAtTime": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#startedAtTime",
+      "language": "undefined",
+      "value": "2025-05-14T23:38:03.638215+00:00",
+      "type": "label"
+     }
+    ],
+    "http://www.w3.org/ns/prov#endedAtTime": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#endedAtTime",
+      "language": "undefined",
+      "value": "2025-05-14T23:38:03.690295+00:00",
+      "type": "label"
+     }
+    ],
+    "http://www.w3.org/ns/prov#wasAssociatedWith": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#wasAssociatedWith",
+      "language": "undefined",
+      "value": "https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py",
+      "type": "iri"
+     }
+    ]
+   },
+   "range": [],
+   "domain": [],
+   "subProperties": [],
+   "superProperties": []
+  },
+  {
+   "id": 443,
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_201_pyscript",
+   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
+   "instances": 0,
+   "label": {
+    "IRI-based": "cisite_201_pyscript"
+   },
+   "annotations": {},
+   "range": [],
+   "domain": [],
+   "subProperties": [],
+   "superProperties": []
+  },
+  {
+   "id": 444,
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_202_activity",
+   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
+   "instances": 0,
+   "label": {
+    "IRI-based": "cisite_202_activity"
+   },
+   "annotations": {
+    "http://www.w3.org/ns/prov#startedAtTime": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#startedAtTime",
+      "language": "undefined",
+      "value": "2025-05-14T23:38:03.638215+00:00",
+      "type": "label"
+     }
+    ],
+    "http://www.w3.org/ns/prov#endedAtTime": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#endedAtTime",
+      "language": "undefined",
+      "value": "2025-05-14T23:38:03.690295+00:00",
+      "type": "label"
+     }
+    ],
+    "http://www.w3.org/ns/prov#wasAssociatedWith": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#wasAssociatedWith",
+      "language": "undefined",
+      "value": "https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py",
+      "type": "iri"
+     }
+    ]
+   },
+   "range": [],
+   "domain": [],
+   "subProperties": [],
+   "superProperties": []
+  },
+  {
+   "id": 445,
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_202_pyscript",
+   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
+   "instances": 0,
+   "label": {
+    "IRI-based": "cisite_202_pyscript"
+   },
+   "annotations": {},
+   "range": [],
+   "domain": [],
+   "subProperties": [],
+   "superProperties": []
+  },
+  {
+   "id": 446,
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_203_activity",
+   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
+   "instances": 0,
+   "label": {
+    "IRI-based": "cisite_203_activity"
+   },
+   "annotations": {
+    "http://www.w3.org/ns/prov#startedAtTime": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#startedAtTime",
+      "language": "undefined",
+      "value": "2025-05-14T23:38:03.638215+00:00",
+      "type": "label"
+     }
+    ],
+    "http://www.w3.org/ns/prov#endedAtTime": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#endedAtTime",
+      "language": "undefined",
+      "value": "2025-05-14T23:38:03.690295+00:00",
+      "type": "label"
+     }
+    ],
+    "http://www.w3.org/ns/prov#wasAssociatedWith": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#wasAssociatedWith",
+      "language": "undefined",
+      "value": "https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/CI.py",
+      "type": "iri"
+     }
+    ]
+   },
+   "range": [],
+   "domain": [],
+   "subProperties": [],
+   "superProperties": []
+  },
+  {
+   "id": 447,
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_203_pyscript",
+   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
+   "instances": 0,
+   "label": {
+    "IRI-based": "cisite_203_pyscript"
+   },
+   "annotations": {
+    "http://www.w3.org/ns/prov#startedAtTime": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#startedAtTime",
+      "language": "undefined",
+      "value": "2025-05-14T23:38:03.638215+00:00",
+      "type": "label"
+     }
+    ],
+    "http://www.w3.org/ns/prov#endedAtTime": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#endedAtTime",
+      "language": "undefined",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -21346,7 +22237,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 430,
+   "id": 448,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_1_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -21358,7 +22249,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -21366,7 +22257,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.942633+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -21441,7 +22332,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 431,
+   "id": 449,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_2_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -21453,7 +22344,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -21461,7 +22352,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.942633+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -21536,7 +22427,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 432,
+   "id": 450,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_3_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -21548,7 +22439,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -21556,7 +22447,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.943632+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -21631,7 +22522,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 433,
+   "id": 451,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_4_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -21643,7 +22534,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -21651,7 +22542,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.943632+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -21726,7 +22617,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 434,
+   "id": 452,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_5_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -21738,7 +22629,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -21746,7 +22637,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.944640+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -21821,7 +22712,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 435,
+   "id": 453,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_6_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -21833,7 +22724,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -21841,7 +22732,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.944640+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -21916,7 +22807,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 436,
+   "id": 454,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_7_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -21928,7 +22819,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -21936,7 +22827,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.944640+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -22011,7 +22902,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 437,
+   "id": 455,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_8_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -22023,7 +22914,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -22031,7 +22922,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.945631+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -22106,7 +22997,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 438,
+   "id": 456,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_9_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -22118,7 +23009,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -22126,7 +23017,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.945631+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -22201,7 +23092,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 439,
+   "id": 457,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_10_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -22213,7 +23104,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -22221,7 +23112,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.946631+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -22296,7 +23187,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 440,
+   "id": 458,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_11_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -22308,7 +23199,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -22316,7 +23207,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.946631+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -22391,7 +23282,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 441,
+   "id": 459,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_12_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -22403,7 +23294,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -22411,7 +23302,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.946631+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -22486,7 +23377,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 442,
+   "id": 460,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_13_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -22498,7 +23389,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -22506,7 +23397,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.947631+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -22581,7 +23472,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 443,
+   "id": 461,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_14_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -22593,7 +23484,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -22601,7 +23492,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.948638+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -22676,7 +23567,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 444,
+   "id": 462,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_15_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -22688,7 +23579,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -22696,7 +23587,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.949162+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -22771,7 +23662,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 445,
+   "id": 463,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_16_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -22783,7 +23674,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -22791,7 +23682,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.949162+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -22866,7 +23757,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 446,
+   "id": 464,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_17_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -22878,7 +23769,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -22886,7 +23777,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.950175+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -22961,7 +23852,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 447,
+   "id": 465,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_18_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -22973,7 +23864,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -22981,7 +23872,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.950175+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -23056,7 +23947,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 448,
+   "id": 466,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_19_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -23068,7 +23959,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -23076,7 +23967,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.951170+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -23151,7 +24042,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 449,
+   "id": 467,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_20_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -23163,7 +24054,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -23171,7 +24062,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.951170+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -23246,7 +24137,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 450,
+   "id": 468,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_21_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -23258,7 +24149,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -23266,7 +24157,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.951170+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -23341,7 +24232,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 451,
+   "id": 469,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_22_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -23353,7 +24244,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -23361,7 +24252,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.952176+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -23436,7 +24327,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 452,
+   "id": 470,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_23_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -23448,7 +24339,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -23456,7 +24347,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.952176+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -23531,7 +24422,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 453,
+   "id": 471,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_24_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -23543,7 +24434,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -23551,7 +24442,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.953181+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -23626,7 +24517,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 454,
+   "id": 472,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_25_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -23638,7 +24529,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -23646,7 +24537,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.953181+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -23721,7 +24612,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 455,
+   "id": 473,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_26_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -23733,7 +24624,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -23741,7 +24632,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.953181+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -23816,7 +24707,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 456,
+   "id": 474,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_27_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -23828,7 +24719,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -23836,7 +24727,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.954177+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -23911,7 +24802,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 457,
+   "id": 475,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_28_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -23923,7 +24814,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -23931,7 +24822,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.954177+00:00",
+      "value": "2025-05-14T23:38:03.667048+00:00",
       "type": "label"
      }
     ],
@@ -24006,7 +24897,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 458,
+   "id": 476,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_29_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -24018,7 +24909,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -24026,7 +24917,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.955177+00:00",
+      "value": "2025-05-14T23:38:03.682899+00:00",
       "type": "label"
      }
     ],
@@ -24101,7 +24992,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 459,
+   "id": 477,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_30_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -24113,7 +25004,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -24121,7 +25012,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.955177+00:00",
+      "value": "2025-05-14T23:38:03.683770+00:00",
       "type": "label"
      }
     ],
@@ -24196,7 +25087,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 460,
+   "id": 478,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_31_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -24208,7 +25099,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -24216,7 +25107,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.955177+00:00",
+      "value": "2025-05-14T23:38:03.683770+00:00",
       "type": "label"
      }
     ],
@@ -24291,7 +25182,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 461,
+   "id": 479,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_32_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -24303,7 +25194,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -24311,7 +25202,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.956176+00:00",
+      "value": "2025-05-14T23:38:03.683770+00:00",
       "type": "label"
      }
     ],
@@ -24386,7 +25277,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 462,
+   "id": 480,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_33_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -24398,7 +25289,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -24406,7 +25297,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.956176+00:00",
+      "value": "2025-05-14T23:38:03.685285+00:00",
       "type": "label"
      }
     ],
@@ -24481,7 +25372,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 463,
+   "id": 481,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_34_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -24493,7 +25384,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -24501,7 +25392,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.957177+00:00",
+      "value": "2025-05-14T23:38:03.685285+00:00",
       "type": "label"
      }
     ],
@@ -24576,7 +25467,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 464,
+   "id": 482,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_35_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -24588,7 +25479,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -24596,7 +25487,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.957177+00:00",
+      "value": "2025-05-14T23:38:03.685285+00:00",
       "type": "label"
      }
     ],
@@ -24671,7 +25562,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 465,
+   "id": 483,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_36_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -24683,7 +25574,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -24691,7 +25582,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.957177+00:00",
+      "value": "2025-05-14T23:38:03.685285+00:00",
       "type": "label"
      }
     ],
@@ -24766,7 +25657,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 466,
+   "id": 484,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_37_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -24778,7 +25669,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -24786,7 +25677,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.957177+00:00",
+      "value": "2025-05-14T23:38:03.686297+00:00",
       "type": "label"
      }
     ],
@@ -24861,7 +25752,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 467,
+   "id": 485,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_38_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -24873,7 +25764,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -24881,7 +25772,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.958694+00:00",
+      "value": "2025-05-14T23:38:03.686297+00:00",
       "type": "label"
      }
     ],
@@ -24956,7 +25847,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 468,
+   "id": 486,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_39_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -24968,7 +25859,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -24976,7 +25867,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.959714+00:00",
+      "value": "2025-05-14T23:38:03.686297+00:00",
       "type": "label"
      }
     ],
@@ -25051,7 +25942,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 469,
+   "id": 487,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_40_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -25063,7 +25954,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -25071,7 +25962,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.959714+00:00",
+      "value": "2025-05-14T23:38:03.686297+00:00",
       "type": "label"
      }
     ],
@@ -25146,7 +26037,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 470,
+   "id": 488,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_41_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -25158,7 +26049,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -25166,7 +26057,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.960709+00:00",
+      "value": "2025-05-14T23:38:03.687295+00:00",
       "type": "label"
      }
     ],
@@ -25241,7 +26132,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 471,
+   "id": 489,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_42_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -25253,7 +26144,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -25261,7 +26152,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.961711+00:00",
+      "value": "2025-05-14T23:38:03.687295+00:00",
       "type": "label"
      }
     ],
@@ -25336,7 +26227,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 472,
+   "id": 490,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_43_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -25348,7 +26239,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -25356,7 +26247,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.961711+00:00",
+      "value": "2025-05-14T23:38:03.687295+00:00",
       "type": "label"
      }
     ],
@@ -25431,7 +26322,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 473,
+   "id": 491,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_44_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -25443,7 +26334,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -25451,7 +26342,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.963705+00:00",
+      "value": "2025-05-14T23:38:03.687295+00:00",
       "type": "label"
      }
     ],
@@ -25526,7 +26417,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 474,
+   "id": 492,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_45_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -25538,7 +26429,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -25546,7 +26437,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.964708+00:00",
+      "value": "2025-05-14T23:38:03.687295+00:00",
       "type": "label"
      }
     ],
@@ -25621,7 +26512,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 475,
+   "id": 493,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_46_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -25633,7 +26524,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -25641,7 +26532,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.964708+00:00",
+      "value": "2025-05-14T23:38:03.688295+00:00",
       "type": "label"
      }
     ],
@@ -25716,7 +26607,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 476,
+   "id": 494,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_47_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -25728,7 +26619,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -25736,7 +26627,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.965705+00:00",
+      "value": "2025-05-14T23:38:03.688295+00:00",
       "type": "label"
      }
     ],
@@ -25811,7 +26702,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 477,
+   "id": 495,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_48_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -25823,7 +26714,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -25831,7 +26722,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.966705+00:00",
+      "value": "2025-05-14T23:38:03.688295+00:00",
       "type": "label"
      }
     ],
@@ -25906,7 +26797,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 478,
+   "id": 496,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_49_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -25918,7 +26809,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -25926,7 +26817,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.966705+00:00",
+      "value": "2025-05-14T23:38:03.688295+00:00",
       "type": "label"
      }
     ],
@@ -26001,7 +26892,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 479,
+   "id": 497,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_50_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -26013,7 +26904,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -26021,7 +26912,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.967706+00:00",
+      "value": "2025-05-14T23:38:03.689294+00:00",
       "type": "label"
      }
     ],
@@ -26096,7 +26987,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 480,
+   "id": 498,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_51_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -26108,7 +26999,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -26116,7 +27007,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.968710+00:00",
+      "value": "2025-05-14T23:38:03.689294+00:00",
       "type": "label"
      }
     ],
@@ -26191,7 +27082,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 481,
+   "id": 499,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_52_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -26203,7 +27094,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -26211,7 +27102,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.969969+00:00",
+      "value": "2025-05-14T23:38:03.689294+00:00",
       "type": "label"
      }
     ],
@@ -26286,7 +27177,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 482,
+   "id": 500,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_53_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -26298,7 +27189,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -26306,7 +27197,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.969969+00:00",
+      "value": "2025-05-14T23:38:03.689294+00:00",
       "type": "label"
      }
     ],
@@ -26381,7 +27272,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 483,
+   "id": 501,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_54_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -26393,7 +27284,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -26401,7 +27292,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.970972+00:00",
+      "value": "2025-05-14T23:38:03.689294+00:00",
       "type": "label"
      }
     ],
@@ -26476,7 +27367,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 484,
+   "id": 502,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_55_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -26488,7 +27379,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -26496,7 +27387,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.971968+00:00",
+      "value": "2025-05-14T23:38:03.690295+00:00",
       "type": "label"
      }
     ],
@@ -26571,7 +27462,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 485,
+   "id": 503,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_56_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -26583,7 +27474,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -26591,7 +27482,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.971968+00:00",
+      "value": "2025-05-14T23:38:03.690295+00:00",
       "type": "label"
      }
     ],
@@ -26666,7 +27557,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 486,
+   "id": 504,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_57_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -26678,7 +27569,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -26686,7 +27577,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.971968+00:00",
+      "value": "2025-05-14T23:38:03.690295+00:00",
       "type": "label"
      }
     ],
@@ -26761,7 +27652,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 487,
+   "id": 505,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_58_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -26773,7 +27664,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -26781,7 +27672,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.972972+00:00",
+      "value": "2025-05-14T23:38:03.690295+00:00",
       "type": "label"
      }
     ],
@@ -26856,7 +27747,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 488,
+   "id": 506,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_59_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -26868,7 +27759,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -26876,7 +27767,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.972972+00:00",
+      "value": "2025-05-14T23:38:03.690295+00:00",
       "type": "label"
      }
     ],
@@ -26951,7 +27842,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 489,
+   "id": 507,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_60_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -26963,7 +27854,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -26971,7 +27862,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.972972+00:00",
+      "value": "2025-05-14T23:38:03.690295+00:00",
       "type": "label"
      }
     ],
@@ -27046,7 +27937,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 490,
+   "id": 508,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_61_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -27058,7 +27949,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -27066,7 +27957,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.974484+00:00",
+      "value": "2025-05-14T23:38:03.690295+00:00",
       "type": "label"
      }
     ],
@@ -27141,7 +28032,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 491,
+   "id": 509,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_62_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -27153,7 +28044,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -27161,7 +28052,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.975499+00:00",
+      "value": "2025-05-14T23:38:03.690295+00:00",
       "type": "label"
      }
     ],
@@ -27236,7 +28127,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 492,
+   "id": 510,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_63_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -27248,7 +28139,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -27256,7 +28147,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.975499+00:00",
+      "value": "2025-05-14T23:38:03.690295+00:00",
       "type": "label"
      }
     ],
@@ -27331,7 +28222,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 493,
+   "id": 511,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_64_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -27343,7 +28234,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -27351,7 +28242,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.976503+00:00",
+      "value": "2025-05-14T23:38:03.690295+00:00",
       "type": "label"
      }
     ],
@@ -27426,7 +28317,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 494,
+   "id": 512,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_65_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -27438,7 +28329,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -27446,7 +28337,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.976503+00:00",
+      "value": "2025-05-14T23:38:03.690295+00:00",
       "type": "label"
      }
     ],
@@ -27478,7 +28369,7 @@ var vowlresult={
      {
       "identifier": "http://fuzzy-sl.squirrel.link/ontology/activityDesc",
       "language": "undefined",
-      "value": "set a representative point based on scientific papers using GeoNamessGoogle Maps",
+      "value": "set a representative point based on scientific papers using Google Maps",
       "type": "label"
      }
     ],
@@ -27521,7 +28412,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 495,
+   "id": 513,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_101_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -27533,7 +28424,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -27541,7 +28432,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.976503+00:00",
+      "value": "2025-05-14T23:38:03.690295+00:00",
       "type": "label"
      }
     ],
@@ -27573,7 +28464,7 @@ var vowlresult={
      {
       "identifier": "http://fuzzy-sl.squirrel.link/ontology/activityDesc",
       "language": "undefined",
-      "value": "set a representative point based on scientific papers using GeoNamessGoogle Maps",
+      "value": "set a representative point based on scientific papers using Google Maps",
       "type": "label"
      }
     ],
@@ -27616,7 +28507,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 496,
+   "id": 514,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_102_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -27628,7 +28519,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -27636,7 +28527,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.977507+00:00",
+      "value": "2025-05-14T23:38:03.690295+00:00",
       "type": "label"
      }
     ],
@@ -27668,7 +28559,7 @@ var vowlresult={
      {
       "identifier": "http://fuzzy-sl.squirrel.link/ontology/activityDesc",
       "language": "undefined",
-      "value": "set a representative point based on scientific papers using GeoNamessGoogle Maps",
+      "value": "set a representative point based on scientific papers using Google Maps",
       "type": "label"
      }
     ],
@@ -27711,7 +28602,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 497,
+   "id": 515,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_103_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -27723,7 +28614,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -27731,7 +28622,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.977507+00:00",
+      "value": "2025-05-14T23:38:03.690295+00:00",
       "type": "label"
      }
     ],
@@ -27763,7 +28654,7 @@ var vowlresult={
      {
       "identifier": "http://fuzzy-sl.squirrel.link/ontology/activityDesc",
       "language": "undefined",
-      "value": "set a representative point based on scientific papers using GeoNamessGoogle Maps",
+      "value": "set a representative point based on scientific papers using Google Maps",
       "type": "label"
      }
     ],
@@ -27806,7 +28697,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 498,
+   "id": 516,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_104_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -27818,7 +28709,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -27826,7 +28717,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.979008+00:00",
+      "value": "2025-05-14T23:38:03.690295+00:00",
       "type": "label"
      }
     ],
@@ -27858,7 +28749,7 @@ var vowlresult={
      {
       "identifier": "http://fuzzy-sl.squirrel.link/ontology/activityDesc",
       "language": "undefined",
-      "value": "set a representative point based on scientific papers using GeoNamessGoogle Maps",
+      "value": "set a representative point based on scientific papers using Google Maps",
       "type": "label"
      }
     ],
@@ -27901,7 +28792,7 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 499,
+   "id": 517,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_105_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
@@ -27913,7 +28804,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#startedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.926589+00:00",
+      "value": "2025-05-14T23:38:03.638215+00:00",
       "type": "label"
      }
     ],
@@ -27921,7 +28812,7 @@ var vowlresult={
      {
       "identifier": "http://www.w3.org/ns/prov#endedAtTime",
       "language": "undefined",
-      "value": "2023-12-12T12:13:37.979517+00:00",
+      "value": "2025-05-14T23:38:03.690295+00:00",
       "type": "label"
      }
     ],
@@ -27953,7 +28844,7 @@ var vowlresult={
      {
       "identifier": "http://fuzzy-sl.squirrel.link/ontology/activityDesc",
       "language": "undefined",
-      "value": "set a representative point based on scientific papers using GeoNamessGoogle Maps",
+      "value": "set a representative point based on scientific papers using Google Maps",
       "type": "label"
      }
     ],
@@ -27996,12 +28887,297 @@ var vowlresult={
    "superProperties": []
   },
   {
-   "id": 500,
+   "id": 518,
    "iri": "http://fuzzy-sl.squirrel.link/data/cisite_106_activity",
    "baseIRI": "http://fuzzy-sl.squirrel.link/data",
    "instances": 0,
    "label": {
     "IRI-based": "cisite_106_activity"
+   },
+   "annotations": {
+    "http://www.w3.org/ns/prov#startedAtTime": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#startedAtTime",
+      "language": "undefined",
+      "value": "2025-05-14T23:38:03.638215+00:00",
+      "type": "label"
+     }
+    ],
+    "http://www.w3.org/ns/prov#endedAtTime": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#endedAtTime",
+      "language": "undefined",
+      "value": "2025-05-14T23:38:03.690295+00:00",
+      "type": "label"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/hasSource": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/hasSource",
+      "language": "undefined",
+      "value": "http://fuzzy-sl.squirrel.link/ontology/PaperDesc",
+      "type": "iri"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/hasSourceType": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/hasSourceType",
+      "language": "undefined",
+      "value": "http://fuzzy-sl.squirrel.link/ontology/Paper",
+      "type": "iri"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/hasReference": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/hasReference",
+      "language": "undefined",
+      "value": "Schenk et al. (2024)",
+      "type": "label"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/activityDesc": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/activityDesc",
+      "language": "undefined",
+      "value": "set a representative point based on scientific papers using Google Maps",
+      "type": "label"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/certaintyLevel": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/certaintyLevel",
+      "language": "undefined",
+      "value": "http://fuzzy-sl.squirrel.link/ontology/high",
+      "type": "iri"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/certaintyDesc": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/certaintyDesc",
+      "language": "undefined",
+      "value": "findspot mentioned in a scientific paper",
+      "type": "label"
+     }
+    ],
+    "http://www.w3.org/ns/prov#used": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#used",
+      "language": "undefined",
+      "value": "http://fuzzy-sl.squirrel.link/data/cisite_201",
+      "type": "iri"
+     }
+    ],
+    "http://www.w3.org/ns/prov#wasAssociatedWith": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#wasAssociatedWith",
+      "language": "undefined",
+      "value": "http://orcid.org/0009-0008-2877-3204",
+      "type": "iri"
+     }
+    ]
+   },
+   "range": [],
+   "domain": [],
+   "subProperties": [],
+   "superProperties": []
+  },
+  {
+   "id": 519,
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_201_activity",
+   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
+   "instances": 0,
+   "label": {
+    "IRI-based": "cisite_201_activity"
+   },
+   "annotations": {
+    "http://www.w3.org/ns/prov#startedAtTime": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#startedAtTime",
+      "language": "undefined",
+      "value": "2025-05-14T23:38:03.638215+00:00",
+      "type": "label"
+     }
+    ],
+    "http://www.w3.org/ns/prov#endedAtTime": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#endedAtTime",
+      "language": "undefined",
+      "value": "2025-05-14T23:38:03.690295+00:00",
+      "type": "label"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/hasSource": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/hasSource",
+      "language": "undefined",
+      "value": "http://fuzzy-sl.squirrel.link/ontology/PaperDesc",
+      "type": "iri"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/hasSourceType": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/hasSourceType",
+      "language": "undefined",
+      "value": "http://fuzzy-sl.squirrel.link/ontology/Paper",
+      "type": "iri"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/hasReference": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/hasReference",
+      "language": "undefined",
+      "value": "Schenk et al. (2024)",
+      "type": "label"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/activityDesc": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/activityDesc",
+      "language": "undefined",
+      "value": "set a representative point based on scientific papers using Google Maps",
+      "type": "label"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/certaintyLevel": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/certaintyLevel",
+      "language": "undefined",
+      "value": "http://fuzzy-sl.squirrel.link/ontology/high",
+      "type": "iri"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/certaintyDesc": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/certaintyDesc",
+      "language": "undefined",
+      "value": "findspot mentioned in a scientific paper",
+      "type": "label"
+     }
+    ],
+    "http://www.w3.org/ns/prov#used": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#used",
+      "language": "undefined",
+      "value": "http://fuzzy-sl.squirrel.link/data/cisite_202",
+      "type": "iri"
+     }
+    ],
+    "http://www.w3.org/ns/prov#wasAssociatedWith": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#wasAssociatedWith",
+      "language": "undefined",
+      "value": "http://orcid.org/0009-0008-2877-3204",
+      "type": "iri"
+     }
+    ]
+   },
+   "range": [],
+   "domain": [],
+   "subProperties": [],
+   "superProperties": []
+  },
+  {
+   "id": 520,
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_202_activity",
+   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
+   "instances": 0,
+   "label": {
+    "IRI-based": "cisite_202_activity"
+   },
+   "annotations": {
+    "http://www.w3.org/ns/prov#startedAtTime": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#startedAtTime",
+      "language": "undefined",
+      "value": "2025-05-14T23:38:03.638215+00:00",
+      "type": "label"
+     }
+    ],
+    "http://www.w3.org/ns/prov#endedAtTime": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#endedAtTime",
+      "language": "undefined",
+      "value": "2025-05-14T23:38:03.690295+00:00",
+      "type": "label"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/hasSource": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/hasSource",
+      "language": "undefined",
+      "value": "http://fuzzy-sl.squirrel.link/ontology/PaperDesc",
+      "type": "iri"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/hasSourceType": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/hasSourceType",
+      "language": "undefined",
+      "value": "http://fuzzy-sl.squirrel.link/ontology/Paper",
+      "type": "iri"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/hasReference": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/hasReference",
+      "language": "undefined",
+      "value": "Schenk et al. (2024)",
+      "type": "label"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/activityDesc": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/activityDesc",
+      "language": "undefined",
+      "value": "set a representative point based on scientific papers using Google Maps",
+      "type": "label"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/certaintyLevel": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/certaintyLevel",
+      "language": "undefined",
+      "value": "http://fuzzy-sl.squirrel.link/ontology/high",
+      "type": "iri"
+     }
+    ],
+    "http://fuzzy-sl.squirrel.link/ontology/certaintyDesc": [
+     {
+      "identifier": "http://fuzzy-sl.squirrel.link/ontology/certaintyDesc",
+      "language": "undefined",
+      "value": "findspot mentioned in a scientific paper",
+      "type": "label"
+     }
+    ],
+    "http://www.w3.org/ns/prov#used": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#used",
+      "language": "undefined",
+      "value": "http://fuzzy-sl.squirrel.link/data/cisite_203",
+      "type": "iri"
+     }
+    ],
+    "http://www.w3.org/ns/prov#wasAssociatedWith": [
+     {
+      "identifier": "http://www.w3.org/ns/prov#wasAssociatedWith",
+      "language": "undefined",
+      "value": "http://orcid.org/0009-0008-2877-3204",
+      "type": "iri"
+     }
+    ]
+   },
+   "range": [],
+   "domain": [],
+   "subProperties": [],
+   "superProperties": []
+  },
+  {
+   "id": 521,
+   "iri": "http://fuzzy-sl.squirrel.link/data/cisite_203_activity",
+   "baseIRI": "http://fuzzy-sl.squirrel.link/data",
+   "instances": 0,
+   "label": {
+    "IRI-based": "cisite_203_activity"
    },
    "annotations": {},
    "range": [],

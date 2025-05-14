@@ -1,9 +1,12 @@
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix ns1: <http://www.w3.org/ns/pim/space#> .
-@prefix ns2: <http://www.w3.org/ns/solid/terms#> .
+@prefix ns1: <http://www.w3.org/ns/solid/terms#> .
+@prefix ns2: <http://www.w3.org/ns/pim/space#> .
 
 <docs//profile/card> a foaf:PersonalProfileDocument ;
     foaf:primaryTopic <https://Research-Squirrel-Engineers.github.io/campanian-ignimbrite-geo//profile/card#> .
 
 <https://Research-Squirrel-Engineers.github.io/campanian-ignimbrite-geo//profile/card#> a foaf:Person ;
-    ns1:storage 
+    ns2:storage <https://Research-Squirrel-Engineers.github.io/campanian-ignimbrite-geo/CI_FSL> ;
+    ns1:privateTypeIndex <https://Research-Squirrel-Engineers.github.io/campanian-ignimbrite-geo//settings/privateTypeIndex.ttl> ;
+    ns1:publicTypeIndex <https://Research-Squirrel-Engineers.github.io/campanian-ignimbrite-geo//settings/publicTypeIndex.ttl> .
+

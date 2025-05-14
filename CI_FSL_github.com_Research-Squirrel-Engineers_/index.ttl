@@ -10,5 +10,5 @@
     void:linkPredicate prov:wasDerivedFrom ;
     void:objectsTarget <https://github.com/Research-Squirrel-Engineers/> ;
     void:subjectsTarget <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
-    void:triples 71 .
+    void:triples 74 .
 

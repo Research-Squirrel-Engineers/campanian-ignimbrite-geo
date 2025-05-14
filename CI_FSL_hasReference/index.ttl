@@ -7,5 +7,5 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: hasReference"@en ;
     void:property <http://fuzzy-sl.squirrel.link/ontology/hasReference> ;
-    void:triples 194 .
+    void:triples 200 .
 

@@ -40,13 +40,13 @@
     ns1:averageSubjectIRILength 49 ;
     ns1:datatypes 2 ;
     ns1:distinctBlankNodes 0 ;
-    ns1:distinctIRIReferences 968 ;
-    ns1:distinctLiterals 241 ;
-    ns1:distinctRDFNodes 1209 ;
+    ns1:distinctIRIReferences 974 ;
+    ns1:distinctLiterals 220 ;
+    ns1:distinctRDFNodes 1194 ;
     ns1:languages 1 ;
     ns1:propertyClasses 0 ;
     dc:language <http://www.lexvo.org/page/iso639-1/en> ;
-    dcterms:modified "2024-05-01T19:41:33"^^xsd:dateTime ;
+    dcterms:modified "2025-05-14T21:38:31"^^xsd:dateTime ;
     dcterms:subject <http://dbpedia.org/resource/Location>,
         <http://dbpedia.org/resource/OGC_GeoSPARQL>,
         <http://dbpedia.org/resource/Time>,
@@ -70,9 +70,9 @@
         <http://fuzzy-sl.squirrel.link/data/CI_FSL_SpatialObjectCollection> ;
     void:classes 13 ;
     void:dataDump <https://Research-Squirrel-Engineers.github.io/campanian-ignimbrite-geo//index.ttl> ;
-    void:distinctObjects 639 ;
-    void:distinctSubjects 298 ;
-    void:entities 295 ;
+    void:distinctObjects 633 ;
+    void:distinctSubjects 310 ;
+    void:entities 307 ;
     void:feature <http://www.w3.org/ns/formats/RDFa>,
         <http://www.w3.org/ns/formats/Turtle> ;
     void:properties 31 ;
@@ -107,7 +107,7 @@
         <http://fuzzy-sl.squirrel.link/data/CI_FSL_wasAttributedTo>,
         <http://fuzzy-sl.squirrel.link/data/CI_FSL_wasDerivedFrom>,
         <http://fuzzy-sl.squirrel.link/data/CI_FSL_wasGeneratedBy> ;
-    void:triples 4098 ;
+    void:triples 4266 ;
     void:uriSpace "http://fuzzy-sl.squirrel.link/data/"^^xsd:string ;
     void:vocabulary ns1:,
         dcam:,

@@ -16,8 +16,8 @@
         rdf:type ;
     void:objectsTarget <http://fuzzy-sl.squirrel.link/ontology/> ;
     void:subjectsTarget <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
-    void:triples 71,
-        77,
-        142,
-        213 .
+    void:triples 74,
+        80,
+        148,
+        222 .
 

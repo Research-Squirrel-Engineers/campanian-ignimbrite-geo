@@ -86,8 +86,8 @@ var tree={
           "to": {
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
-              "http://rdfs.org/ns/void#Dataset": 1,
-              "http://www.w3.org/ns/adms#Asset": 1
+              "http://www.w3.org/ns/adms#Asset": 1,
+              "http://rdfs.org/ns/void#Dataset": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
               "instancecount": 2
@@ -607,10 +607,31 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://fuzzy-sl.squirrel.link/data/cisite_201_suniv0_",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
+        "type": "geoinstance",
+        "text": "Auel Maar AU3 (fsld:cisite_201)",
+        "data": {}
+      },
+      {
+        "id": "http://fuzzy-sl.squirrel.link/data/cisite_202_suniv0_",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
+        "type": "geoinstance",
+        "text": "Auel Maar AU4 (fsld:cisite_202)",
+        "data": {}
+      },
+      {
+        "id": "http://fuzzy-sl.squirrel.link/data/cisite_203_suniv0_",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Site",
+        "type": "geoinstance",
+        "text": "Dehner Maar DE3 (fsld:cisite_203)",
+        "data": {}
+      },
+      {
         "id": "http://fuzzy-sl.squirrel.link/ontology/Site",
         "parent": "#",
         "type": "geoclass",
-        "text": "Site (fsl:Site) [71]",
+        "text": "Site (fsl:Site) [74]",
         "data": {}
       },
       {
@@ -1111,10 +1132,31 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://fuzzy-sl.squirrel.link/data/cisite_201_suniv1_",
+        "parent": "http://www.w3.org/ns/prov#Entity",
+        "type": "geoinstance",
+        "text": "Auel Maar AU3 (fsld:cisite_201)",
+        "data": {}
+      },
+      {
+        "id": "http://fuzzy-sl.squirrel.link/data/cisite_202_suniv1_",
+        "parent": "http://www.w3.org/ns/prov#Entity",
+        "type": "geoinstance",
+        "text": "Auel Maar AU4 (fsld:cisite_202)",
+        "data": {}
+      },
+      {
+        "id": "http://fuzzy-sl.squirrel.link/data/cisite_203_suniv1_",
+        "parent": "http://www.w3.org/ns/prov#Entity",
+        "type": "geoinstance",
+        "text": "Dehner Maar DE3 (fsld:cisite_203)",
+        "data": {}
+      },
+      {
         "id": "http://www.w3.org/ns/prov#Entity",
         "parent": "#",
         "type": "geoclass",
-        "text": "Entity (prov:Entity) [71]",
+        "text": "Entity (prov:Entity) [74]",
         "data": {}
       },
       {
@@ -1615,10 +1657,31 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://fuzzy-sl.squirrel.link/data/cisite_201_suniv2_",
+        "parent": "https://pleiades.stoa.org/places/vocab#Place",
+        "type": "geoinstance",
+        "text": "Auel Maar AU3 (fsld:cisite_201)",
+        "data": {}
+      },
+      {
+        "id": "http://fuzzy-sl.squirrel.link/data/cisite_202_suniv2_",
+        "parent": "https://pleiades.stoa.org/places/vocab#Place",
+        "type": "geoinstance",
+        "text": "Auel Maar AU4 (fsld:cisite_202)",
+        "data": {}
+      },
+      {
+        "id": "http://fuzzy-sl.squirrel.link/data/cisite_203_suniv2_",
+        "parent": "https://pleiades.stoa.org/places/vocab#Place",
+        "type": "geoinstance",
+        "text": "Dehner Maar DE3 (fsld:cisite_203)",
+        "data": {}
+      },
+      {
         "id": "https://pleiades.stoa.org/places/vocab#Place",
         "parent": "#",
         "type": "geoclass",
-        "text": "Place (pleiades:Place) [71]",
+        "text": "Place (pleiades:Place) [74]",
         "data": {
           "to": {
             "http://fuzzy-sl.squirrel.link/ontology/certaintyDesc": {
@@ -1636,8 +1699,11 @@ var tree={
             "http://fuzzy-sl.squirrel.link/ontology/siteType": {
               "instancecount": 1
             },
+            "http://fuzzy-sl.squirrel.link/ontology/spatialCloseMatch": {
+              "instancecount": 1
+            },
             "http://fuzzy-sl.squirrel.link/ontology/spatialType": {
-              "instancecount": 2
+              "instancecount": 1
             },
             "http://purl.org/dc/terms/creator": {
               "instancecount": 2
@@ -1650,8 +1716,8 @@ var tree={
             },
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
-              "http://rdfs.org/ns/void#Dataset": 1,
-              "http://www.w3.org/ns/adms#Asset": 1
+              "http://www.w3.org/ns/adms#Asset": 1,
+              "http://rdfs.org/ns/void#Dataset": 1
             },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
               "instancecount": 1,
@@ -1665,9 +1731,6 @@ var tree={
             },
             "http://www.w3.org/2000/01/rdf-schema#label": {
               "instancecount": 1
-            },
-            "http://www.w3.org/2004/02/skos/core#closeMatch": {
-              "instancecount": 2
             },
             "http://www.w3.org/2004/02/skos/core#prefLabel": {
               "instancecount": 1
@@ -1700,7 +1763,7 @@ var tree={
             }
           }
         },
-        "instancecount": 28
+        "instancecount": 26
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/cisite_1_geom",
@@ -2200,10 +2263,31 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://fuzzy-sl.squirrel.link/data/cisite_201_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "cisite_201_geom (fsld:cisite_201_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://fuzzy-sl.squirrel.link/data/cisite_202_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "cisite_202_geom (fsld:cisite_202_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://fuzzy-sl.squirrel.link/data/cisite_203_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "cisite_203_geom (fsld:cisite_203_geom)",
+        "data": {}
+      },
+      {
         "id": "http://www.opengis.net/ont/sf#Point",
         "parent": "#",
         "type": "geoclass",
-        "text": "Point (sf:Point) [71]",
+        "text": "Point (sf:Point) [74]",
         "data": {
           "to": {
             "http://fuzzy-sl.squirrel.link/ontology/certaintyDesc": {
@@ -2214,8 +2298,8 @@ var tree={
             },
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
-              "http://rdfs.org/ns/void#Dataset": 1,
-              "http://www.w3.org/ns/adms#Asset": 1
+              "http://www.w3.org/ns/adms#Asset": 1,
+              "http://rdfs.org/ns/void#Dataset": 1
             },
             "http://www.opengis.net/ont/geosparql#asWKT": {
               "instancecount": 1
@@ -3234,16 +3318,58 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://fuzzy-sl.squirrel.link/data/cisite_201_activity_suniv0_",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "cisite_201_activity (fsld:cisite_201_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://fuzzy-sl.squirrel.link/data/cisite_201_pyscript",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "cisite_201_pyscript (fsld:cisite_201_pyscript)",
+        "data": {}
+      },
+      {
+        "id": "http://fuzzy-sl.squirrel.link/data/cisite_202_activity_suniv0_",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "cisite_202_activity (fsld:cisite_202_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://fuzzy-sl.squirrel.link/data/cisite_202_pyscript",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "cisite_202_pyscript (fsld:cisite_202_pyscript)",
+        "data": {}
+      },
+      {
+        "id": "http://fuzzy-sl.squirrel.link/data/cisite_203_activity_suniv0_",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "cisite_203_activity (fsld:cisite_203_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://fuzzy-sl.squirrel.link/data/cisite_203_pyscript",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "cisite_203_pyscript (fsld:cisite_203_pyscript)",
+        "data": {}
+      },
+      {
         "id": "http://www.w3.org/ns/prov#Activity",
         "parent": "#",
         "type": "class",
-        "text": "Activity (prov:Activity) [142]",
+        "text": "Activity (prov:Activity) [148]",
         "data": {
           "to": {
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
-              "http://rdfs.org/ns/void#Dataset": 1,
-              "http://www.w3.org/ns/adms#Asset": 1
+              "http://www.w3.org/ns/adms#Asset": 1,
+              "http://rdfs.org/ns/void#Dataset": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
               "instancecount": 1
@@ -3771,10 +3897,31 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://fuzzy-sl.squirrel.link/data/cisite_201_activity_suniv1_",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
+        "type": "instance",
+        "text": "cisite_201_activity (fsld:cisite_201_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://fuzzy-sl.squirrel.link/data/cisite_202_activity_suniv1_",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
+        "type": "instance",
+        "text": "cisite_202_activity (fsld:cisite_202_activity)",
+        "data": {}
+      },
+      {
+        "id": "http://fuzzy-sl.squirrel.link/data/cisite_203_activity_suniv1_",
+        "parent": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
+        "type": "instance",
+        "text": "cisite_203_activity (fsld:cisite_203_activity)",
+        "data": {}
+      },
+      {
         "id": "http://fuzzy-sl.squirrel.link/ontology/Georeferencing",
         "parent": "#",
         "type": "class",
-        "text": "Georeferencing (fsl:Georeferencing) [71]",
+        "text": "Georeferencing (fsl:Georeferencing) [74]",
         "data": {
           "to": {
             "http://fuzzy-sl.squirrel.link/ontology/activityDesc": {
@@ -3797,8 +3944,8 @@ var tree={
             },
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
-              "http://rdfs.org/ns/void#Dataset": 1,
-              "http://www.w3.org/ns/adms#Asset": 1
+              "http://www.w3.org/ns/adms#Asset": 1,
+              "http://rdfs.org/ns/void#Dataset": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
               "instancecount": 2
@@ -3850,8 +3997,8 @@ var tree={
           "to": {
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
-              "http://rdfs.org/ns/void#Dataset": 1,
-              "http://www.w3.org/ns/adms#Asset": 1
+              "http://www.w3.org/ns/adms#Asset": 1,
+              "http://rdfs.org/ns/void#Dataset": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
               "instancecount": 1
@@ -3878,8 +4025,8 @@ var tree={
           "to": {
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
-              "http://rdfs.org/ns/void#Dataset": 1,
-              "http://www.w3.org/ns/adms#Asset": 1
+              "http://www.w3.org/ns/adms#Asset": 1,
+              "http://rdfs.org/ns/void#Dataset": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
               "instancecount": 1
@@ -3888,14 +4035,14 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 71,
-              "http://www.w3.org/ns/prov#Activity": 71,
-              "http://fuzzy-sl.squirrel.link/ontology/Georeferencing": 71
+              "instancecount": 148,
+              "http://www.w3.org/ns/prov#Activity": 148,
+              "http://fuzzy-sl.squirrel.link/ontology/Georeferencing": 74
             }
           },
           "from": {}
         },
-        "instancecount": 75
+        "instancecount": 152
       },
       {
         "id": "http://fuzzy-sl.squirrel.link/data/Agent_collection",
@@ -3948,8 +4095,8 @@ var tree={
           "to": {
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
-              "http://rdfs.org/ns/void#Dataset": 1,
-              "http://www.w3.org/ns/adms#Asset": 1
+              "http://www.w3.org/ns/adms#Asset": 1,
+              "http://rdfs.org/ns/void#Dataset": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
               "instancecount": 1
@@ -3958,15 +4105,15 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 71,
-              "http://fuzzy-sl.squirrel.link/ontology/Site": 71,
-              "http://www.w3.org/ns/prov#Entity": 71,
-              "https://pleiades.stoa.org/places/vocab#Place": 71
+              "instancecount": 74,
+              "http://fuzzy-sl.squirrel.link/ontology/Site": 74,
+              "http://www.w3.org/ns/prov#Entity": 74,
+              "https://pleiades.stoa.org/places/vocab#Place": 74
             }
           },
           "from": {}
         },
-        "instancecount": 75
+        "instancecount": 78
       },
       {
         "id": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
@@ -3991,8 +4138,8 @@ var tree={
           "to": {
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
-              "http://rdfs.org/ns/void#Dataset": 1,
-              "http://www.w3.org/ns/adms#Asset": 1
+              "http://www.w3.org/ns/adms#Asset": 1,
+              "http://rdfs.org/ns/void#Dataset": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
               "instancecount": 1
@@ -4001,13 +4148,13 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 71,
-              "http://www.opengis.net/ont/sf#Point": 71
+              "instancecount": 74,
+              "http://www.opengis.net/ont/sf#Point": 74
             }
           },
           "from": {}
         },
-        "instancecount": 75
+        "instancecount": 78
       }
     ]
   },

@@ -10,5 +10,5 @@
     void:linkPredicate dcterms:license ;
     void:objectsTarget <https://creativecommons.org/licenses/by/4.0/> ;
     void:subjectsTarget <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
-    void:triples 71 .
+    void:triples 74 .
 

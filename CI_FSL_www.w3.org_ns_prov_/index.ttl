@@ -11,5 +11,5 @@
     void:linkPredicate rdf:type ;
     void:objectsTarget prov: ;
     void:subjectsTarget <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
-    void:triples 215 .
+    void:triples 224 .
 

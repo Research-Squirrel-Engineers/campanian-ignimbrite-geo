@@ -7,5 +7,5 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Property Partition: hasSource"@en ;
     void:property <http://fuzzy-sl.squirrel.link/ontology/hasSource> ;
-    void:triples 71 .
+    void:triples 74 .
 

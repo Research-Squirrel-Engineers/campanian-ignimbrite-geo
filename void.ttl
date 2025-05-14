@@ -36,7 +36,7 @@
     void:linkPredicate dcterms:license ;
     void:objectsTarget <https://creativecommons.org/licenses/by/4.0/> ;
     void:subjectsTarget <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
-    void:triples 71 .
+    void:triples 74 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_en.wikipedia.org_wiki_> a void:Linkset ;
     rdfs:label "Linkset: CI_FSL - wiki"@en ;
@@ -56,17 +56,17 @@
         rdf:type ;
     void:objectsTarget <http://fuzzy-sl.squirrel.link/ontology/> ;
     void:subjectsTarget <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
-    void:triples 71,
-        77,
-        142,
-        213 .
+    void:triples 74,
+        80,
+        148,
+        222 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_github.com_Research-Squirrel-Engineers_> a void:Linkset ;
     rdfs:label "Linkset: CI_FSL - Research-Squirrel-Engineers"@en ;
     void:linkPredicate prov:wasDerivedFrom ;
     void:objectsTarget <https://github.com/Research-Squirrel-Engineers/> ;
     void:subjectsTarget <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
-    void:triples 71 .
+    void:triples 74 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_github.com_Research-Squirrel-Engineers_campanian-ignimbrite-geo_blob_main_py_> a void:Linkset ;
     rdfs:label "Linkset: CI_FSL - py"@en ;
@@ -74,7 +74,7 @@
         prov:wasAttributedTo ;
     void:objectsTarget <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/> ;
     void:subjectsTarget <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
-    void:triples 71 .
+    void:triples 74 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_openstreetmap.org_node_> a void:Linkset ;
     rdfs:label "Linkset: CI_FSL - node"@en ;
@@ -114,15 +114,15 @@
         <https://orcid.org/> ;
     void:subjectsTarget <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
     void:triples 2,
-        71,
-        142 .
+        74,
+        148 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_pleiades.stoa.org_places_vocab_> a void:Linkset ;
     rdfs:label "Linkset: CI_FSL - pleiades:"@en ;
     void:linkPredicate rdf:type ;
     void:objectsTarget <https://pleiades.stoa.org/places/vocab#> ;
     void:subjectsTarget <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
-    void:triples 71 .
+    void:triples 74 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_sws.geonames.org_> a void:Linkset ;
     rdfs:label "Linkset: CI_FSL - gns:"@en,
@@ -151,7 +151,7 @@
     void:triples 1,
         2,
         3,
-        34 .
+        37 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_www.opengis.net_ont_geosparql_> a void:Linkset ;
     rdfs:label "Linkset: CI_FSL - The GeoSPARQL Ontology (gsp:)"@en ;
@@ -165,7 +165,7 @@
     void:linkPredicate rdf:type ;
     void:objectsTarget <http://www.opengis.net/ont/sf#> ;
     void:subjectsTarget <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
-    void:triples 71 .
+    void:triples 74 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_www.openstreetmap.org_node_> a void:Linkset ;
     rdfs:label "Linkset: CI_FSL - node"@en ;
@@ -204,7 +204,7 @@
     void:linkPredicate rdf:type ;
     void:objectsTarget prov: ;
     void:subjectsTarget <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
-    void:triples 215 .
+    void:triples 224 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_xmlns.com_foaf_0.1_> a void:Linkset ;
     rdfs:label "Linkset: CI_FSL - Friend Of A Friend Ontology (foaf:)"@en ;
@@ -278,7 +278,7 @@
 <http://fuzzy-sl.squirrel.link/data/prov_CI_FSL_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/prov# in CI_FSL" ;
     voaf:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
-    voaf:occurrences 430 .
+    voaf:occurrences 448 .
 
 <http://fuzzy-sl.squirrel.link/data/qb_CI_FSL_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://purl.org/linked-data/cube# in CI_FSL" ;
@@ -359,7 +359,7 @@
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_Activity> a void:Dataset ;
     rdfs:label "Class Partition: Activity"@en ;
     void:class prov:Activity ;
-    void:entities 142 .
+    void:entities 148 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_Agent> a void:Dataset ;
     rdfs:label "Class Partition: Agent"@en ;
@@ -374,7 +374,7 @@
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_Entity> a void:Dataset ;
     rdfs:label "Class Partition: Entity"@en ;
     void:class prov:Entity ;
-    void:entities 71 .
+    void:entities 74 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_FeatureCollection> a void:Dataset ;
     rdfs:label "Class Partition: FeatureCollection"@en ;
@@ -389,7 +389,7 @@
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_Georeferencing> a void:Dataset ;
     rdfs:label "Class Partition: Georeferencing"@en ;
     void:class <http://fuzzy-sl.squirrel.link/ontology/Georeferencing> ;
-    void:entities 71 .
+    void:entities 74 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_Group> a void:Dataset ;
     rdfs:label "Class Partition: Group"@en ;
@@ -404,17 +404,17 @@
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_Place> a void:Dataset ;
     rdfs:label "Class Partition: Place"@en ;
     void:class <https://pleiades.stoa.org/places/vocab#Place> ;
-    void:entities 71 .
+    void:entities 74 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_Point> a void:Dataset ;
     rdfs:label "Class Partition: Point"@en ;
     void:class <http://www.opengis.net/ont/sf#Point> ;
-    void:entities 71 .
+    void:entities 74 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_Site> a void:Dataset ;
     rdfs:label "Class Partition: Site"@en ;
     void:class <http://fuzzy-sl.squirrel.link/ontology/Site> ;
-    void:entities 71 .
+    void:entities 74 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_SpatialObjectCollection> a void:Dataset ;
     rdfs:label "Class Partition: SpatialObjectCollection"@en ;
@@ -423,37 +423,37 @@
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_activityDesc> a void:Dataset ;
     rdfs:label "Property Partition: activityDesc"@en ;
     void:property <http://fuzzy-sl.squirrel.link/ontology/activityDesc> ;
-    void:triples 71 .
+    void:triples 74 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_asWKT> a void:Dataset ;
     rdfs:label "Property Partition: asWKT"@en ;
     void:property geo:asWKT ;
-    void:triples 71 .
+    void:triples 74 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_certaintyDesc> a void:Dataset ;
     rdfs:label "Property Partition: certaintyDesc"@en ;
     void:property <http://fuzzy-sl.squirrel.link/ontology/certaintyDesc> ;
-    void:triples 213 .
+    void:triples 222 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_certaintyLevel> a void:Dataset ;
     rdfs:label "Property Partition: certaintyLevel"@en ;
     void:property <http://fuzzy-sl.squirrel.link/ontology/certaintyLevel> ;
-    void:triples 213 .
+    void:triples 222 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_closeMatch> a void:Dataset ;
     rdfs:label "Property Partition: closeMatch"@en ;
     void:property skos:closeMatch ;
-    void:triples 69 .
+    void:triples 72 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_comment> a void:Dataset ;
     rdfs:label "Property Partition: comment"@en ;
     void:property rdfs:comment ;
-    void:triples 71 .
+    void:triples 74 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_creator> a void:Dataset ;
     rdfs:label "Property Partition: creator"@en ;
     void:property dcterms:creator ;
-    void:triples 142 .
+    void:triples 148 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_dist_ttl> a adms:AssetDistribution ;
     rdfs:label "CI_FSL TTL Distribution"@en ;
@@ -468,7 +468,7 @@
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_endedAtTime> a void:Dataset ;
     rdfs:label "Property Partition: endedAtTime"@en ;
     void:property prov:endedAtTime ;
-    void:triples 142 .
+    void:triples 148 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_exactMatch> a void:Dataset ;
     rdfs:label "Property Partition: exactMatch"@en ;
@@ -478,37 +478,37 @@
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_hasGeometry> a void:Dataset ;
     rdfs:label "Property Partition: hasGeometry"@en ;
     void:property geo:hasGeometry ;
-    void:triples 71 .
+    void:triples 74 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_hasReference> a void:Dataset ;
     rdfs:label "Property Partition: hasReference"@en ;
     void:property <http://fuzzy-sl.squirrel.link/ontology/hasReference> ;
-    void:triples 194 .
+    void:triples 200 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_hasSource> a void:Dataset ;
     rdfs:label "Property Partition: hasSource"@en ;
     void:property <http://fuzzy-sl.squirrel.link/ontology/hasSource> ;
-    void:triples 71 .
+    void:triples 74 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_hasSourceType> a void:Dataset ;
     rdfs:label "Property Partition: hasSourceType"@en ;
     void:property <http://fuzzy-sl.squirrel.link/ontology/hasSourceType> ;
-    void:triples 71 .
+    void:triples 74 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_label> a void:Dataset ;
     rdfs:label "Property Partition: label"@en ;
     void:property rdfs:label ;
-    void:triples 71 .
+    void:triples 74 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_license> a void:Dataset ;
     rdfs:label "Property Partition: license"@en ;
     void:property dcterms:license ;
-    void:triples 71 .
+    void:triples 74 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_partOf> a void:Dataset ;
     rdfs:label "Property Partition: partOf"@en ;
     void:property <http://fuzzy-sl.squirrel.link/ontology/partOf> ;
-    void:triples 71 .
+    void:triples 74 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_partlyMatch> a void:Dataset ;
     rdfs:label "Property Partition: partlyMatch"@en ;
@@ -518,22 +518,22 @@
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_prefLabel> a void:Dataset ;
     rdfs:label "Property Partition: prefLabel"@en ;
     void:property skos:prefLabel ;
-    void:triples 71 .
+    void:triples 74 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_rightsHolder> a void:Dataset ;
     rdfs:label "Property Partition: rightsHolder"@en ;
     void:property dcterms:rightsHolder ;
-    void:triples 142 .
+    void:triples 148 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_scopeNote> a void:Dataset ;
     rdfs:label "Property Partition: scopeNote"@en ;
     void:property skos:scopeNote ;
-    void:triples 71 .
+    void:triples 74 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_siteType> a void:Dataset ;
     rdfs:label "Property Partition: siteType"@en ;
     void:property <http://fuzzy-sl.squirrel.link/ontology/siteType> ;
-    void:triples 71 .
+    void:triples 74 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_spatialCloseMatch> a void:Dataset ;
     rdfs:label "Property Partition: spatialCloseMatch"@en ;
@@ -543,42 +543,42 @@
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_spatialType> a void:Dataset ;
     rdfs:label "Property Partition: spatialType"@en ;
     void:property <http://fuzzy-sl.squirrel.link/ontology/spatialType> ;
-    void:triples 77 .
+    void:triples 80 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_startedAtTime> a void:Dataset ;
     rdfs:label "Property Partition: startedAtTime"@en ;
     void:property prov:startedAtTime ;
-    void:triples 142 .
+    void:triples 148 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_type> a void:Dataset ;
     rdfs:label "Property Partition: type"@en ;
     void:property rdf:type ;
-    void:triples 501 .
+    void:triples 522 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_used> a void:Dataset ;
     rdfs:label "Property Partition: used"@en ;
     void:property prov:used ;
-    void:triples 71 .
+    void:triples 74 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_wasAssociatedWith> a void:Dataset ;
     rdfs:label "Property Partition: wasAssociatedWith"@en ;
     void:property prov:wasAssociatedWith ;
-    void:triples 142 .
+    void:triples 148 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_wasAttributedTo> a void:Dataset ;
     rdfs:label "Property Partition: wasAttributedTo"@en ;
     void:property prov:wasAttributedTo ;
-    void:triples 142 .
+    void:triples 148 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_wasDerivedFrom> a void:Dataset ;
     rdfs:label "Property Partition: wasDerivedFrom"@en ;
     void:property prov:wasDerivedFrom ;
-    void:triples 71 .
+    void:triples 74 .
 
 <http://fuzzy-sl.squirrel.link/data/CI_FSL_wasGeneratedBy> a void:Dataset ;
     rdfs:label "Property Partition: wasGeneratedBy"@en ;
     void:property prov:wasGeneratedBy ;
-    void:triples 142 .
+    void:triples 148 .
 
 vext: a voaf:Vocabulary ;
     rdfs:label "vext Vocabulary"@en ;
@@ -785,13 +785,13 @@ foaf:Person rdfs:label "Person"@en .
     vext:averageSubjectIRILength 49 ;
     vext:datatypes 2 ;
     vext:distinctBlankNodes 0 ;
-    vext:distinctIRIReferences 968 ;
-    vext:distinctLiterals 241 ;
-    vext:distinctRDFNodes 1209 ;
+    vext:distinctIRIReferences 974 ;
+    vext:distinctLiterals 220 ;
+    vext:distinctRDFNodes 1194 ;
     vext:languages 1 ;
     vext:propertyClasses 0 ;
     dc:language <http://www.lexvo.org/page/iso639-1/en> ;
-    dcterms:modified "2024-05-01T19:41:33"^^xsd:dateTime ;
+    dcterms:modified "2025-05-14T21:38:31"^^xsd:dateTime ;
     dcterms:subject <http://dbpedia.org/resource/Location>,
         <http://dbpedia.org/resource/OGC_GeoSPARQL>,
         <http://dbpedia.org/resource/Time>,
@@ -815,9 +815,9 @@ foaf:Person rdfs:label "Person"@en .
         <http://fuzzy-sl.squirrel.link/data/CI_FSL_SpatialObjectCollection> ;
     void:classes 13 ;
     void:dataDump <https://Research-Squirrel-Engineers.github.io/campanian-ignimbrite-geo//index.ttl> ;
-    void:distinctObjects 639 ;
-    void:distinctSubjects 298 ;
-    void:entities 295 ;
+    void:distinctObjects 633 ;
+    void:distinctSubjects 310 ;
+    void:entities 307 ;
     void:feature <http://www.w3.org/ns/formats/RDFa>,
         <http://www.w3.org/ns/formats/Turtle> ;
     void:properties 31 ;
@@ -852,7 +852,7 @@ foaf:Person rdfs:label "Person"@en .
         <http://fuzzy-sl.squirrel.link/data/CI_FSL_wasAttributedTo>,
         <http://fuzzy-sl.squirrel.link/data/CI_FSL_wasDerivedFrom>,
         <http://fuzzy-sl.squirrel.link/data/CI_FSL_wasGeneratedBy> ;
-    void:triples 4098 ;
+    void:triples 4266 ;
     void:uriSpace "http://fuzzy-sl.squirrel.link/data/"^^xsd:string ;
     void:vocabulary vext:,
         dcam:,

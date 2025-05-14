@@ -7,5 +7,5 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/prov# in CI_FSL" ;
     ns1:inDataset <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
-    ns1:occurrences 430 .
+    ns1:occurrences 448 .
 

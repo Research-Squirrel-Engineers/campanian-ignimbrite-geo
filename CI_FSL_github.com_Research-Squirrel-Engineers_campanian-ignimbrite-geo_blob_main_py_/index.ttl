@@ -11,5 +11,5 @@
         prov:wasAttributedTo ;
     void:objectsTarget <https://github.com/Research-Squirrel-Engineers/campanian-ignimbrite-geo/blob/main/py/> ;
     void:subjectsTarget <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
-    void:triples 71 .
+    void:triples 74 .
 

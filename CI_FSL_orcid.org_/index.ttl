@@ -19,6 +19,6 @@
         <https://orcid.org/> ;
     void:subjectsTarget <http://fuzzy-sl.squirrel.link/data/CI_FSL> ;
     void:triples 2,
-        71,
-        142 .
+        74,
+        148 .
 
